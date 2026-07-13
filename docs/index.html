@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>네이버 지도 순위 추적</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg:#0f1729; --card:#1b2540; --card2:#232f52; --line:#2e3b63;
+    --text:#e8edf7; --muted:#93a1c4; --brand:#03c75a; --brand-d:#02a94c;
+    --danger:#ff5b6e; --warn:#ffb020;
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:"Segoe UI","Malgun Gothic",sans-serif;
+    background:radial-gradient(1200px 600px at 20% -10%,#1a2b4d,transparent),var(--bg);
+    color:var(--text); min-height:100vh; }
+  header { display:flex; align-items:center; justify-content:space-between;
+    padding:20px 32px; border-bottom:1px solid var(--line);
+    position:sticky; top:0; background:rgba(15,23,41,.85); backdrop-filter:blur(8px); z-index:10; }
+  .brand { display:flex; align-items:center; gap:12px; }
+  .logo { width:34px; height:34px; border-radius:9px; background:var(--brand);
+    display:grid; place-items:center; font-weight:800; color:#06231a; }
+  h1 { font-size:18px; margin:0; }
+  .sub { font-size:12px; color:var(--muted); }
+  .container { max-width:1080px; margin:0 auto; padding:28px 24px 80px; }
+  .btn { border:none; border-radius:10px; padding:10px 16px; font-size:13.5px;
+    font-weight:600; cursor:pointer; color:#06231a; background:var(--brand); transition:.15s; }
+  .btn:hover { background:var(--brand-d); }
+  .btn.ghost { background:transparent; color:var(--text); border:1px solid var(--line); }
+  .btn.ghost:hover { border-color:var(--brand); }
+  .btn.sm { padding:6px 11px; font-size:12.5px; }
+  .btn.danger { background:transparent; color:var(--danger); border:1px solid #4a2733; }
+  .panel { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:20px; margin-bottom:20px; }
+  .panel h2 { font-size:14px; margin:0 0 14px; color:var(--muted); font-weight:600; }
+  .row { display:flex; gap:12px; flex-wrap:wrap; align-items:center; }
+  input[type=text] { background:var(--card2); border:1px solid var(--line); color:var(--text);
+    padding:10px 13px; border-radius:10px; font-size:14px; flex:1; min-width:180px; }
+  input[type=text]:focus { outline:none; border-color:var(--brand); }
+  .cards { display:grid; grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); gap:16px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:18px;
+    display:flex; flex-direction:column; gap:12px; }
+  .card .kw { font-size:12px; color:var(--muted); }
+  .card .name { font-size:17px; font-weight:700; }
+  .rankbox { display:flex; align-items:baseline; gap:8px; }
+  .rank-num { font-size:40px; font-weight:800; line-height:1; }
+  .rank-num.good { color:var(--brand); } .rank-num.mid { color:var(--warn); }
+  .rank-num.bad { color:var(--danger); } .rank-num.none { color:var(--muted); font-size:22px; }
+  .rank-unit { font-size:14px; color:var(--muted); }
+  .meta { font-size:12px; color:var(--muted); line-height:1.6; }
+  .card-actions { display:flex; gap:8px; margin-top:auto; flex-wrap:wrap; }
+  .empty { text-align:center; color:var(--muted); padding:50px 0; }
+  .badge { font-size:11px; padding:2px 8px; border-radius:999px; background:var(--card2); color:var(--muted); }
+  textarea { width:100%; background:#0c1424; border:1px solid var(--line); color:var(--text);
+    border-radius:10px; padding:12px; font-family:monospace; font-size:12.5px; min-height:120px; }
+  .hint { font-size:12.5px; color:var(--muted); line-height:1.7; }
+  a { color:var(--brand); }
+  .overlay { position:fixed; inset:0; background:rgba(3,7,18,.7); display:none; place-items:center; z-index:50; padding:20px; }
+  .overlay.show { display:grid; }
+  .modal { background:var(--card); border:1px solid var(--line); border-radius:18px; width:min(760px,100%); padding:24px; }
+  .modal-head { display:flex; justify-content:space-between; align-items:center; margin-bottom:6px; }
+  .close { background:none; border:none; color:var(--muted); font-size:24px; cursor:pointer; }
+  .toast { position:fixed; bottom:24px; left:50%; transform:translateX(-50%); background:var(--card2);
+    border:1px solid var(--line); padding:12px 20px; border-radius:12px; font-size:14px; opacity:0; transition:.3s; pointer-events:none; }
+  .toast.show { opacity:1; }
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">
+    <div class="logo">N</div>
+    <div>
+      <h1>네이버 지도 순위 추적</h1>
+      <div class="sub">매일 낮 12시 자동 기록 · GitHub Actions</div>
+    </div>
+  </div>
+  <div class="sub" id="lastUpdate">불러오는 중...</div>
+</header>
+
+<div class="container">
+  <div class="cards" id="cards"></div>
+  <div class="empty" id="emptyState" style="display:none;">
+    아직 수집된 순위가 없습니다.<br>아래 "매장 관리"에서 대상을 등록하고, 다음 자동 실행(낮 12시)을 기다리거나 GitHub에서 수동 실행하세요.
+  </div>
+
+  <div class="panel" style="margin-top:28px;">
+    <h2>매장 관리 (추적 대상 편집)</h2>
+    <p class="hint">
+      정적 사이트라 여기서 바로 저장되진 않습니다. 아래에서 목록을 만든 뒤
+      <b>[JSON 복사]</b> → GitHub의 <code>docs/data/targets.json</code> 파일에 붙여넣고 커밋하면 반영됩니다.
+    </p>
+    <div class="row" style="margin:12px 0;">
+      <input type="text" id="inKeyword" placeholder="검색 키워드 (예: 강남역 미용실)" />
+      <input type="text" id="inPlace" placeholder="내 매장명" />
+      <button class="btn" onclick="addRow()">목록에 추가</button>
+    </div>
+    <div id="editList" style="display:flex; flex-direction:column; gap:8px; margin-bottom:12px;"></div>
+    <textarea id="jsonOut" readonly></textarea>
+    <div class="row" style="margin-top:12px;">
+      <button class="btn" onclick="copyJson()">JSON 복사</button>
+      <a class="btn ghost" id="editLink" href="#" target="_blank" style="text-decoration:none; display:inline-flex; align-items:center;">GitHub에서 targets.json 열기</a>
+    </div>
+  </div>
+</div>
+
+<div class="overlay" id="overlay" onclick="if(event.target===this)closeModal()">
+  <div class="modal">
+    <div class="modal-head">
+      <div>
+        <div class="name" id="modalName" style="font-size:18px; font-weight:700;"></div>
+        <div class="sub" id="modalKw"></div>
+      </div>
+      <button class="close" onclick="closeModal()">&times;</button>
+    </div>
+    <canvas id="chart" height="130"></canvas>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+// ▼▼▼ 본인 저장소에 맞게 자동 감지 (github.io URL 에서 유추). 안 맞으면 수동으로 바꾸세요.
+let REPO = ""; // 예: "username/naver-rank-tracker"
+(function detectRepo(){
+  const host = location.hostname;      // username.github.io
+  const parts = location.pathname.split('/').filter(Boolean);
+  if (host.endsWith('github.io') && parts.length){
+    REPO = host.split('.')[0] + '/' + parts[0];
+  }
+  const link = document.getElementById('editLink');
+  link.href = REPO ? `https://github.com/${REPO}/edit/main/docs/data/targets.json`
+                   : 'https://github.com';
+})();
+
+let chart = null;
+let editRows = [];
+
+function toast(msg){ const t=document.getElementById('toast'); t.textContent=msg; t.classList.add('show'); setTimeout(()=>t.classList.remove('show'),2600); }
+function rankClass(r){ if(r==null) return 'none'; if(r<=3) return 'good'; if(r<=10) return 'mid'; return 'bad'; }
+function escapeHtml(s){ return (s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+function key(k,p){ return k+'||'+p; }
+
+async function load(){
+  let targets=[], rankings=[];
+  try { targets = await (await fetch('./data/targets.json?_='+Date.now())).json(); } catch(e){}
+  try { rankings = await (await fetch('./data/rankings.json?_='+Date.now())).json(); } catch(e){}
+
+  // 편집 목록 초기화
+  editRows = targets.map(t=>({keyword:t.keyword, place_name:t.place_name}));
+  renderEditList();
+
+  // 순위 기록을 (키워드+매장) 별로 그룹화
+  const groups = {};
+  for(const r of rankings){
+    const kk = key(r.keyword, r.place_name);
+    (groups[kk] = groups[kk] || []).push(r);
+  }
+
+  // 최신 시각 표시
+  let latestTime = '';
+  for(const r of rankings){ if(!latestTime || r.datetime > latestTime) latestTime = r.datetime; }
+  document.getElementById('lastUpdate').textContent = latestTime ? ('마지막 수집: '+latestTime) : '아직 수집 기록 없음';
+
+  const wrap = document.getElementById('cards');
+  const empty = document.getElementById('emptyState');
+  wrap.innerHTML='';
+
+  // 표시 대상: targets 우선, 기록만 있는 것도 포함
+  const shown = new Set();
+  const order = [];
+  targets.forEach(t=>{ order.push({keyword:t.keyword, place_name:t.place_name}); shown.add(key(t.keyword,t.place_name)); });
+  Object.keys(groups).forEach(kk=>{ if(!shown.has(kk)){ const g=groups[kk][0]; order.push({keyword:g.keyword, place_name:g.place_name}); } });
+
+  if(order.length===0){ empty.style.display='block'; return; }
+  empty.style.display='none';
+
+  for(const t of order){
+    const hist = (groups[key(t.keyword,t.place_name)]||[]);
+    const latest = hist.length ? hist[hist.length-1] : null;
+    const rank = latest ? latest.rank_with_ads : null;
+    const organic = latest ? latest.rank : null;
+    const card = document.createElement('div');
+    card.className='card';
+    card.innerHTML = `
+      <div>
+        <div class="kw">🔍 ${escapeHtml(t.keyword)}</div>
+        <div class="name">${escapeHtml(t.place_name)}</div>
+      </div>
+      <div class="rankbox">
+        ${rank!=null
+          ? `<span class="rank-num ${rankClass(rank)}">${rank}</span><span class="rank-unit">위 ${organic!=null?`(광고제외 ${organic}위)`:'(광고)'}</span>`
+          : `<span class="rank-num none">${latest?'미노출':'기록 없음'}</span>`}
+      </div>
+      <div class="meta">
+        마지막 확인: ${latest?escapeHtml(latest.datetime):'-'}<br>
+        ${latest&&latest.total_found!=null?`수집 매장 수: ${latest.total_found}개`:''}
+        ${latest&&latest.note?`<br><span style="color:var(--warn)">${escapeHtml(latest.note)}</span>`:''}
+      </div>
+      <div class="card-actions">
+        <button class="btn sm ghost" onclick='showChart(${JSON.stringify(t.keyword)}, ${JSON.stringify(t.place_name)})'>추이 보기</button>
+      </div>`;
+    wrap.appendChild(card);
+    card._hist = hist;
+  }
+  window._groups = groups;
+}
+
+function showChart(keyword, place_name){
+  const hist = (window._groups[key(keyword,place_name)]||[]);
+  document.getElementById('modalName').textContent = place_name;
+  document.getElementById('modalKw').textContent = '🔍 '+keyword;
+  document.getElementById('overlay').classList.add('show');
+  const labels = hist.map(r=>r.date);
+  const data = hist.map(r=>r.rank_with_ads);
+  const ctx = document.getElementById('chart').getContext('2d');
+  if(chart) chart.destroy();
+  chart = new Chart(ctx,{
+    type:'line',
+    data:{ labels, datasets:[{ label:'노출 순위 (낮을수록 좋음)', data,
+      borderColor:'#03c75a', backgroundColor:'rgba(3,199,90,.15)', tension:.25, fill:true, spanGaps:true,
+      pointRadius:4, pointBackgroundColor:'#03c75a' }]},
+    options:{ scales:{
+        y:{ reverse:true, ticks:{color:'#93a1c4',precision:0}, grid:{color:'#2e3b63'}, title:{display:true,text:'순위',color:'#93a1c4'} },
+        x:{ ticks:{color:'#93a1c4'}, grid:{color:'#1b2540'} } },
+      plugins:{ legend:{ labels:{color:'#e8edf7'} } } }
+  });
+}
+function closeModal(){ document.getElementById('overlay').classList.remove('show'); }
+document.addEventListener('keydown',e=>{ if(e.key==='Escape') closeModal(); });
+
+// ---- 매장 관리(편집) ----
+function renderEditList(){
+  const box = document.getElementById('editList');
+  box.innerHTML='';
+  editRows.forEach((r,i)=>{
+    const div=document.createElement('div');
+    div.className='row';
+    div.style.gap='8px';
+    div.innerHTML = `<span class="badge">${i+1}</span>
+      <span style="flex:1">🔍 ${escapeHtml(r.keyword)} — <b>${escapeHtml(r.place_name)}</b></span>
+      <button class="btn sm danger" onclick="removeRow(${i})">삭제</button>`;
+    box.appendChild(div);
+  });
+  document.getElementById('jsonOut').value = JSON.stringify(editRows, null, 2);
+}
+function addRow(){
+  const k=document.getElementById('inKeyword').value.trim();
+  const p=document.getElementById('inPlace').value.trim();
+  if(!k||!p){ toast('키워드와 매장명을 입력하세요.'); return; }
+  editRows.push({keyword:k, place_name:p});
+  document.getElementById('inKeyword').value='';
+  document.getElementById('inPlace').value='';
+  renderEditList();
+}
+function removeRow(i){ editRows.splice(i,1); renderEditList(); }
+function copyJson(){
+  navigator.clipboard.writeText(document.getElementById('jsonOut').value)
+    .then(()=>toast('JSON 복사됨! GitHub의 targets.json 에 붙여넣으세요.'))
+    .catch(()=>toast('복사 실패 - 직접 선택해 복사하세요.'));
+}
+
+load();
+</script>
+</body>
+</html>
