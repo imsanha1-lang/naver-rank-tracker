@@ -171,63 +171,69 @@ def _goto_next_page(driver, page_number):
     return False
 
 
-def find_rank(keyword, place_name, driver=None, headless=True, max_pages=MAX_PAGES):
-    own_driver = False
-    if driver is None:
-        driver = build_driver(headless=headless)
-        own_driver = True
+def collect_places(keyword, driver, max_pages=MAX_PAGES):
+    """키워드로 한 번 검색해 결과 목록 [(이름, 광고여부), ...] 을 순서대로 반환.
 
+    실패 시 예외를 그대로 올린다(호출부에서 처리).
+    """
     all_names = []
-    note = ""
+    url = "https://map.naver.com/p/search/" + urllib.parse.quote(keyword)
+    driver.get(url)
+    time.sleep(3)
+
+    WebDriverWait(driver, 20).until(
+        EC.presence_of_element_located((By.CSS_SELECTOR, "iframe#searchIframe"))
+    )
+    driver.switch_to.frame("searchIframe")
+    time.sleep(2)
     try:
-        url = "https://map.naver.com/p/search/" + urllib.parse.quote(keyword)
-        driver.get(url)
-        time.sleep(3)
-
-        WebDriverWait(driver, 20).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, "iframe#searchIframe"))
-        )
-        driver.switch_to.frame("searchIframe")
-        time.sleep(2)
-
         for page in range(1, max_pages + 1):
             all_names.extend(_collect_names_on_page(driver))
             if not _goto_next_page(driver, page + 1):
                 break
             time.sleep(1)
-
-        rank_with_ads = None
-        rank_organic = None
-        organic_pos = 0
-        for idx, (name, is_ad) in enumerate(all_names, start=1):
-            if not is_ad:
-                organic_pos += 1
-            if _match(name, place_name):
-                rank_with_ads = idx
-                rank_organic = None if is_ad else organic_pos
-                break
-
-        total_found = len(all_names)
-        if rank_with_ads is None:
-            note = f"검색결과 {total_found}개 중 미발견"
-        return {
-            "rank": rank_organic,
-            "rank_with_ads": rank_with_ads,
-            "total_found": total_found,
-            "note": note,
-        }
-    except Exception as e:
-        return {
-            "rank": None,
-            "rank_with_ads": None,
-            "total_found": len(all_names),
-            "note": f"오류: {e}",
-        }
     finally:
         try:
             driver.switch_to.default_content()
         except Exception:
             pass
+    return all_names
+
+
+def rank_of(all_names, place_name):
+    """수집된 목록에서 place_name 의 순위를 계산."""
+    rank_with_ads = None
+    rank_organic = None
+    organic_pos = 0
+    for idx, (name, is_ad) in enumerate(all_names, start=1):
+        if not is_ad:
+            organic_pos += 1
+        if _match(name, place_name):
+            rank_with_ads = idx
+            rank_organic = None if is_ad else organic_pos
+            break
+    total_found = len(all_names)
+    note = "" if rank_with_ads is not None else f"검색결과 {total_found}개 중 미발견"
+    return {
+        "rank": rank_organic,
+        "rank_with_ads": rank_with_ads,
+        "total_found": total_found,
+        "note": note,
+    }
+
+
+def find_rank(keyword, place_name, driver=None, headless=True, max_pages=MAX_PAGES):
+    """단건 조회(테스트용): 키워드 검색 후 한 매장의 순위 반환."""
+    own_driver = False
+    if driver is None:
+        driver = build_driver(headless=headless)
+        own_driver = True
+    try:
+        all_names = collect_places(keyword, driver, max_pages=max_pages)
+        return rank_of(all_names, place_name)
+    except Exception as e:
+        return {"rank": None, "rank_with_ads": None, "total_found": 0, "note": f"오류: {e}"}
+    finally:
         if own_driver:
             try:
                 driver.quit()

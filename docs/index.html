@@ -86,8 +86,9 @@
   <div class="panel" style="margin-top:28px;">
     <h2>매장 관리 (추적 대상 편집)</h2>
     <p class="hint">
-      정적 사이트라 여기서 바로 저장되진 않습니다. 아래에서 목록을 만든 뒤
+      정적 사이트라 여기서 바로 저장되진 않습니다. 아래에서 (키워드 + 매장명) 쌍을 추가한 뒤
       <b>[JSON 복사]</b> → GitHub의 <code>docs/data/targets.json</code> 파일에 붙여넣고 커밋하면 반영됩니다.
+      같은 매장에 여러 키워드를 넣으면 자동으로 묶이고, <b>같은 키워드는 하루 한 번만 검색</b>합니다.
     </p>
     <div class="row" style="margin:12px 0;">
       <input type="text" id="inKeyword" placeholder="검색 키워드 (예: 강남역 미용실)" />
@@ -140,13 +141,36 @@ function rankClass(r){ if(r==null) return 'none'; if(r<=3) return 'good'; if(r<=
 function escapeHtml(s){ return (s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
 function key(k,p){ return k+'||'+p; }
 
+// targets(묶음/단일 혼용) → [{keyword, place_name}] 쌍 목록으로 펼치기
+function expandTargets(targets){
+  const pairs = [];
+  (targets||[]).forEach(t=>{
+    const place = (t.place_name||'').trim();
+    if(!place) return;
+    let kws = t.keywords;
+    if(!kws || !kws.length){ if(t.keyword) kws = [t.keyword]; else kws = []; }
+    kws.forEach(k=>{ k=(k||'').trim(); if(k) pairs.push({keyword:k, place_name:place}); });
+  });
+  return pairs;
+}
+// 쌍 목록 → 매장별 묶음 형식으로 그룹화 (targets.json 저장용)
+function groupPairs(pairs){
+  const byPlace = {};
+  const order = [];
+  pairs.forEach(p=>{
+    if(!byPlace[p.place_name]){ byPlace[p.place_name] = {place_name:p.place_name, keywords:[]}; order.push(p.place_name); }
+    if(!byPlace[p.place_name].keywords.includes(p.keyword)) byPlace[p.place_name].keywords.push(p.keyword);
+  });
+  return order.map(pl=>byPlace[pl]);
+}
+
 async function load(){
   let targets=[], rankings=[];
   try { targets = await (await fetch('./data/targets.json?_='+Date.now())).json(); } catch(e){}
   try { rankings = await (await fetch('./data/rankings.json?_='+Date.now())).json(); } catch(e){}
 
-  // 편집 목록 초기화
-  editRows = targets.map(t=>({keyword:t.keyword, place_name:t.place_name}));
+  // 편집 목록 초기화 (묶음 형식을 쌍으로 펼침)
+  editRows = expandTargets(targets);
   renderEditList();
 
   // 순위 기록을 (키워드+매장) 별로 그룹화
@@ -168,7 +192,7 @@ async function load(){
   // 표시 대상: targets 우선, 기록만 있는 것도 포함
   const shown = new Set();
   const order = [];
-  targets.forEach(t=>{ order.push({keyword:t.keyword, place_name:t.place_name}); shown.add(key(t.keyword,t.place_name)); });
+  expandTargets(targets).forEach(p=>{ order.push(p); shown.add(key(p.keyword,p.place_name)); });
   Object.keys(groups).forEach(kk=>{ if(!shown.has(kk)){ const g=groups[kk][0]; order.push({keyword:g.keyword, place_name:g.place_name}); } });
 
   if(order.length===0){ empty.style.display='block'; return; }
@@ -241,7 +265,7 @@ function renderEditList(){
       <button class="btn sm danger" onclick="removeRow(${i})">삭제</button>`;
     box.appendChild(div);
   });
-  document.getElementById('jsonOut').value = JSON.stringify(editRows, null, 2);
+  document.getElementById('jsonOut').value = JSON.stringify(groupPairs(editRows), null, 2);
 }
 function addRow(){
   const k=document.getElementById('inKeyword').value.trim();
