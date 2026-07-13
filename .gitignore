@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+debug_*.html
+debug_*.py
+test_*.py

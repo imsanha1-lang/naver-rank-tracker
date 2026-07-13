@@ -15,16 +15,18 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
+# 매장명 후보 선택자. 네이버가 해시 클래스명을 바꿔도, 못 찾으면
+# 항목의 '첫 줄 텍스트'로 자동 폴백하므로 어느 정도 견딘다.
 NAME_SELECTORS = [
+    "span.O_Uah",        # 2026 기준 매장명
     "span.YwYLL",
     "span.place_bluelink",
-    "a.place_bluelink span",
     "span.TYaxT",
     "span.CMy2_",
 ]
+# 광고는 span.place_blind 의 텍스트가 '광고' (스크래퍼 내부에서 직접 처리)
 AD_SELECTORS = [
     "span.place_blind",
-    "span.gU6bV",
 ]
 MAX_PAGES = 5
 SCROLL_PAUSE = 0.6
@@ -80,6 +82,36 @@ def _match(name, target):
     return b in a or a in b
 
 
+# 한 페이지의 (이름, 광고여부) 목록을 브라우저 안에서 한 번에 추출하는 JS.
+# - 이름: span.O_Uah 우선, 없으면 항목의 첫 줄 텍스트(구조 변경에 강함)
+# - 광고: span.place_blind 의 textContent 가 '광고'
+_EXTRACT_JS = r"""
+const nameSel = arguments[0];
+const nodes = document.querySelectorAll('#_pcmap_list_scroll_container li, ul li');
+const out = [];
+const seen = new Set();
+nodes.forEach(li => {
+  let name = '';
+  for (const s of nameSel) {
+    const el = li.querySelector(s);
+    if (el && el.textContent.trim()) { name = el.textContent.trim(); break; }
+  }
+  if (!name) {
+    const t = (li.innerText || '').trim();
+    if (t) name = t.split('\n')[0].trim();
+  }
+  if (!name) return;
+  if (/^\d+$/.test(name) || name.length < 2) return;  // 페이지 번호 등 제외
+  let isAd = false;
+  li.querySelectorAll('span.place_blind').forEach(s => {
+    if (s.textContent.trim() === '광고') isAd = true;
+  });
+  out.push({ name: name, isAd: isAd });
+});
+return out;
+"""
+
+
 def _collect_names_on_page(driver):
     try:
         container = driver.find_element(By.CSS_SELECTOR, "#_pcmap_list_scroll_container")
@@ -88,12 +120,12 @@ def _collect_names_on_page(driver):
 
     last_count = -1
     stable = 0
-    for _ in range(30):
+    for _ in range(40):
         items = driver.find_elements(By.CSS_SELECTOR, "#_pcmap_list_scroll_container li, ul li")
         count = len(items)
         if count == last_count:
             stable += 1
-            if stable >= 2:
+            if stable >= 3:
                 break
         else:
             stable = 0
@@ -110,34 +142,11 @@ def _collect_names_on_page(driver):
                 pass
         time.sleep(SCROLL_PAUSE)
 
-    results = []
-    items = driver.find_elements(By.CSS_SELECTOR, "#_pcmap_list_scroll_container li, ul li")
-    for li in items:
-        name = None
-        for sel in NAME_SELECTORS:
-            try:
-                el = li.find_element(By.CSS_SELECTOR, sel)
-                txt = el.text.strip()
-                if txt:
-                    name = txt
-                    break
-            except Exception:
-                continue
-        if not name:
-            continue
-        is_ad = False
-        for sel in AD_SELECTORS:
-            try:
-                for el in li.find_elements(By.CSS_SELECTOR, sel):
-                    if el.text.strip() == "광고":
-                        is_ad = True
-                        break
-            except Exception:
-                continue
-            if is_ad:
-                break
-        results.append((name, is_ad))
-    return results
+    try:
+        rows = driver.execute_script(_EXTRACT_JS, NAME_SELECTORS)
+    except Exception:
+        rows = []
+    return [(r["name"], bool(r["isAd"])) for r in rows if r.get("name")]
 
 
 def _goto_next_page(driver, page_number):
