@@ -6,284 +6,296 @@
 <title>네이버 지도 순위 추적</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 <style>
-  :root {
-    --bg:#0f1729; --card:#1b2540; --card2:#232f52; --line:#2e3b63;
-    --text:#e8edf7; --muted:#93a1c4; --brand:#03c75a; --brand-d:#02a94c;
-    --danger:#ff5b6e; --warn:#ffb020;
+  :root{
+    --bg:#eef4ff; --card:#ffffff; --primary:#2563eb; --primary-d:#1d4ed8;
+    --primary-soft:#e8f0ff; --text:#0f172a; --muted:#64748b; --border:#dbe4f3;
+    --good:#16a34a; --warn:#d97706; --danger:#dc2626;
   }
-  * { box-sizing:border-box; }
-  body { margin:0; font-family:"Segoe UI","Malgun Gothic",sans-serif;
-    background:radial-gradient(1200px 600px at 20% -10%,#1a2b4d,transparent),var(--bg);
-    color:var(--text); min-height:100vh; }
-  header { display:flex; align-items:center; justify-content:space-between;
-    padding:20px 32px; border-bottom:1px solid var(--line);
-    position:sticky; top:0; background:rgba(15,23,41,.85); backdrop-filter:blur(8px); z-index:10; }
-  .brand { display:flex; align-items:center; gap:12px; }
-  .logo { width:34px; height:34px; border-radius:9px; background:var(--brand);
-    display:grid; place-items:center; font-weight:800; color:#06231a; }
-  h1 { font-size:18px; margin:0; }
-  .sub { font-size:12px; color:var(--muted); }
-  .container { max-width:1080px; margin:0 auto; padding:28px 24px 80px; }
-  .btn { border:none; border-radius:10px; padding:10px 16px; font-size:13.5px;
-    font-weight:600; cursor:pointer; color:#06231a; background:var(--brand); transition:.15s; }
-  .btn:hover { background:var(--brand-d); }
-  .btn.ghost { background:transparent; color:var(--text); border:1px solid var(--line); }
-  .btn.ghost:hover { border-color:var(--brand); }
-  .btn.sm { padding:6px 11px; font-size:12.5px; }
-  .btn.danger { background:transparent; color:var(--danger); border:1px solid #4a2733; }
-  .panel { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:20px; margin-bottom:20px; }
-  .panel h2 { font-size:14px; margin:0 0 14px; color:var(--muted); font-weight:600; }
-  .row { display:flex; gap:12px; flex-wrap:wrap; align-items:center; }
-  input[type=text] { background:var(--card2); border:1px solid var(--line); color:var(--text);
-    padding:10px 13px; border-radius:10px; font-size:14px; flex:1; min-width:180px; }
-  input[type=text]:focus { outline:none; border-color:var(--brand); }
-  .cards { display:grid; grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); gap:16px; }
-  .card { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:18px;
-    display:flex; flex-direction:column; gap:12px; }
-  .card .kw { font-size:12px; color:var(--muted); }
-  .card .name { font-size:17px; font-weight:700; }
-  .rankbox { display:flex; align-items:baseline; gap:8px; }
-  .rank-num { font-size:40px; font-weight:800; line-height:1; }
-  .rank-num.good { color:var(--brand); } .rank-num.mid { color:var(--warn); }
-  .rank-num.bad { color:var(--danger); } .rank-num.none { color:var(--muted); font-size:22px; }
-  .rank-unit { font-size:14px; color:var(--muted); }
-  .meta { font-size:12px; color:var(--muted); line-height:1.6; }
-  .card-actions { display:flex; gap:8px; margin-top:auto; flex-wrap:wrap; }
-  .empty { text-align:center; color:var(--muted); padding:50px 0; }
-  .badge { font-size:11px; padding:2px 8px; border-radius:999px; background:var(--card2); color:var(--muted); }
-  textarea { width:100%; background:#0c1424; border:1px solid var(--line); color:var(--text);
-    border-radius:10px; padding:12px; font-family:monospace; font-size:12.5px; min-height:120px; }
-  .hint { font-size:12.5px; color:var(--muted); line-height:1.7; }
-  a { color:var(--brand); }
-  .overlay { position:fixed; inset:0; background:rgba(3,7,18,.7); display:none; place-items:center; z-index:50; padding:20px; }
-  .overlay.show { display:grid; }
-  .modal { background:var(--card); border:1px solid var(--line); border-radius:18px; width:min(760px,100%); padding:24px; }
-  .modal-head { display:flex; justify-content:space-between; align-items:center; margin-bottom:6px; }
-  .close { background:none; border:none; color:var(--muted); font-size:24px; cursor:pointer; }
-  .toast { position:fixed; bottom:24px; left:50%; transform:translateX(-50%); background:var(--card2);
-    border:1px solid var(--line); padding:12px 20px; border-radius:12px; font-size:14px; opacity:0; transition:.3s; pointer-events:none; }
-  .toast.show { opacity:1; }
+  *{box-sizing:border-box;}
+  body{margin:0; font-family:"Segoe UI","Malgun Gothic",sans-serif; background:var(--bg); color:var(--text); min-height:100vh;}
+  button{font-family:inherit;}
+  .hidden{display:none !important;}
+
+  header{background:#fff; border-bottom:1px solid var(--border); padding:16px 28px; display:flex; align-items:center; justify-content:space-between; position:sticky; top:0; z-index:20;}
+  .brand{display:flex; align-items:center; gap:11px; cursor:pointer;}
+  .logo{width:34px; height:34px; border-radius:9px; background:var(--primary); color:#fff; font-weight:800; display:grid; place-items:center;}
+  .brand h1{font-size:17px; margin:0; color:var(--text);}
+  .brand .sub{font-size:12px; color:var(--muted);}
+  .updated{font-size:12px; color:var(--muted);}
+
+  .btn{border:none; border-radius:10px; padding:11px 18px; font-size:14px; font-weight:600; cursor:pointer; background:var(--primary); color:#fff; transition:.15s;}
+  .btn:hover{background:var(--primary-d);}
+  .btn.sm{padding:7px 13px; font-size:12.5px;}
+
+  .home{max-width:720px; margin:0 auto; padding:70px 20px 60px; text-align:center;}
+  .home .big{font-size:30px; font-weight:800; margin:0 0 8px;}
+  .home .big span{color:var(--primary);}
+  .home .desc{color:var(--muted); margin:0 0 34px;}
+  .searchbar{display:flex; gap:10px; background:#fff; border:2px solid var(--primary); border-radius:14px; padding:8px; box-shadow:0 8px 30px rgba(37,99,235,.10);}
+  .searchbar input{flex:1; border:none; outline:none; font-size:16px; padding:12px 14px; background:transparent; color:var(--text);}
+  .searchbar .btn{border-radius:9px;}
+
+  .section-title{text-align:left; font-size:13px; color:var(--muted); font-weight:700; margin:38px 0 12px;}
+  .chips{display:flex; flex-wrap:wrap; gap:10px; justify-content:flex-start;}
+  .chip{background:#fff; border:1px solid var(--border); border-radius:12px; padding:13px 16px; cursor:pointer; text-align:left; transition:.15s; min-width:150px;}
+  .chip:hover{border-color:var(--primary); box-shadow:0 4px 14px rgba(37,99,235,.12);}
+  .chip .nm{font-weight:700; font-size:15px;}
+  .chip .kw{font-size:12px; color:var(--muted); margin-top:3px;}
+  .empty{color:var(--muted); text-align:left; padding:18px 0;}
+
+  .detail{max-width:940px; margin:0 auto; padding:26px 20px 70px;}
+  .back{background:none; border:none; color:var(--primary); font-size:14px; font-weight:600; cursor:pointer; padding:6px 0; margin-bottom:8px;}
+  .detail-head{display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap; margin-bottom:20px;}
+  .detail-head .pname{font-size:26px; font-weight:800;}
+  .tabs{display:flex; gap:8px; flex-wrap:wrap; border-bottom:2px solid var(--border); margin-bottom:22px;}
+  .tab{background:none; border:none; padding:12px 18px; font-size:14.5px; font-weight:700; color:var(--muted); cursor:pointer; border-bottom:3px solid transparent; margin-bottom:-2px;}
+  .tab.active{color:var(--primary); border-bottom-color:var(--primary);}
+
+  .panel{background:#fff; border:1px solid var(--border); border-radius:16px; padding:22px; margin-bottom:20px;}
+  .toolbar{display:flex; align-items:center; gap:12px; flex-wrap:wrap; margin-bottom:4px;}
+  .toolbar label{font-size:13px; color:var(--muted); font-weight:600;}
+  select{border:1px solid var(--border); border-radius:10px; padding:10px 12px; font-size:14px; color:var(--text); background:#fff; min-width:180px;}
+  select:focus{outline:none; border-color:var(--primary);}
+
+  .rank-row{display:flex; align-items:center; gap:20px; flex-wrap:wrap; margin-top:18px;}
+  .stat{background:var(--primary-soft); border-radius:14px; padding:16px 24px; min-width:150px; text-align:center;}
+  .stat-label{font-size:13px; font-weight:700; color:var(--primary-d); margin-bottom:6px;}
+  .rank-big{display:flex; align-items:baseline; gap:6px; justify-content:center;}
+  .rank-num{font-size:52px; font-weight:800; line-height:1; color:var(--primary);}
+  .rank-num.good{color:var(--good);} .rank-num.bad{color:var(--danger);} .rank-num.none{color:var(--muted); font-size:26px;}
+  .rank-unit{font-size:17px; color:var(--muted);}
+  .rank-meta{font-size:13.5px; color:var(--muted); line-height:1.9;}
+  .rank-meta b{color:var(--text);}
+
+  .toast{position:fixed; bottom:24px; left:50%; transform:translateX(-50%); background:var(--text); color:#fff; padding:12px 20px; border-radius:12px; font-size:14px; opacity:0; transition:.3s; pointer-events:none; z-index:80;}
+  .toast.show{opacity:1;}
 </style>
 </head>
 <body>
 <header>
-  <div class="brand">
+  <div class="brand" onclick="goHome()">
     <div class="logo">N</div>
     <div>
       <h1>네이버 지도 순위 추적</h1>
-      <div class="sub">매일 낮 12시 자동 기록 · GitHub Actions</div>
+      <div class="sub">매일 낮 12시 자동 기록</div>
     </div>
   </div>
-  <div class="sub" id="lastUpdate">불러오는 중...</div>
+  <div class="updated" id="updated"></div>
 </header>
 
-<div class="container">
-  <div class="cards" id="cards"></div>
-  <div class="empty" id="emptyState" style="display:none;">
-    아직 수집된 순위가 없습니다.<br>아래 "매장 관리"에서 대상을 등록하고, 다음 자동 실행(낮 12시)을 기다리거나 GitHub에서 수동 실행하세요.
+<div class="home" id="homeView">
+  <h2 class="big">우리 매장 <span>검색 순위</span>를 확인하세요</h2>
+  <p class="desc">매장명을 검색하면 키워드별 순위와 추이를 볼 수 있어요.</p>
+  <div class="searchbar">
+    <input type="text" id="searchInput" placeholder="매장명을 입력하세요" list="placeList"
+           onkeydown="if(event.key==='Enter')doSearch()" />
+    <datalist id="placeList"></datalist>
+    <button class="btn" onclick="doSearch()">검색</button>
   </div>
-
-  <div class="panel" style="margin-top:28px;">
-    <h2>매장 관리 (추적 대상 편집)</h2>
-    <p class="hint">
-      정적 사이트라 여기서 바로 저장되진 않습니다. 아래에서 (키워드 + 매장명) 쌍을 추가한 뒤
-      <b>[JSON 복사]</b> → GitHub의 <code>docs/data/targets.json</code> 파일에 붙여넣고 커밋하면 반영됩니다.
-      같은 매장에 여러 키워드를 넣으면 자동으로 묶이고, <b>같은 키워드는 하루 한 번만 검색</b>합니다.
-    </p>
-    <div class="row" style="margin:12px 0;">
-      <input type="text" id="inKeyword" placeholder="검색 키워드 (예: 강남역 미용실)" />
-      <input type="text" id="inPlace" placeholder="내 매장명" />
-      <button class="btn" onclick="addRow()">목록에 추가</button>
-    </div>
-    <div id="editList" style="display:flex; flex-direction:column; gap:8px; margin-bottom:12px;"></div>
-    <textarea id="jsonOut" readonly></textarea>
-    <div class="row" style="margin-top:12px;">
-      <button class="btn" onclick="copyJson()">JSON 복사</button>
-      <a class="btn ghost" id="editLink" href="#" target="_blank" style="text-decoration:none; display:inline-flex; align-items:center;">GitHub에서 targets.json 열기</a>
-    </div>
-  </div>
+  <div class="section-title">등록된 매장</div>
+  <div class="chips" id="placeChips"></div>
+  <div class="empty hidden" id="homeEmpty">아직 등록된 매장이 없습니다.</div>
 </div>
 
-<div class="overlay" id="overlay" onclick="if(event.target===this)closeModal()">
-  <div class="modal">
-    <div class="modal-head">
-      <div>
-        <div class="name" id="modalName" style="font-size:18px; font-weight:700;"></div>
-        <div class="sub" id="modalKw"></div>
-      </div>
-      <button class="close" onclick="closeModal()">&times;</button>
+<div class="detail hidden" id="detailView">
+  <button class="back" onclick="goHome()">← 매장 검색으로</button>
+  <div class="detail-head">
+    <div class="pname" id="detailName"></div>
+  </div>
+  <div class="tabs" id="tabs"></div>
+  <div class="panel">
+    <div class="toolbar">
+      <label>날짜 선택</label>
+      <select id="dateSelect" onchange="renderActive()"></select>
     </div>
-    <canvas id="chart" height="130"></canvas>
+    <div class="rank-row" id="rankRow"></div>
+  </div>
+  <div class="panel">
+    <div class="section-title" style="margin:0 0 10px;">광고순위 추이</div>
+    <canvas id="chartAds" height="110"></canvas>
+  </div>
+  <div class="panel">
+    <div class="section-title" style="margin:0 0 10px;">일반순위 추이</div>
+    <canvas id="chartOrganic" height="110"></canvas>
   </div>
 </div>
 
 <div class="toast" id="toast"></div>
 
 <script>
-// ▼▼▼ 본인 저장소에 맞게 자동 감지 (github.io URL 에서 유추). 안 맞으면 수동으로 바꾸세요.
-let REPO = ""; // 예: "username/naver-rank-tracker"
-(function detectRepo(){
-  const host = location.hostname;      // username.github.io
-  const parts = location.pathname.split('/').filter(Boolean);
-  if (host.endsWith('github.io') && parts.length){
-    REPO = host.split('.')[0] + '/' + parts[0];
-  }
-  const link = document.getElementById('editLink');
-  link.href = REPO ? `https://github.com/${REPO}/edit/main/docs/data/targets.json`
-                   : 'https://github.com';
-})();
+let PLACES = [];      // [{place_name, keywords:[...]}]
+let RANKINGS = [];    // flat list
+let current = null;
+let activeTab = 0;
+let chartAds = null, chartOrganic = null;
 
-let chart = null;
-let editRows = [];
+function toast(m){const t=document.getElementById('toast'); t.textContent=m; t.classList.add('show'); setTimeout(()=>t.classList.remove('show'),2600);}
+function esc(s){return (s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+function norm(s){return (s||'').replace(/\s+/g,'').toLowerCase();}
+function dateOf(r){return r.date ? r.date : (r.datetime||r.checked_at||'').slice(0,10);}
+function timeOf(r){const c=r.datetime||r.checked_at||''; return c.length>=16 ? c.slice(11,16) : '';}
+function rankClass(r){ if(r==null) return 'none'; if(r<=3) return 'good'; if(r>10) return 'bad'; return ''; }
 
-function toast(msg){ const t=document.getElementById('toast'); t.textContent=msg; t.classList.add('show'); setTimeout(()=>t.classList.remove('show'),2600); }
-function rankClass(r){ if(r==null) return 'none'; if(r<=3) return 'good'; if(r<=10) return 'mid'; return 'bad'; }
-function escapeHtml(s){ return (s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
-function key(k,p){ return k+'||'+p; }
-
-// targets(묶음/단일 혼용) → [{keyword, place_name}] 쌍 목록으로 펼치기
-function expandTargets(targets){
-  const pairs = [];
-  (targets||[]).forEach(t=>{
-    const place = (t.place_name||'').trim();
-    if(!place) return;
-    let kws = t.keywords;
-    if(!kws || !kws.length){ if(t.keyword) kws = [t.keyword]; else kws = []; }
-    kws.forEach(k=>{ k=(k||'').trim(); if(k) pairs.push({keyword:k, place_name:place}); });
-  });
-  return pairs;
-}
-// 쌍 목록 → 매장별 묶음 형식으로 그룹화 (targets.json 저장용)
-function groupPairs(pairs){
-  const byPlace = {};
-  const order = [];
-  pairs.forEach(p=>{
-    if(!byPlace[p.place_name]){ byPlace[p.place_name] = {place_name:p.place_name, keywords:[]}; order.push(p.place_name); }
-    if(!byPlace[p.place_name].keywords.includes(p.keyword)) byPlace[p.place_name].keywords.push(p.keyword);
-  });
-  return order.map(pl=>byPlace[pl]);
+async function loadData(){
+  try{
+    const bust = '?t=' + Date.now();
+    const [t, r] = await Promise.all([
+      fetch('data/targets.json'+bust).then(x=>x.json()),
+      fetch('data/rankings.json'+bust).then(x=>x.json()),
+    ]);
+    // targets 정규화 (묶음/단일쌍 모두 지원)
+    const map = {};
+    (t||[]).forEach(o=>{
+      const p=(o.place_name||'').trim(); if(!p) return;
+      let kws=o.keywords; if(!kws){ const s=(o.keyword||'').trim(); kws=s?[s]:[]; }
+      map[p]=map[p]||{place_name:p, keywords:[]};
+      kws.forEach(k=>{ if(k && !map[p].keywords.includes(k)) map[p].keywords.push(k); });
+    });
+    PLACES = Object.values(map);
+    RANKINGS = r||[];
+  }catch(e){ PLACES=[]; RANKINGS=[]; }
 }
 
-async function load(){
-  let targets=[], rankings=[];
-  try { targets = await (await fetch('./data/targets.json?_='+Date.now())).json(); } catch(e){}
-  try { rankings = await (await fetch('./data/rankings.json?_='+Date.now())).json(); } catch(e){}
-
-  // 편집 목록 초기화 (묶음 형식을 쌍으로 펼침)
-  editRows = expandTargets(targets);
-  renderEditList();
-
-  // 순위 기록을 (키워드+매장) 별로 그룹화
-  const groups = {};
-  for(const r of rankings){
-    const kk = key(r.keyword, r.place_name);
-    (groups[kk] = groups[kk] || []).push(r);
-  }
-
-  // 최신 시각 표시
-  let latestTime = '';
-  for(const r of rankings){ if(!latestTime || r.datetime > latestTime) latestTime = r.datetime; }
-  document.getElementById('lastUpdate').textContent = latestTime ? ('마지막 수집: '+latestTime) : '아직 수집 기록 없음';
-
-  const wrap = document.getElementById('cards');
-  const empty = document.getElementById('emptyState');
-  wrap.innerHTML='';
-
-  // 표시 대상: targets 우선, 기록만 있는 것도 포함
-  const shown = new Set();
-  const order = [];
-  expandTargets(targets).forEach(p=>{ order.push(p); shown.add(key(p.keyword,p.place_name)); });
-  Object.keys(groups).forEach(kk=>{ if(!shown.has(kk)){ const g=groups[kk][0]; order.push({keyword:g.keyword, place_name:g.place_name}); } });
-
-  if(order.length===0){ empty.style.display='block'; return; }
-  empty.style.display='none';
-
-  for(const t of order){
-    const hist = (groups[key(t.keyword,t.place_name)]||[]);
-    const latest = hist.length ? hist[hist.length-1] : null;
-    const rank = latest ? latest.rank_with_ads : null;
-    const organic = latest ? latest.rank : null;
-    const card = document.createElement('div');
-    card.className='card';
-    card.innerHTML = `
-      <div>
-        <div class="kw">🔍 ${escapeHtml(t.keyword)}</div>
-        <div class="name">${escapeHtml(t.place_name)}</div>
-      </div>
-      <div class="rankbox">
-        ${rank!=null
-          ? `<span class="rank-num ${rankClass(rank)}">${rank}</span><span class="rank-unit">위 ${organic!=null?`(광고제외 ${organic}위)`:'(광고)'}</span>`
-          : `<span class="rank-num none">${latest?'미노출':'기록 없음'}</span>`}
-      </div>
-      <div class="meta">
-        마지막 확인: ${latest?escapeHtml(latest.datetime):'-'}<br>
-        ${latest&&latest.total_found!=null?`수집 매장 수: ${latest.total_found}개`:''}
-        ${latest&&latest.note?`<br><span style="color:var(--warn)">${escapeHtml(latest.note)}</span>`:''}
-      </div>
-      <div class="card-actions">
-        <button class="btn sm ghost" onclick='showChart(${JSON.stringify(t.keyword)}, ${JSON.stringify(t.place_name)})'>추이 보기</button>
-      </div>`;
-    wrap.appendChild(card);
-    card._hist = hist;
-  }
-  window._groups = groups;
+function lastUpdated(){
+  let mx='';
+  RANKINGS.forEach(r=>{ const d=r.datetime||r.date||''; if(d>mx) mx=d; });
+  document.getElementById('updated').textContent = mx ? ('마지막 업데이트: '+mx) : '';
 }
 
-function showChart(keyword, place_name){
-  const hist = (window._groups[key(keyword,place_name)]||[]);
-  document.getElementById('modalName').textContent = place_name;
-  document.getElementById('modalKw').textContent = '🔍 '+keyword;
-  document.getElementById('overlay').classList.add('show');
-  const labels = hist.map(r=>r.date);
-  const data = hist.map(r=>r.rank_with_ads);
-  const ctx = document.getElementById('chart').getContext('2d');
-  if(chart) chart.destroy();
-  chart = new Chart(ctx,{
-    type:'line',
-    data:{ labels, datasets:[{ label:'노출 순위 (낮을수록 좋음)', data,
-      borderColor:'#03c75a', backgroundColor:'rgba(3,199,90,.15)', tension:.25, fill:true, spanGaps:true,
-      pointRadius:4, pointBackgroundColor:'#03c75a' }]},
-    options:{ scales:{
-        y:{ reverse:true, ticks:{color:'#93a1c4',precision:0}, grid:{color:'#2e3b63'}, title:{display:true,text:'순위',color:'#93a1c4'} },
-        x:{ ticks:{color:'#93a1c4'}, grid:{color:'#1b2540'} } },
-      plugins:{ legend:{ labels:{color:'#e8edf7'} } } }
-  });
-}
-function closeModal(){ document.getElementById('overlay').classList.remove('show'); }
-document.addEventListener('keydown',e=>{ if(e.key==='Escape') closeModal(); });
-
-// ---- 매장 관리(편집) ----
-function renderEditList(){
-  const box = document.getElementById('editList');
-  box.innerHTML='';
-  editRows.forEach((r,i)=>{
+async function loadHome(){
+  await loadData();
+  lastUpdated();
+  const chips=document.getElementById('placeChips');
+  const dl=document.getElementById('placeList');
+  const empty=document.getElementById('homeEmpty');
+  chips.innerHTML=''; dl.innerHTML='';
+  if(!PLACES.length){ empty.classList.remove('hidden'); return; }
+  empty.classList.add('hidden');
+  for(const p of PLACES){
     const div=document.createElement('div');
-    div.className='row';
-    div.style.gap='8px';
-    div.innerHTML = `<span class="badge">${i+1}</span>
-      <span style="flex:1">🔍 ${escapeHtml(r.keyword)} — <b>${escapeHtml(r.place_name)}</b></span>
-      <button class="btn sm danger" onclick="removeRow(${i})">삭제</button>`;
-    box.appendChild(div);
-  });
-  document.getElementById('jsonOut').value = JSON.stringify(groupPairs(editRows), null, 2);
-}
-function addRow(){
-  const k=document.getElementById('inKeyword').value.trim();
-  const p=document.getElementById('inPlace').value.trim();
-  if(!k||!p){ toast('키워드와 매장명을 입력하세요.'); return; }
-  editRows.push({keyword:k, place_name:p});
-  document.getElementById('inKeyword').value='';
-  document.getElementById('inPlace').value='';
-  renderEditList();
-}
-function removeRow(i){ editRows.splice(i,1); renderEditList(); }
-function copyJson(){
-  navigator.clipboard.writeText(document.getElementById('jsonOut').value)
-    .then(()=>toast('JSON 복사됨! GitHub의 targets.json 에 붙여넣으세요.'))
-    .catch(()=>toast('복사 실패 - 직접 선택해 복사하세요.'));
+    div.className='chip'; div.onclick=()=>openPlace(p.place_name);
+    div.innerHTML=`<div class="nm">${esc(p.place_name)}</div><div class="kw">🔍 ${esc(p.keywords.join(', '))}</div>`;
+    chips.appendChild(div);
+    const o=document.createElement('option'); o.value=p.place_name; dl.appendChild(o);
+  }
 }
 
-load();
+function doSearch(){
+  const q=document.getElementById('searchInput').value.trim();
+  if(!q){ toast('매장명을 입력하세요.'); return; }
+  const exact=PLACES.find(p=>norm(p.place_name)===norm(q));
+  const partial=PLACES.filter(p=>norm(p.place_name).includes(norm(q))||norm(q).includes(norm(p.place_name)));
+  if(exact){ openPlace(exact.place_name); return; }
+  if(partial.length===1){ openPlace(partial[0].place_name); return; }
+  if(partial.length>1){ toast(`"${q}" 와 비슷한 매장 ${partial.length}개 — 아래 목록에서 선택하세요.`); return; }
+  toast(`'${q}' 은(는) 등록되지 않은 매장입니다.`);
+}
+
+function goHome(){
+  document.getElementById('detailView').classList.add('hidden');
+  document.getElementById('homeView').classList.remove('hidden');
+  loadHome();
+}
+
+function buildCurrent(name){
+  const t=PLACES.find(p=>p.place_name===name);
+  const keywords=(t?t.keywords:[]).map(kw=>({
+    keyword:kw,
+    rankings:RANKINGS.filter(r=>r.place_name===name && r.keyword===kw)
+                     .slice().sort((a,b)=>(a.datetime||a.date||'').localeCompare(b.datetime||b.date||'')),
+  }));
+  return {place_name:name, keywords};
+}
+
+function openPlace(name){
+  current=buildCurrent(name);
+  activeTab=0;
+  document.getElementById('homeView').classList.add('hidden');
+  document.getElementById('detailView').classList.remove('hidden');
+  document.getElementById('detailName').textContent=current.place_name;
+  renderTabs(); renderDateOptions(); renderActive();
+}
+
+function renderTabs(){
+  const box=document.getElementById('tabs'); box.innerHTML='';
+  current.keywords.forEach((k,i)=>{
+    const b=document.createElement('button');
+    b.className='tab'+(i===activeTab?' active':''); b.textContent=k.keyword;
+    b.onclick=()=>{ activeTab=i; renderTabs(); renderDateOptions(); renderActive(); };
+    box.appendChild(b);
+  });
+}
+
+function allDatesOfActive(){
+  const kw=current.keywords[activeTab];
+  const set=new Set((kw?kw.rankings:[]).map(dateOf).filter(Boolean));
+  return [...set].sort().reverse();
+}
+
+function renderDateOptions(){
+  const sel=document.getElementById('dateSelect'); const prev=sel.value;
+  const dates=allDatesOfActive(); sel.innerHTML='';
+  if(!dates.length){ const o=document.createElement('option'); o.value=''; o.textContent='수집된 날짜 없음'; sel.appendChild(o); return; }
+  dates.forEach(d=>{ const o=document.createElement('option'); o.value=d; o.textContent=d; sel.appendChild(o); });
+  sel.value=dates.includes(prev)?prev:dates[0];
+}
+
+function recordFor(kw,date){
+  const rows=(kw?kw.rankings:[]).filter(r=>dateOf(r)===date);
+  return rows.length?rows[rows.length-1]:null;
+}
+
+function renderActive(){
+  const kw=current.keywords[activeTab];
+  const date=document.getElementById('dateSelect').value;
+  const rec=recordFor(kw,date);
+  const row=document.getElementById('rankRow');
+  if(!rec){
+    row.innerHTML=`<div class="rank-meta">선택한 날짜에 수집된 기록이 없습니다.</div>`;
+  }else{
+    const ad=rec.rank_with_ads, org=rec.rank;
+    const cell=(label,v)=>`
+      <div class="stat">
+        <div class="stat-label">${label}</div>
+        <div class="rank-big">
+          ${v!=null?`<span class="rank-num ${rankClass(v)}">${v}</span><span class="rank-unit">위</span>`:`<span class="rank-num none">미노출</span>`}
+        </div>
+      </div>`;
+    row.innerHTML=`
+      ${cell('광고순위',ad)}
+      ${cell('일반순위',org)}
+      <div class="rank-meta">
+        <b>${esc(kw.keyword)}</b><br>
+        ${esc(date)} ${timeOf(rec)?('· '+timeOf(rec)):''}<br>
+        수집 매장 수: ${rec.total_found!=null?rec.total_found+'개':'-'}
+        ${rec.note?`<br><span style="color:var(--warn)">${esc(rec.note)}</span>`:''}
+      </div>`;
+  }
+  drawChart(kw);
+}
+
+function _lineChart(id, prev, dates, data, label, color, soft){
+  const ctx=document.getElementById(id).getContext('2d');
+  if(prev) prev.destroy();
+  return new Chart(ctx,{ type:'line',
+    data:{ labels:dates, datasets:[{ label, data, borderColor:color, backgroundColor:soft,
+      tension:.25, fill:true, spanGaps:true, pointRadius:4, pointBackgroundColor:color, pointHoverRadius:6 }]},
+    options:{ scales:{
+      y:{ reverse:true, ticks:{color:'#64748b',precision:0}, grid:{color:'#eef2fb'}, title:{display:true,text:'순위(낮을수록 좋음)',color:'#64748b'} },
+      x:{ ticks:{color:'#64748b'}, grid:{color:'#f5f8ff'} } },
+      plugins:{ legend:{ labels:{color:'#0f172a'} } } }
+  });
+}
+
+function drawChart(kw){
+  const rows=(kw?kw.rankings:[]).slice();
+  const byDate={}; rows.forEach(r=>{ byDate[dateOf(r)]=r; });
+  const dates=Object.keys(byDate).sort();
+  chartAds=_lineChart('chartAds', chartAds, dates, dates.map(d=>byDate[d].rank_with_ads), '광고순위', '#f97316', 'rgba(249,115,22,.12)');
+  chartOrganic=_lineChart('chartOrganic', chartOrganic, dates, dates.map(d=>byDate[d].rank), '일반순위', '#2563eb', 'rgba(37,99,235,.12)');
+}
+
+loadHome();
 </script>
 </body>
 </html>
