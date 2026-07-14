@@ -111,7 +111,7 @@
     <div class="rank-row" id="rankRow"></div>
   </div>
   <div class="panel">
-    <div class="section-title" style="margin:0 0 10px;">광고순위 추이</div>
+    <div class="section-title" style="margin:0 0 10px;">광고순위 추이 <span style="font-weight:500;color:var(--muted)">(광고 매장만)</span></div>
     <canvas id="chartAds" height="110"></canvas>
   </div>
   <div class="panel">
@@ -254,20 +254,20 @@ function renderActive(){
     row.innerHTML=`<div class="rank-meta">선택한 날짜에 수집된 기록이 없습니다.</div>`;
   }else{
     const ad=rec.rank_with_ads, org=rec.rank;
-    const cell=(label,v)=>`
+    const cell=(label,v,empty='미노출')=>`
       <div class="stat">
         <div class="stat-label">${label}</div>
         <div class="rank-big">
-          ${v!=null?`<span class="rank-num ${rankClass(v)}">${v}</span><span class="rank-unit">위</span>`:`<span class="rank-num none">미노출</span>`}
+          ${v!=null?`<span class="rank-num ${rankClass(v)}">${v}</span><span class="rank-unit">위</span>`:`<span class="rank-num none">${empty}</span>`}
         </div>
       </div>`;
     row.innerHTML=`
-      ${cell('광고순위',ad)}
-      ${cell('일반순위',org)}
+      ${cell('광고순위',ad,org!=null?'해당없음':'미노출')}
+      ${cell('일반순위',org,ad!=null?'해당없음':'미노출')}
       <div class="rank-meta">
         <b>${esc(kw.keyword)}</b><br>
         ${esc(date)} ${timeOf(rec)?('· '+timeOf(rec)):''}<br>
-        수집 매장 수: ${rec.total_found!=null?rec.total_found+'개':'-'}
+        페이지: ${rec.page!=null?rec.page+'페이지':'-'}
         ${rec.note?`<br><span style="color:var(--warn)">${esc(rec.note)}</span>`:''}
       </div>`;
   }
