@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "keyword": "화성미용실",
+    "place_name": "리안헤어 동탄2신도시영천점",
+    "rank": 9,
+    "rank_with_ads": 13,
+    "total_found": 160,
+    "note": "",
+    "date": "2026-07-14",
+    "datetime": "2026-07-14 10:58"
+  },
+  {
+    "keyword": "동탄미용실",
+    "place_name": "리안헤어 동탄2신도시영천점",
+    "rank": null,
+    "rank_with_ads": null,
+    "total_found": 215,
+    "note": "검색결과 215개 중 미발견",
+    "date": "2026-07-14",
+    "datetime": "2026-07-14 10:58"
+  },
+  {
+    "keyword": "영천동미용실",
+    "place_name": "리안헤어 동탄2신도시영천점",
+    "rank": null,
+    "rank_with_ads": null,
+    "total_found": 208,
+    "note": "검색결과 208개 중 미발견",
+    "date": "2026-07-14",
+    "datetime": "2026-07-14 10:59"
+  }
+]
