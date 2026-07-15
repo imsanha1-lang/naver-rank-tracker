@@ -16,7 +16,7 @@
   button{font-family:inherit;}
   .hidden{display:none !important;}
 
-  .team-banner{background:var(--primary); color:#fff; text-align:center; font-size:15px; font-weight:700; padding:10px 16px; letter-spacing:.02em;}
+  .team-group-label{text-align:left; font-size:15px; font-weight:800; color:var(--primary); margin:0 0 10px; padding-left:2px;}
 
   header{background:#fff; border-bottom:1px solid var(--border); padding:16px 28px; display:flex; align-items:center; justify-content:space-between; position:sticky; top:0; z-index:20;}
   .brand{display:flex; align-items:center; gap:11px; cursor:pointer;}
@@ -75,7 +75,6 @@
 </style>
 </head>
 <body>
-<div class="team-banner">강태민 팀장</div>
 <header>
   <div class="brand" onclick="goHome()">
     <div class="logo">N</div>
@@ -97,6 +96,7 @@
     <button class="btn" onclick="doSearch()">검색</button>
   </div>
   <div class="section-title">등록된 매장</div>
+  <div class="team-group-label">강태민 팀장 매장</div>
   <div class="chips" id="placeChips"></div>
   <div class="empty hidden" id="homeEmpty">아직 등록된 매장이 없습니다.</div>
 </div>
