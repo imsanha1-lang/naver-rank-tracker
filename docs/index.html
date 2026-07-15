@@ -33,6 +33,14 @@ body {
 button { font-family: inherit; }
 .hidden { display: none !important; }
 
+.team-groups-row {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  width: 100%;
+  align-items: stretch;
+}
+
 .team-group-box {
   background: #fff;
   border: 2px solid var(--primary);
@@ -40,6 +48,7 @@ button { font-family: inherit; }
   padding: 16px 18px 18px;
   box-shadow: 0 6px 22px rgba(37, 99, 235, 0.1);
   text-align: left;
+  flex: 1 1 240px;
 }
 
 .team-group-label {
@@ -50,6 +59,57 @@ button { font-family: inherit; }
   margin: 0 0 12px;
   padding-bottom: 10px;
   border-bottom: 1px solid var(--border);
+}
+
+.team-group-box.team-blue {
+  border-color: #2563eb;
+  box-shadow: 0 6px 22px rgba(37, 99, 235, 0.1);
+}
+.team-group-box.team-blue .team-group-label { color: #2563eb; }
+.team-group-box.team-blue .chip { background: #e8f0ff; }
+.team-group-box.team-blue .chip:hover { border-color: #2563eb; }
+.team-group-box.team-blue .kw-heart { color: #2563eb; }
+
+.team-group-box.team-yellow {
+  border-color: #eab308;
+  box-shadow: 0 6px 22px rgba(234, 179, 8, 0.14);
+}
+.team-group-box.team-yellow .team-group-label {
+  color: #ca8a04;
+  border-bottom-color: #fde68a;
+}
+.team-group-box.team-yellow .chip {
+  background: #fef9c3;
+  border-color: #fde68a;
+}
+.team-group-box.team-yellow .chip:hover {
+  border-color: #eab308;
+  box-shadow: 0 4px 14px rgba(234, 179, 8, 0.18);
+}
+.team-group-box.team-yellow .kw-heart { color: #eab308; }
+
+.team-group-box.team-pink {
+  border-color: #ec4899;
+  box-shadow: 0 6px 22px rgba(236, 72, 153, 0.14);
+}
+.team-group-box.team-pink .team-group-label {
+  color: #ec4899;
+  border-bottom-color: #fbcfe8;
+}
+.team-group-box.team-pink .chip {
+  background: #fce7f3;
+  border-color: #fbcfe8;
+}
+.team-group-box.team-pink .chip:hover {
+  border-color: #ec4899;
+  box-shadow: 0 4px 14px rgba(236, 72, 153, 0.18);
+}
+.team-group-box.team-pink .kw-heart { color: #ec4899; }
+
+.team-empty {
+  padding: 10px 0 4px;
+  font-size: 12.5px;
+  color: var(--muted);
 }
 
 header {
@@ -87,7 +147,7 @@ header {
 .btn.danger { background: #fff; color: var(--danger); border: 1px solid #f3c9c9; }
 .btn.danger:hover { background: #fdecec; }
 
-.home { max-width: 720px; margin: 0 auto; padding: 70px 20px 60px; text-align: center; }
+.home { max-width: 1100px; margin: 0 auto; padding: 70px 20px 60px; text-align: center; }
 .home .big { font-size: 30px; font-weight: 800; margin: 0 0 8px; }
 #homeTitleHighlight { color: var(--primary); }
 .home .desc { color: var(--muted); margin: 0 0 34px; }
@@ -242,11 +302,8 @@ select:focus { outline: none; border-color: var(--primary); }
     <button class="btn" id="searchBtn" onclick="doSearch()">검색</button>
   </div>
   <div class="section-title"><span id="registeredStores">등록된 매장</span></div>
-  <div class="team-group-box">
-    <div class="team-group-label" id="teamBanner">강태민 팀장 매장</div>
-    <div class="chips" id="placeChips"></div>
-    <div class="empty hidden" id="homeEmpty">아직 등록된 매장이 없습니다.</div>
-  </div>
+  <div class="team-groups-row" id="teamGroups"></div>
+  <div class="empty hidden" id="homeEmpty">아직 등록된 매장이 없습니다.</div>
 </div>
 
 <div class="detail hidden" id="detailView">
@@ -312,6 +369,7 @@ function uiText(k, fb) { return (UI_TEXT && UI_TEXT[k]) || fb || ''; }
 
 let PLACES = [];
 let RANKINGS = [];
+let STORE_GROUPS = [];
 let current = null;
 let activeTab = 0;
 let chartAds = null, chartOrganic = null;
@@ -370,22 +428,93 @@ function lastUpdated(){
   document.getElementById('updated').textContent = mx ? ('마지막 업데이트: '+mx) : '';
 }
 
+async function loadStoreGroups(){
+  try{
+    const bust = '?t=' + Date.now();
+    const res = await fetch('data/store-groups.json'+bust);
+    if(res.ok){
+      const data = await res.json();
+      STORE_GROUPS = data.groups || [];
+    }
+  }catch(e){}
+  if(!STORE_GROUPS.length){
+    STORE_GROUPS = [{ id:'team-blue', label:'강태민 팀장 매장', theme:'blue', places:[] }];
+  }
+}
+
+function placesForGroup(group){
+  const listed = new Set(group.places || []);
+  const matched = PLACES.filter(p => listed.has(p.place_name));
+  if(group.theme === 'blue' || group.id === 'team-blue'){
+    const assigned = new Set(STORE_GROUPS.flatMap(g => g.places || []));
+    PLACES.forEach(p => {
+      if(!assigned.has(p.place_name) && !matched.find(m => m.place_name === p.place_name)){
+        matched.push(p);
+      }
+    });
+  }
+  return matched;
+}
+
+function appendChip(container, place){
+  const div = document.createElement('div');
+  div.className = 'chip';
+  div.onclick = () => openPlace(place.place_name);
+  div.innerHTML = `<div class="nm">${esc(place.place_name)}</div><div class="kw"><span class="kw-heart" aria-hidden="true">♥</span>${esc(place.keywords.join(', '))}</div>`;
+  container.appendChild(div);
+}
+
+function renderTeamGroups(){
+  const row = document.getElementById('teamGroups');
+  const empty = document.getElementById('homeEmpty');
+  const dl = document.getElementById('placeList');
+  row.innerHTML = '';
+  dl.innerHTML = '';
+
+  if(!PLACES.length){
+    empty.classList.remove('hidden');
+    STORE_GROUPS.forEach(group => {
+      const box = document.createElement('div');
+      box.className = 'team-group-box team-' + (group.theme || 'blue');
+      box.innerHTML = `<div class="team-group-label">${esc(group.label)}</div><div class="chips"><div class="empty team-empty">등록된 매장 없음</div></div>`;
+      row.appendChild(box);
+    });
+    return;
+  }
+  empty.classList.add('hidden');
+
+  STORE_GROUPS.forEach(group => {
+    const box = document.createElement('div');
+    box.className = 'team-group-box team-' + (group.theme || 'blue');
+    const chips = document.createElement('div');
+    chips.className = 'chips';
+    const label = document.createElement('div');
+    label.className = 'team-group-label';
+    label.textContent = group.label;
+    box.appendChild(label);
+    box.appendChild(chips);
+
+    const list = placesForGroup(group);
+    if(!list.length){
+      chips.innerHTML = '<div class="empty team-empty">등록된 매장 없음</div>';
+    } else {
+      list.forEach(p => appendChip(chips, p));
+    }
+    row.appendChild(box);
+  });
+
+  PLACES.forEach(p => {
+    const opt = document.createElement('option');
+    opt.value = p.place_name;
+    dl.appendChild(opt);
+  });
+}
+
 async function loadHome(){
+  await loadStoreGroups();
   await loadData();
   lastUpdated();
-  const chips=document.getElementById('placeChips');
-  const dl=document.getElementById('placeList');
-  const empty=document.getElementById('homeEmpty');
-  chips.innerHTML=''; dl.innerHTML='';
-  if(!PLACES.length){ empty.classList.remove('hidden'); return; }
-  empty.classList.add('hidden');
-  for(const p of PLACES){
-    const div=document.createElement('div');
-    div.className='chip'; div.onclick=()=>openPlace(p.place_name);
-    div.innerHTML=`<div class="nm">${esc(p.place_name)}</div><div class="kw"><span class="kw-heart" aria-hidden="true">♥</span>${esc(p.keywords.join(', '))}</div>`;
-    chips.appendChild(div);
-    const o=document.createElement('option'); o.value=p.place_name; dl.appendChild(o);
-  }
+  renderTeamGroups();
 }
 
 function doSearch(){

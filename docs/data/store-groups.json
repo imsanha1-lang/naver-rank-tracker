@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "id": "team-blue",
+      "label": "강태민 팀장 매장",
+      "theme": "blue",
+      "places": [
+        "리안헤어 동탄2신도시영천점",
+        "리안헤어 김해장유율하점",
+        "리안헤어 수원정자시장점"
+      ]
+    },
+    {
+      "id": "team-yellow",
+      "label": "서정우 프로 매장",
+      "theme": "yellow",
+      "places": []
+    },
+    {
+      "id": "team-pink",
+      "label": "유범식 매장",
+      "theme": "pink",
+      "places": []
+    }
+  ]
+}
