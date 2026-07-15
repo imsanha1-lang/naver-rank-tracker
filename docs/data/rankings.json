@@ -60,6 +60,16 @@
     "datetime": "2026-07-15 16:44"
   },
   {
+    "keyword": "검단미용실",
+    "place_name": "리안헤어 김포풍무1호점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: stale element reference: stale element not found in the current frame\n  (Session info: chrome=148.0.7778.97); F",
+    "date": "2026-07-15",
+    "datetime": "2026-07-15 16:45"
+  },
+  {
     "keyword": "장안구미용실",
     "place_name": "리안헤어 수원정자시장점",
     "rank": 170,
