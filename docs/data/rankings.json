@@ -10,6 +10,16 @@
     "datetime": "2026-07-15 11:30"
   },
   {
+    "keyword": "장안구미용실",
+    "place_name": "리안헤어 수원정자시장점",
+    "rank": 166,
+    "rank_with_ads": null,
+    "page": 3,
+    "note": "",
+    "date": "2026-07-15",
+    "datetime": "2026-07-15 14:25"
+  },
+  {
     "keyword": "수원미용실",
     "place_name": "리안헤어 수원정자시장점",
     "rank": null,
@@ -18,6 +28,16 @@
     "note": "5페이지·318건 검색 · 미발견 유사매장: 리안헤어 수원천천점, 리안헤어 망포역점, 리안헤어 수원인계점",
     "date": "2026-07-15",
     "datetime": "2026-07-15 11:22"
+  },
+  {
+    "keyword": "수원미용실",
+    "place_name": "리안헤어 수원정자시장점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "5페이지·318건 검색 · 미발견 유사매장: 리안헤어 수원천천점, 리안헤어 수원인계점, 리안헤어 망포역점",
+    "date": "2026-07-15",
+    "datetime": "2026-07-15 14:27"
   },
   {
     "keyword": "정자동미용실",
@@ -30,6 +50,16 @@
     "datetime": "2026-07-15 11:17"
   },
   {
+    "keyword": "정자동미용실",
+    "place_name": "리안헤어 수원정자시장점",
+    "rank": 48,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-15",
+    "datetime": "2026-07-15 14:27"
+  },
+  {
     "keyword": "경남미용실",
     "place_name": "리안헤어 김해장유율하점",
     "rank": null,
@@ -40,6 +70,16 @@
     "datetime": "2026-07-15 13:28"
   },
   {
+    "keyword": "경남미용실",
+    "place_name": "리안헤어 김해장유율하점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "5페이지·317건 검색 · 미발견 유사매장: 리안헤어 김해메이저점, 리안헤어 평거점",
+    "date": "2026-07-15",
+    "datetime": "2026-07-15 14:28"
+  },
+  {
     "keyword": "김해미용실",
     "place_name": "리안헤어 김해장유율하점",
     "rank": 75,
@@ -48,6 +88,16 @@
     "note": "",
     "date": "2026-07-15",
     "datetime": "2026-07-15 13:29"
+  },
+  {
+    "keyword": "김해미용실",
+    "place_name": "리안헤어 김해장유율하점",
+    "rank": 75,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-15",
+    "datetime": "2026-07-15 14:29"
   },
   {
     "keyword": "율하동미용실",
@@ -88,6 +138,16 @@
     "note": "",
     "date": "2026-07-15",
     "datetime": "2026-07-15 13:29"
+  },
+  {
+    "keyword": "율하동미용실",
+    "place_name": "리안헤어 김해장유율하점",
+    "rank": 17,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-15",
+    "datetime": "2026-07-15 14:29"
   },
   {
     "keyword": "화성미용실",
@@ -230,6 +290,16 @@
     "datetime": "2026-07-15 11:32"
   },
   {
+    "keyword": "화성미용실",
+    "place_name": "리안헤어 동탄2신도시영천점",
+    "rank": 40,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-15",
+    "datetime": "2026-07-15 14:29"
+  },
+  {
     "keyword": "동탄미용실",
     "place_name": "리안헤어 동탄2신도시영천점",
     "rank": null,
@@ -298,6 +368,16 @@
     "note": "",
     "date": "2026-07-14",
     "datetime": "2026-07-14 16:46"
+  },
+  {
+    "keyword": "동탄미용실",
+    "place_name": "리안헤어 동탄2신도시영천점",
+    "rank": 37,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-15",
+    "datetime": "2026-07-15 14:29"
   },
   {
     "keyword": "영천동미용실",
@@ -408,5 +488,15 @@
     "note": "",
     "date": "2026-07-14",
     "datetime": "2026-07-14 16:43"
+  },
+  {
+    "keyword": "영천동미용실",
+    "place_name": "리안헤어 동탄2신도시영천점",
+    "rank": 4,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-15",
+    "datetime": "2026-07-15 14:29"
   }
 ]
