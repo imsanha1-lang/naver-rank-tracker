@@ -428,18 +428,24 @@ function lastUpdated(){
   document.getElementById('updated').textContent = mx ? ('마지막 업데이트: '+mx) : '';
 }
 
+const DEFAULT_STORE_GROUPS = [
+  { id:'team-blue', label:'강태민 팀장 매장', theme:'blue', places:[] },
+  { id:'team-yellow', label:'서정우 프로 매장', theme:'yellow', places:[] },
+  { id:'team-pink', label:'유범식 매장', theme:'pink', places:[] },
+];
+
 async function loadStoreGroups(){
+  STORE_GROUPS = DEFAULT_STORE_GROUPS.map(g => ({ ...g, places: [...(g.places || [])] }));
   try{
     const bust = '?t=' + Date.now();
     const res = await fetch('data/store-groups.json'+bust);
     if(res.ok){
       const data = await res.json();
-      STORE_GROUPS = data.groups || [];
+      if(Array.isArray(data.groups) && data.groups.length){
+        STORE_GROUPS = data.groups;
+      }
     }
   }catch(e){}
-  if(!STORE_GROUPS.length){
-    STORE_GROUPS = [{ id:'team-blue', label:'강태민 팀장 매장', theme:'blue', places:[] }];
-  }
 }
 
 function placesForGroup(group){
