@@ -16,6 +16,8 @@
   button{font-family:inherit;}
   .hidden{display:none !important;}
 
+  .team-banner{background:var(--primary); color:#fff; text-align:center; font-size:15px; font-weight:700; padding:10px 16px; letter-spacing:.02em;}
+
   header{background:#fff; border-bottom:1px solid var(--border); padding:16px 28px; display:flex; align-items:center; justify-content:space-between; position:sticky; top:0; z-index:20;}
   .brand{display:flex; align-items:center; gap:11px; cursor:pointer;}
   .logo{width:34px; height:34px; border-radius:9px; background:var(--primary); color:#fff; font-weight:800; display:grid; place-items:center;}
@@ -36,8 +38,8 @@
   .searchbar .btn{border-radius:9px;}
 
   .section-title{text-align:left; font-size:13px; color:var(--muted); font-weight:700; margin:38px 0 12px;}
-  .chips{display:flex; flex-wrap:wrap; gap:10px; justify-content:flex-start;}
-  .chip{background:#fff; border:1px solid var(--border); border-radius:12px; padding:13px 16px; cursor:pointer; text-align:left; transition:.15s; min-width:150px;}
+  .chips{display:flex; flex-direction:column; gap:10px; width:100%;}
+  .chip{background:#fff; border:1px solid var(--border); border-radius:12px; padding:13px 16px; cursor:pointer; text-align:left; transition:.15s; width:100%;}
   .chip:hover{border-color:var(--primary); box-shadow:0 4px 14px rgba(37,99,235,.12);}
   .chip .nm{font-weight:700; font-size:15px;}
   .chip .kw{font-size:12px; color:var(--muted); margin-top:3px;}
@@ -73,6 +75,7 @@
 </style>
 </head>
 <body>
+<div class="team-banner">강태민 팀장</div>
 <header>
   <div class="brand" onclick="goHome()">
     <div class="logo">N</div>
