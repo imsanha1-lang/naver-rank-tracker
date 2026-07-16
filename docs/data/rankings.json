@@ -240,6 +240,16 @@
     "datetime": "2026-07-16 16:21"
   },
   {
+    "keyword": "모래내시장역미용실",
+    "place_name": "리안헤어 구월동점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:22"
+  },
+  {
     "keyword": "구미미용실",
     "place_name": "리안헤어 구미송정형곡점",
     "rank": 75,
@@ -2188,6 +2198,46 @@
     "note": "",
     "date": "2026-07-16",
     "datetime": "2026-07-16 16:19"
+  },
+  {
+    "keyword": "문덕미용실",
+    "place_name": "리안헤어 오천세계점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "검색 목록이 나타나지 않아 수집하지 않음",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:21"
+  },
+  {
+    "keyword": "별내신도시미용실",
+    "place_name": "리안헤어 별내로데오2호점",
+    "rank": 8,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:21"
+  },
+  {
+    "keyword": "별내미용실",
+    "place_name": "리안헤어 별내로데오2호점",
+    "rank": 8,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:21"
+  },
+  {
+    "keyword": "별내동미용실",
+    "place_name": "리안헤어 별내로데오2호점",
+    "rank": 8,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:21"
   },
   {
     "keyword": "안양미용실",
