@@ -230,6 +230,16 @@
     "datetime": "2026-07-16 16:11"
   },
   {
+    "keyword": "모래내시장역미용실",
+    "place_name": "리안헤어 구월동점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 네이버 지도 검색창을 찾지 못했습니다.\n",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:21"
+  },
+  {
     "keyword": "구미미용실",
     "place_name": "리안헤어 구미송정형곡점",
     "rank": 75,
@@ -1958,6 +1968,226 @@
     "note": "",
     "date": "2026-07-16",
     "datetime": "2026-07-16 16:10"
+  },
+  {
+    "keyword": "하계미용실",
+    "place_name": "리안헤어 하계점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "검색 목록이 나타나지 않아 수집하지 않음",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:11"
+  },
+  {
+    "keyword": "하계동미용실",
+    "place_name": "리안헤어 하계점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:12"
+  },
+  {
+    "keyword": "은평구미용실",
+    "place_name": "리안헤어 녹번역점",
+    "rank": 62,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:12"
+  },
+  {
+    "keyword": "녹번동미용실",
+    "place_name": "리안헤어 녹번역점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:12"
+  },
+  {
+    "keyword": "녹번역미용실",
+    "place_name": "리안헤어 녹번역점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:12"
+  },
+  {
+    "keyword": "염창미용실",
+    "place_name": "리안헤어 염창역점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:13"
+  },
+  {
+    "keyword": "염창동미용실",
+    "place_name": "리안헤어 염창역점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:13"
+  },
+  {
+    "keyword": "염창역미용실",
+    "place_name": "리안헤어 염창역점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:13"
+  },
+  {
+    "keyword": "금천구미용실",
+    "place_name": "리안헤어 금천점",
+    "rank": 95,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:14"
+  },
+  {
+    "keyword": "독산동미용실",
+    "place_name": "리안헤어 금천점",
+    "rank": 46,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:14"
+  },
+  {
+    "keyword": "독산미용실",
+    "place_name": "리안헤어 금천점",
+    "rank": 46,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:14"
+  },
+  {
+    "keyword": "춘천미용실",
+    "place_name": "리안헤어 퇴계점",
+    "rank": 19,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:15"
+  },
+  {
+    "keyword": "춘천퇴계동미용실",
+    "place_name": "리안헤어 퇴계점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:15"
+  },
+  {
+    "keyword": "퇴계동미용실",
+    "place_name": "리안헤어 퇴계점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:15"
+  },
+  {
+    "keyword": "김포미용실",
+    "place_name": "리안헤어 김포장기점",
+    "rank": 72,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:16"
+  },
+  {
+    "keyword": "김포장기동미용실",
+    "place_name": "리안헤어 김포장기점",
+    "rank": 15,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:16"
+  },
+  {
+    "keyword": "장기동미용실",
+    "place_name": "리안헤어 김포장기점",
+    "rank": 15,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:16"
+  },
+  {
+    "keyword": "전농미용실",
+    "place_name": "리안헤어 전농사거리점",
+    "rank": 14,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:16"
+  },
+  {
+    "keyword": "전농동미용실",
+    "place_name": "리안헤어 전농사거리점",
+    "rank": 14,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:16"
+  },
+  {
+    "keyword": "전농사거리미용실",
+    "place_name": "리안헤어 전농사거리점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "검색 목록이 나타나지 않아 수집하지 않음",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:18"
+  },
+  {
+    "keyword": "포항미용실",
+    "place_name": "리안헤어 오천세계점",
+    "rank": 258,
+    "rank_with_ads": null,
+    "page": 4,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:19"
+  },
+  {
+    "keyword": "오천미용실",
+    "place_name": "리안헤어 오천세계점",
+    "rank": 34,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:19"
   },
   {
     "keyword": "안양미용실",
