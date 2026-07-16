@@ -180,6 +180,16 @@
     "datetime": "2026-07-16 15:13"
   },
   {
+    "keyword": "모래내시장역미용실",
+    "place_name": "리안헤어 구월동점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "검색 목록이 나타나지 않아 수집하지 않음",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 15:17"
+  },
+  {
     "keyword": "구미미용실",
     "place_name": "리안헤어 구미송정형곡점",
     "rank": 75,
@@ -958,6 +968,66 @@
     "note": "",
     "date": "2026-07-16",
     "datetime": "2026-07-16 15:13"
+  },
+  {
+    "keyword": "청주미용실",
+    "place_name": "리안헤어 오창점",
+    "rank": 62,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 15:14"
+  },
+  {
+    "keyword": "오창미용실",
+    "place_name": "리안헤어 오창점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 15:14"
+  },
+  {
+    "keyword": "오창읍미용실",
+    "place_name": "리안헤어 오창점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 15:14"
+  },
+  {
+    "keyword": "미추홀구미용실",
+    "place_name": "리안헤어 주안시민공원역점",
+    "rank": 76,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 15:15"
+  },
+  {
+    "keyword": "주안동미용실",
+    "place_name": "리안헤어 주안시민공원역점",
+    "rank": 27,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 15:15"
+  },
+  {
+    "keyword": "시민공원역미용실",
+    "place_name": "리안헤어 주안시민공원역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "검색 목록이 나타나지 않아 수집하지 않음",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 15:16"
   },
   {
     "keyword": "안양미용실",
