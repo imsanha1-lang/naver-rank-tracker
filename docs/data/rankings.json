@@ -1100,6 +1100,16 @@
     "datetime": "2026-07-16 12:24"
   },
   {
+    "keyword": "분당야탑미용실",
+    "place_name": "리안헤어 야탑점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 13:27"
+  },
+  {
     "keyword": "야탑역미용실",
     "place_name": "리안헤어 야탑점",
     "rank": 6,
@@ -1628,6 +1638,16 @@
     "note": "",
     "date": "2026-07-16",
     "datetime": "2026-07-16 13:20"
+  },
+  {
+    "keyword": "검단미용실",
+    "place_name": "리안헤어 검단신도시법조타운점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: HTTPConnectionPool(host='localhost', port=50821): Read timed out. (read timeout=120)",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 13:24"
   },
   {
     "keyword": "안양미용실",
