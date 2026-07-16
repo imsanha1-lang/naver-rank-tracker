@@ -250,6 +250,26 @@
     "datetime": "2026-07-16 16:22"
   },
   {
+    "keyword": "모래내시장역미용실",
+    "place_name": "리안헤어 구월동점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:23"
+  },
+  {
+    "keyword": "모래내시장역미용실",
+    "place_name": "리안헤어 구월동점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:27"
+  },
+  {
     "keyword": "구미미용실",
     "place_name": "리안헤어 구미송정형곡점",
     "rank": 75,
@@ -2238,6 +2258,146 @@
     "note": "",
     "date": "2026-07-16",
     "datetime": "2026-07-16 16:21"
+  },
+  {
+    "keyword": "고덕강일미용실",
+    "place_name": "리안헤어 강일2지구점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "검색 목록이 나타나지 않아 수집하지 않음",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:23"
+  },
+  {
+    "keyword": "강일미용실",
+    "place_name": "리안헤어 강일2지구점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:23"
+  },
+  {
+    "keyword": "강일동미용실",
+    "place_name": "리안헤어 강일2지구점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:23"
+  },
+  {
+    "keyword": "경기광주미용실",
+    "place_name": "리안헤어 경안동점",
+    "rank": 13,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:23"
+  },
+  {
+    "keyword": "광주경안동미용실",
+    "place_name": "리안헤어 경안동점",
+    "rank": 9,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:23"
+  },
+  {
+    "keyword": "경안동미용실",
+    "place_name": "리안헤어 경안동점",
+    "rank": 9,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:23"
+  },
+  {
+    "keyword": "부산미용실",
+    "place_name": "어썸헤어바이명작",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "5페이지·318건 검색 · 미발견",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:25"
+  },
+  {
+    "keyword": "영도미용실",
+    "place_name": "어썸헤어바이명작",
+    "rank": 17,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:25"
+  },
+  {
+    "keyword": "신선동미용실",
+    "place_name": "어썸헤어바이명작",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:25"
+  },
+  {
+    "keyword": "부산미용실",
+    "place_name": "어썸헤어 서면점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "5페이지·318건 검색 · 미발견",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:26"
+  },
+  {
+    "keyword": "서면미용실",
+    "place_name": "어썸헤어 서면점",
+    "rank": 77,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:26"
+  },
+  {
+    "keyword": "부전동미용실",
+    "place_name": "어썸헤어 서면점",
+    "rank": 51,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:27"
+  },
+  {
+    "keyword": "청주미용실",
+    "place_name": "리안헤어 청주산남점",
+    "rank": 97,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:27"
+  },
+  {
+    "keyword": "청주산남동미용실",
+    "place_name": "리안헤어 청주산남점",
+    "rank": 2,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 16:27"
   },
   {
     "keyword": "안양미용실",
