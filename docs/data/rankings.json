@@ -170,6 +170,16 @@
     "datetime": "2026-07-16 15:12"
   },
   {
+    "keyword": "모래내시장역미용실",
+    "place_name": "리안헤어 구월동점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "검색 목록이 나타나지 않아 수집하지 않음",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 15:13"
+  },
+  {
     "keyword": "구미미용실",
     "place_name": "리안헤어 구미송정형곡점",
     "rank": 75,
@@ -918,6 +928,36 @@
     "note": "",
     "date": "2026-07-16",
     "datetime": "2026-07-16 15:12"
+  },
+  {
+    "keyword": "부평구미용실",
+    "place_name": "리안헤어 부평부흥로점",
+    "rank": 77,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 15:13"
+  },
+  {
+    "keyword": "부평미용실",
+    "place_name": "리안헤어 부평부흥로점",
+    "rank": 77,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 15:13"
+  },
+  {
+    "keyword": "부평동미용실",
+    "place_name": "리안헤어 부평부흥로점",
+    "rank": 52,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-16",
+    "datetime": "2026-07-16 15:13"
   },
   {
     "keyword": "안양미용실",
