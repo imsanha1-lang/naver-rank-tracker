@@ -7590,6 +7590,16 @@
     "datetime": "2026-07-20 10:42"
   },
   {
+    "keyword": "광주남구미용실",
+    "place_name": "리안헤어 봉선점",
+    "rank": 32,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:29"
+  },
+  {
     "keyword": "봉선동미용실",
     "place_name": "리안헤어 봉선점",
     "rank": 10,
@@ -7598,6 +7608,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 10:42"
+  },
+  {
+    "keyword": "봉선동미용실",
+    "place_name": "리안헤어 봉선점",
+    "rank": 10,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:30"
   },
   {
     "keyword": "광주미용실",
@@ -7610,9 +7630,39 @@
     "datetime": "2026-07-20 10:44"
   },
   {
+    "keyword": "광주미용실",
+    "place_name": "리안헤어 광주진월점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "5페이지·318건 검색 · 미발견 유사매장: 리안헤어 광주운남점, 리안헤어 계림점, 리안헤어 동림하나로점",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:31"
+  },
+  {
     "keyword": "광주남구미용실",
     "place_name": "리안헤어 광주진월점",
     "rank": 54,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:44"
+  },
+  {
+    "keyword": "광주남구미용실",
+    "place_name": "리안헤어 광주진월점",
+    "rank": 55,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:31"
+  },
+  {
+    "keyword": "진월동미용실",
+    "place_name": "리안헤어 광주진월점",
+    "rank": 12,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -7627,7 +7677,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 10:44"
+    "datetime": "2026-07-20 13:31"
   },
   {
     "keyword": "구로미용실",
