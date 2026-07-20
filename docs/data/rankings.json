@@ -3710,6 +3710,16 @@
     "datetime": "2026-07-20 09:56"
   },
   {
+    "keyword": "신대방삼거리미용실",
+    "place_name": "리안헤어 신대방삼거리역점",
+    "rank": 11,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:49"
+  },
+  {
     "keyword": "신대방삼거리역미용실",
     "place_name": "리안헤어 신대방삼거리역점",
     "rank": 1,
@@ -3718,6 +3728,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:56"
+  },
+  {
+    "keyword": "신대방삼거리역미용실",
+    "place_name": "리안헤어 신대방삼거리역점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:50"
   },
   {
     "keyword": "상도동미용실",
@@ -3730,6 +3750,16 @@
     "datetime": "2026-07-20 09:56"
   },
   {
+    "keyword": "상도동미용실",
+    "place_name": "리안헤어 성대시장점",
+    "rank": 13,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:50"
+  },
+  {
     "keyword": "신대방삼거리미용실",
     "place_name": "리안헤어 성대시장점",
     "rank": null,
@@ -3740,9 +3770,39 @@
     "datetime": "2026-07-20 09:57"
   },
   {
+    "keyword": "신대방삼거리미용실",
+    "place_name": "리안헤어 성대시장점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "1페이지·46건 검색 · 미발견 유사매장: 리안헤어 신대방삼거리역점",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:50"
+  },
+  {
     "keyword": "성대시장미용실",
     "place_name": "리안헤어 성대시장점",
     "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 09:57"
+  },
+  {
+    "keyword": "성대시장미용실",
+    "place_name": "리안헤어 성대시장점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:50"
+  },
+  {
+    "keyword": "경기광주미용실",
+    "place_name": "리안헤어 삼동역점",
+    "rank": 11,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -3757,10 +3817,30 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
+    "datetime": "2026-07-20 12:50"
+  },
+  {
+    "keyword": "광주삼동미용실",
+    "place_name": "리안헤어 삼동역점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
     "datetime": "2026-07-20 09:57"
   },
   {
     "keyword": "광주삼동미용실",
+    "place_name": "리안헤어 삼동역점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:50"
+  },
+  {
+    "keyword": "삼동역미용실",
     "place_name": "리안헤어 삼동역점",
     "rank": 1,
     "rank_with_ads": null,
@@ -3777,7 +3857,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 09:57"
+    "datetime": "2026-07-20 12:50"
   },
   {
     "keyword": "경기광주미용실",
@@ -3830,6 +3910,16 @@
     "datetime": "2026-07-20 11:36"
   },
   {
+    "keyword": "경기광주미용실",
+    "place_name": "리안헤어 광주태전동점",
+    "rank": 15,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:51"
+  },
+  {
     "keyword": "광주태전동미용실",
     "place_name": "리안헤어 광주태전동점",
     "rank": 4,
@@ -3838,6 +3928,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:58"
+  },
+  {
+    "keyword": "광주태전동미용실",
+    "place_name": "리안헤어 광주태전동점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:51"
   },
   {
     "keyword": "태전동미용실",
@@ -3850,6 +3950,16 @@
     "datetime": "2026-07-20 09:58"
   },
   {
+    "keyword": "태전동미용실",
+    "place_name": "리안헤어 광주태전동점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:51"
+  },
+  {
     "keyword": "김포미용실",
     "place_name": "리안헤어 김포걸포점",
     "rank": 98,
@@ -3860,7 +3970,37 @@
     "datetime": "2026-07-20 09:58"
   },
   {
+    "keyword": "김포미용실",
+    "place_name": "리안헤어 김포걸포점",
+    "rank": 95,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:51"
+  },
+  {
     "keyword": "걸포동미용실",
+    "place_name": "리안헤어 김포걸포점",
+    "rank": 6,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 09:58"
+  },
+  {
+    "keyword": "걸포동미용실",
+    "place_name": "리안헤어 김포걸포점",
+    "rank": 6,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:51"
+  },
+  {
+    "keyword": "걸포북변역미용실",
     "place_name": "리안헤어 김포걸포점",
     "rank": 6,
     "rank_with_ads": null,
@@ -3877,7 +4017,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 09:58"
+    "datetime": "2026-07-20 12:51"
   },
   {
     "keyword": "상도동미용실",
@@ -3888,6 +4028,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:59"
+  },
+  {
+    "keyword": "상도동미용실",
+    "place_name": "리안헤어 상도역점",
+    "rank": 3,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:51"
   },
   {
     "keyword": "상도미용실",
