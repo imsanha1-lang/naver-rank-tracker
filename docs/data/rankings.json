@@ -2960,6 +2960,16 @@
     "datetime": "2026-07-20 09:41"
   },
   {
+    "keyword": "우장산역미용실",
+    "place_name": "리안헤어 우장산역점",
+    "rank": 4,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:35"
+  },
+  {
     "keyword": "수원미용실",
     "place_name": "리안헤어 오목천역점",
     "rank": 93,
@@ -2970,7 +2980,37 @@
     "datetime": "2026-07-20 09:41"
   },
   {
+    "keyword": "수원미용실",
+    "place_name": "리안헤어 오목천역점",
+    "rank": 94,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:36"
+  },
+  {
     "keyword": "오목천동미용실",
+    "place_name": "리안헤어 오목천역점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 09:41"
+  },
+  {
+    "keyword": "오목천동미용실",
+    "place_name": "리안헤어 오목천역점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:36"
+  },
+  {
+    "keyword": "오목천역미용실",
     "place_name": "리안헤어 오목천역점",
     "rank": 1,
     "rank_with_ads": null,
@@ -2987,7 +3027,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 09:41"
+    "datetime": "2026-07-20 12:36"
   },
   {
     "keyword": "강남미용실",
@@ -2998,6 +3038,16 @@
     "note": "5페이지·317건 검색 · 미발견 유사매장: 리안헤어 강남일원점",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:43"
+  },
+  {
+    "keyword": "강남미용실",
+    "place_name": "리안헤어 강남역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "5페이지·317건 검색 · 미발견 유사매장: 리안헤어 강남양재역점, 리안헤어 강남일원점",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:37"
   },
   {
     "keyword": "서초동미용실",
