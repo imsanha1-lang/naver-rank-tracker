@@ -6320,6 +6320,16 @@
     "datetime": "2026-07-20 10:26"
   },
   {
+    "keyword": "수성구미용실",
+    "place_name": "비욘드헤어",
+    "rank": 127,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:17"
+  },
+  {
     "keyword": "범어동미용실",
     "place_name": "비욘드헤어",
     "rank": null,
@@ -6328,6 +6338,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 10:27"
+  },
+  {
+    "keyword": "범어동미용실",
+    "place_name": "비욘드헤어",
+    "rank": 33,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:17"
   },
   {
     "keyword": "달서구미용실",
@@ -6340,6 +6360,16 @@
     "datetime": "2026-07-20 10:27"
   },
   {
+    "keyword": "달서구미용실",
+    "place_name": "헤어비방드 월성점",
+    "rank": 37,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:18"
+  },
+  {
     "keyword": "신월성미용실",
     "place_name": "헤어비방드 월성점",
     "rank": 15,
@@ -6348,6 +6378,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 10:27"
+  },
+  {
+    "keyword": "신월성미용실",
+    "place_name": "헤어비방드 월성점",
+    "rank": 16,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:18"
   },
   {
     "keyword": "월성동미용실",
@@ -6360,6 +6400,16 @@
     "datetime": "2026-07-20 10:27"
   },
   {
+    "keyword": "월성동미용실",
+    "place_name": "헤어비방드 월성점",
+    "rank": 13,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:18"
+  },
+  {
     "keyword": "미추홀구미용실",
     "place_name": "리안헤어 용현점",
     "rank": 48,
@@ -6370,7 +6420,37 @@
     "datetime": "2026-07-20 10:28"
   },
   {
+    "keyword": "미추홀구미용실",
+    "place_name": "리안헤어 용현점",
+    "rank": 49,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:18"
+  },
+  {
     "keyword": "용현동미용실",
+    "place_name": "리안헤어 용현점",
+    "rank": 16,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:28"
+  },
+  {
+    "keyword": "용현동미용실",
+    "place_name": "리안헤어 용현점",
+    "rank": 16,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:18"
+  },
+  {
+    "keyword": "용현미용실",
     "place_name": "리안헤어 용현점",
     "rank": 16,
     "rank_with_ads": null,
@@ -6387,7 +6467,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 10:28"
+    "datetime": "2026-07-20 13:18"
   },
   {
     "keyword": "동탄미용실",
@@ -6400,6 +6480,16 @@
     "datetime": "2026-07-20 10:28"
   },
   {
+    "keyword": "동탄미용실",
+    "place_name": "리안헤어 동탄2신도시영천점",
+    "rank": 43,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:19"
+  },
+  {
     "keyword": "동탄2미용실",
     "place_name": "리안헤어 동탄2신도시영천점",
     "rank": 28,
@@ -6408,6 +6498,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 10:28"
+  },
+  {
+    "keyword": "동탄2미용실",
+    "place_name": "리안헤어 동탄2신도시영천점",
+    "rank": 31,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:19"
   },
   {
     "keyword": "영천동미용실",
