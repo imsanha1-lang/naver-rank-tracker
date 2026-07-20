@@ -830,6 +830,16 @@
     "datetime": "2026-07-20 11:14"
   },
   {
+    "keyword": "사당동미용실",
+    "place_name": "리안헤어 이수이마트점",
+    "rank": 14,
+    "rank_with_ads": 17,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:07"
+  },
+  {
     "keyword": "이수역미용실",
     "place_name": "리안헤어 이수이마트점",
     "rank": 10,
@@ -838,6 +848,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:07"
+  },
+  {
+    "keyword": "이수역미용실",
+    "place_name": "리안헤어 이수이마트점",
+    "rank": 10,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:07"
   },
   {
     "keyword": "덕양구미용실",
@@ -850,7 +870,37 @@
     "datetime": "2026-07-20 09:08"
   },
   {
+    "keyword": "덕양구미용실",
+    "place_name": "리안헤어 행신역2호점",
+    "rank": 60,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:07"
+  },
+  {
     "keyword": "행신동미용실",
+    "place_name": "리안헤어 행신역2호점",
+    "rank": 8,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 09:08"
+  },
+  {
+    "keyword": "행신동미용실",
+    "place_name": "리안헤어 행신역2호점",
+    "rank": 9,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:07"
+  },
+  {
+    "keyword": "행신역미용실",
     "place_name": "리안헤어 행신역2호점",
     "rank": 8,
     "rank_with_ads": null,
@@ -867,7 +917,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 09:08"
+    "datetime": "2026-07-20 12:07"
   },
   {
     "keyword": "수성구미용실",
@@ -880,6 +930,16 @@
     "datetime": "2026-07-20 09:09"
   },
   {
+    "keyword": "수성구미용실",
+    "place_name": "리안헤어 범어점",
+    "rank": 86,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:08"
+  },
+  {
     "keyword": "대구범어미용실",
     "place_name": "리안헤어 범어점",
     "rank": 40,
@@ -888,6 +948,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:09"
+  },
+  {
+    "keyword": "대구범어미용실",
+    "place_name": "리안헤어 범어점",
+    "rank": 26,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:08"
   },
   {
     "keyword": "범어동미용실",
@@ -900,6 +970,16 @@
     "datetime": "2026-07-20 09:09"
   },
   {
+    "keyword": "범어동미용실",
+    "place_name": "리안헤어 범어점",
+    "rank": 26,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:08"
+  },
+  {
     "keyword": "강남구미용실",
     "place_name": "리안헤어 강남양재역점",
     "rank": null,
@@ -908,6 +988,16 @@
     "note": "5페이지·317건 검색 · 미발견 유사매장: 리안헤어 강남일원점",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:11"
+  },
+  {
+    "keyword": "강남구미용실",
+    "place_name": "리안헤어 강남양재역점",
+    "rank": null,
+    "rank_with_ads": 3,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:08"
   },
   {
     "keyword": "도곡동미용실",
@@ -920,6 +1010,16 @@
     "datetime": "2026-07-20 09:11"
   },
   {
+    "keyword": "도곡동미용실",
+    "place_name": "리안헤어 강남양재역점",
+    "rank": 9,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:09"
+  },
+  {
     "keyword": "양재역미용실",
     "place_name": "리안헤어 강남양재역점",
     "rank": 15,
@@ -930,6 +1030,16 @@
     "datetime": "2026-07-20 09:11"
   },
   {
+    "keyword": "양재역미용실",
+    "place_name": "리안헤어 강남양재역점",
+    "rank": 15,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:09"
+  },
+  {
     "keyword": "양천구미용실",
     "place_name": "리안헤어 목동파리공원점",
     "rank": 34,
@@ -938,6 +1048,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:11"
+  },
+  {
+    "keyword": "양천구미용실",
+    "place_name": "리안헤어 목동파리공원점",
+    "rank": 33,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:09"
   },
   {
     "keyword": "목동미용실",
