@@ -560,6 +560,16 @@
     "datetime": "2026-07-20 09:05"
   },
   {
+    "keyword": "부천미용실",
+    "place_name": "리안헤어 부천역점",
+    "rank": 141,
+    "rank_with_ads": null,
+    "page": 3,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:05"
+  },
+  {
     "keyword": "심곡동미용실",
     "place_name": "리안헤어 부천역점",
     "rank": 14,
@@ -568,6 +578,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:05"
+  },
+  {
+    "keyword": "심곡동미용실",
+    "place_name": "리안헤어 부천역점",
+    "rank": 14,
+    "rank_with_ads": 10,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:05"
   },
   {
     "keyword": "부천역미용실",
@@ -580,6 +600,16 @@
     "datetime": "2026-07-20 09:05"
   },
   {
+    "keyword": "부천역미용실",
+    "place_name": "리안헤어 부천역점",
+    "rank": 15,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:05"
+  },
+  {
     "keyword": "미추홀구미용실",
     "place_name": "리안헤어 인천미추홀점",
     "rank": 12,
@@ -588,6 +618,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:06"
+  },
+  {
+    "keyword": "미추홀구미용실",
+    "place_name": "리안헤어 인천미추홀점",
+    "rank": 14,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:06"
   },
   {
     "keyword": "용현동미용실",
@@ -600,6 +640,16 @@
     "datetime": "2026-07-20 09:06"
   },
   {
+    "keyword": "용현동미용실",
+    "place_name": "리안헤어 인천미추홀점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:06"
+  },
+  {
     "keyword": "숭의역미용실",
     "place_name": "리안헤어 인천미추홀점",
     "rank": 36,
@@ -610,9 +660,39 @@
     "datetime": "2026-07-20 09:06"
   },
   {
+    "keyword": "숭의역미용실",
+    "place_name": "리안헤어 인천미추홀점",
+    "rank": 41,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:06"
+  },
+  {
     "keyword": "광명미용실",
     "place_name": "리안헤어 광명사거리역점",
     "rank": 9,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 09:06"
+  },
+  {
+    "keyword": "광명미용실",
+    "place_name": "리안헤어 광명사거리역점",
+    "rank": 8,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:06"
+  },
+  {
+    "keyword": "광명동미용실",
+    "place_name": "리안헤어 광명사거리역점",
+    "rank": 2,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -627,12 +707,32 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
+    "datetime": "2026-07-20 12:06"
+  },
+  {
+    "keyword": "광명사거리역미용실",
+    "place_name": "리안헤어 광명사거리역점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
     "datetime": "2026-07-20 09:06"
   },
   {
     "keyword": "광명사거리역미용실",
     "place_name": "리안헤어 광명사거리역점",
     "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:06"
+  },
+  {
+    "keyword": "영종도미용실",
+    "place_name": "리안헤어 영종하늘도시점",
+    "rank": 5,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -647,12 +747,32 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 09:06"
+    "datetime": "2026-07-20 12:06"
   },
   {
     "keyword": "영종하늘도시미용실",
     "place_name": "리안헤어 영종하늘도시점",
     "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 09:07"
+  },
+  {
+    "keyword": "영종하늘도시미용실",
+    "place_name": "리안헤어 영종하늘도시점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:06"
+  },
+  {
+    "keyword": "중산동미용실",
+    "place_name": "리안헤어 영종하늘도시점",
+    "rank": 3,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -667,7 +787,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 09:07"
+    "datetime": "2026-07-20 12:06"
   },
   {
     "keyword": "동작구미용실",
@@ -678,6 +798,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:07"
+  },
+  {
+    "keyword": "동작구미용실",
+    "place_name": "리안헤어 이수이마트점",
+    "rank": 33,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:07"
   },
   {
     "keyword": "사당동미용실",
