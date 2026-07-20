@@ -5810,6 +5810,16 @@
     "datetime": "2026-07-20 13:11"
   },
   {
+    "keyword": "감일신도시미용실",
+    "place_name": "리안헤어 감일중앙로점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:23"
+  },
+  {
     "keyword": "감일동미용실",
     "place_name": "리안헤어 감일중앙로점",
     "rank": 76,
@@ -6740,9 +6750,39 @@
     "datetime": "2026-07-20 10:32"
   },
   {
+    "keyword": "동탄2미용실",
+    "place_name": "리안헤어 동탄장지점",
+    "rank": 93,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:22"
+  },
+  {
     "keyword": "동탄장지동미용실",
     "place_name": "리안헤어 동탄장지점",
     "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:32"
+  },
+  {
+    "keyword": "동탄장지동미용실",
+    "place_name": "리안헤어 동탄장지점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:22"
+  },
+  {
+    "keyword": "홍성미용실",
+    "place_name": "리안헤어 내포중앙점",
+    "rank": 3,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -6757,7 +6797,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 10:32"
+    "datetime": "2026-07-20 13:22"
   },
   {
     "keyword": "내포신도시미용실",
@@ -6770,6 +6810,16 @@
     "datetime": "2026-07-20 10:32"
   },
   {
+    "keyword": "내포신도시미용실",
+    "place_name": "리안헤어 내포중앙점",
+    "rank": 4,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:22"
+  },
+  {
     "keyword": "내포미용실",
     "place_name": "리안헤어 내포중앙점",
     "rank": 3,
@@ -6778,6 +6828,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 10:32"
+  },
+  {
+    "keyword": "내포미용실",
+    "place_name": "리안헤어 내포중앙점",
+    "rank": 4,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:22"
   },
   {
     "keyword": "예산미용실",
@@ -6790,6 +6850,16 @@
     "datetime": "2026-07-20 10:32"
   },
   {
+    "keyword": "예산미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:23"
+  },
+  {
     "keyword": "내포미용실",
     "place_name": "리안헤어 충남도청점",
     "rank": 4,
@@ -6800,6 +6870,16 @@
     "datetime": "2026-07-20 10:32"
   },
   {
+    "keyword": "내포미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:23"
+  },
+  {
     "keyword": "충남도청미용실",
     "place_name": "리안헤어 충남도청점",
     "rank": 1,
@@ -6808,6 +6888,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 10:33"
+  },
+  {
+    "keyword": "충남도청미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:23"
   },
   {
     "keyword": "홍성미용실",
