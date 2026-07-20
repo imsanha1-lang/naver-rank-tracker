@@ -5450,6 +5450,16 @@
     "datetime": "2026-07-20 10:17"
   },
   {
+    "keyword": "반여미용실",
+    "place_name": "리안헤어 반여점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:08"
+  },
+  {
     "keyword": "반여동미용실",
     "place_name": "리안헤어 반여점",
     "rank": 3,
@@ -5458,6 +5468,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 10:17"
+  },
+  {
+    "keyword": "반여동미용실",
+    "place_name": "리안헤어 반여점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:08"
   },
   {
     "keyword": "파주미용실",
@@ -5470,9 +5490,39 @@
     "datetime": "2026-07-20 10:18"
   },
   {
+    "keyword": "파주미용실",
+    "place_name": "리안헤어 운정별하람마을점",
+    "rank": 38,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:08"
+  },
+  {
     "keyword": "운정미용실",
     "place_name": "리안헤어 운정별하람마을점",
     "rank": 66,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:18"
+  },
+  {
+    "keyword": "운정미용실",
+    "place_name": "리안헤어 운정별하람마을점",
+    "rank": 34,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:08"
+  },
+  {
+    "keyword": "별하람마을미용실",
+    "place_name": "리안헤어 운정별하람마을점",
+    "rank": 2,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -5487,12 +5537,32 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 10:18"
+    "datetime": "2026-07-20 13:08"
   },
   {
     "keyword": "월계동미용실",
     "place_name": "리안헤어 석계역점",
     "rank": 9,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:19"
+  },
+  {
+    "keyword": "월계동미용실",
+    "place_name": "리안헤어 석계역점",
+    "rank": 10,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:09"
+  },
+  {
+    "keyword": "석계미용실",
+    "place_name": "리안헤어 석계역점",
+    "rank": 3,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -5507,12 +5577,32 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
+    "datetime": "2026-07-20 13:09"
+  },
+  {
+    "keyword": "석계역미용실",
+    "place_name": "리안헤어 석계역점",
+    "rank": 8,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
     "datetime": "2026-07-20 10:19"
   },
   {
     "keyword": "석계역미용실",
     "place_name": "리안헤어 석계역점",
     "rank": 8,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:09"
+  },
+  {
+    "keyword": "부산남구미용실",
+    "place_name": "리안헤어 경성대점",
+    "rank": 16,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -5527,10 +5617,30 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
+    "datetime": "2026-07-20 13:09"
+  },
+  {
+    "keyword": "대연동미용실",
+    "place_name": "리안헤어 경성대점",
+    "rank": 14,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
     "datetime": "2026-07-20 10:19"
   },
   {
     "keyword": "대연동미용실",
+    "place_name": "리안헤어 경성대점",
+    "rank": 14,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:09"
+  },
+  {
+    "keyword": "경성대미용실",
     "place_name": "리안헤어 경성대점",
     "rank": 14,
     "rank_with_ads": null,
@@ -5547,7 +5657,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 10:19"
+    "datetime": "2026-07-20 13:09"
   },
   {
     "keyword": "남양주청학리미용실",
@@ -5560,7 +5670,37 @@
     "datetime": "2026-07-20 10:20"
   },
   {
+    "keyword": "남양주청학리미용실",
+    "place_name": "리안헤어 별내청학리2호점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:09"
+  },
+  {
     "keyword": "별내청학리미용실",
+    "place_name": "리안헤어 별내청학리2호점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:20"
+  },
+  {
+    "keyword": "별내청학리미용실",
+    "place_name": "리안헤어 별내청학리2호점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:09"
+  },
+  {
+    "keyword": "청학리미용실",
     "place_name": "리안헤어 별내청학리2호점",
     "rank": 1,
     "rank_with_ads": null,
@@ -5577,7 +5717,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 10:20"
+    "datetime": "2026-07-20 13:09"
   },
   {
     "keyword": "하남감일미용실",
