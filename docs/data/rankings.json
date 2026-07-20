@@ -2500,6 +2500,16 @@
     "datetime": "2026-07-20 09:30"
   },
   {
+    "keyword": "천호동미용실",
+    "place_name": "H STYLE헤어살롱 강동역점",
+    "rank": 72,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:25"
+  },
+  {
     "keyword": "강동역미용실",
     "place_name": "H STYLE헤어살롱 강동역점",
     "rank": 34,
@@ -2508,6 +2518,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:30"
+  },
+  {
+    "keyword": "강동역미용실",
+    "place_name": "H STYLE헤어살롱 강동역점",
+    "rank": 34,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:25"
   },
   {
     "keyword": "강동구미용실",
@@ -2520,7 +2540,37 @@
     "datetime": "2026-07-20 09:32"
   },
   {
+    "keyword": "강동구미용실",
+    "place_name": "리안헤어 천호역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "5페이지·318건 검색 · 미발견 유사매장: 리안헤어 천일초교점, 리안헤어 천호로데오점, 리안헤어 천일초교점",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:27"
+  },
+  {
     "keyword": "천호미용실",
+    "place_name": "리안헤어 천호역점",
+    "rank": 19,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 09:32"
+  },
+  {
+    "keyword": "천호미용실",
+    "place_name": "리안헤어 천호역점",
+    "rank": 19,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:27"
+  },
+  {
+    "keyword": "천호역미용실",
     "place_name": "리안헤어 천호역점",
     "rank": 19,
     "rank_with_ads": null,
@@ -2537,7 +2587,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 09:32"
+    "datetime": "2026-07-20 12:27"
   },
   {
     "keyword": "광주서구미용실",
