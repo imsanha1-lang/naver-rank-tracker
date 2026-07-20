@@ -8760,6 +8760,16 @@
     "datetime": "2026-07-20 11:07"
   },
   {
+    "keyword": "가락동미용실",
+    "place_name": "리안헤어 가락시장역점",
+    "rank": 16,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:49"
+  },
+  {
     "keyword": "가락시장역미용실",
     "place_name": "리안헤어 가락시장역점",
     "rank": 5,
@@ -8768,6 +8778,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 11:08"
+  },
+  {
+    "keyword": "가락시장역미용실",
+    "place_name": "리안헤어 가락시장역점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:49"
   },
   {
     "keyword": "은평구미용실",
@@ -8780,7 +8800,37 @@
     "datetime": "2026-07-20 11:08"
   },
   {
+    "keyword": "은평구미용실",
+    "place_name": "보그헤어 응암역점",
+    "rank": 8,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:50"
+  },
+  {
     "keyword": "응암동미용실",
+    "place_name": "보그헤어 응암역점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 11:08"
+  },
+  {
+    "keyword": "응암동미용실",
+    "place_name": "보그헤어 응암역점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:50"
+  },
+  {
+    "keyword": "응암역미용실",
     "place_name": "보그헤어 응암역점",
     "rank": 1,
     "rank_with_ads": null,
@@ -8797,7 +8847,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 11:08"
+    "datetime": "2026-07-20 13:50"
   },
   {
     "keyword": "은평구미용실",
