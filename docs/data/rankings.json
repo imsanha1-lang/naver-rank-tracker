@@ -3410,6 +3410,16 @@
     "datetime": "2026-07-20 09:52"
   },
   {
+    "keyword": "마곡동미용실",
+    "place_name": "리안헤어 마곡역점",
+    "rank": 64,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:45"
+  },
+  {
     "keyword": "마곡역미용실",
     "place_name": "리안헤어 마곡역점",
     "rank": 40,
@@ -3418,6 +3428,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:53"
+  },
+  {
+    "keyword": "마곡역미용실",
+    "place_name": "리안헤어 마곡역점",
+    "rank": 42,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:46"
   },
   {
     "keyword": "검단미용실",
@@ -3430,6 +3450,16 @@
     "datetime": "2026-07-20 09:53"
   },
   {
+    "keyword": "검단미용실",
+    "place_name": "리안헤어 검단신도시 원당점",
+    "rank": 26,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:46"
+  },
+  {
     "keyword": "검단신도시미용실",
     "place_name": "리안헤어 검단신도시 원당점",
     "rank": 27,
@@ -3438,6 +3468,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:53"
+  },
+  {
+    "keyword": "검단신도시미용실",
+    "place_name": "리안헤어 검단신도시 원당점",
+    "rank": 26,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:46"
   },
   {
     "keyword": "원당동미용실",
@@ -3450,7 +3490,37 @@
     "datetime": "2026-07-20 09:53"
   },
   {
+    "keyword": "원당동미용실",
+    "place_name": "리안헤어 검단신도시 원당점",
+    "rank": 23,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:46"
+  },
+  {
     "keyword": "검단미용실",
+    "place_name": "리안헤어 검단신도시법조타운점",
+    "rank": 69,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 09:54"
+  },
+  {
+    "keyword": "검단미용실",
+    "place_name": "리안헤어 검단신도시법조타운점",
+    "rank": 69,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:47"
+  },
+  {
+    "keyword": "검단신도시미용실",
     "place_name": "리안헤어 검단신도시법조타운점",
     "rank": 69,
     "rank_with_ads": null,
@@ -3467,7 +3537,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 09:54"
+    "datetime": "2026-07-20 12:47"
   },
   {
     "keyword": "당하동미용실",
@@ -3478,6 +3548,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:54"
+  },
+  {
+    "keyword": "당하동미용실",
+    "place_name": "리안헤어 검단신도시법조타운점",
+    "rank": null,
+    "rank_with_ads": 30,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:47"
   },
   {
     "keyword": "영등포미용실",
