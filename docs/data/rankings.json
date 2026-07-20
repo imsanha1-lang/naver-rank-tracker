@@ -7950,6 +7950,16 @@
     "datetime": "2026-07-20 10:51"
   },
   {
+    "keyword": "낙성대미용실",
+    "place_name": "리안헤어 낙성대점",
+    "rank": 32,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:37"
+  },
+  {
     "keyword": "낙성대역미용실",
     "place_name": "리안헤어 낙성대점",
     "rank": 32,
@@ -7958,6 +7968,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 10:51"
+  },
+  {
+    "keyword": "낙성대역미용실",
+    "place_name": "리안헤어 낙성대점",
+    "rank": 32,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:37"
   },
   {
     "keyword": "강남구미용실",
@@ -7970,7 +7990,37 @@
     "datetime": "2026-07-20 10:52"
   },
   {
+    "keyword": "강남구미용실",
+    "place_name": "리안헤어 수서역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "5페이지·317건 검색 · 미발견 유사매장: 리안헤어 강남양재역점, 리안헤어 강남일원점",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:39"
+  },
+  {
     "keyword": "수서동미용실",
+    "place_name": "리안헤어 수서역점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:52"
+  },
+  {
+    "keyword": "수서동미용실",
+    "place_name": "리안헤어 수서역점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:39"
+  },
+  {
+    "keyword": "수서역미용실",
     "place_name": "리안헤어 수서역점",
     "rank": 2,
     "rank_with_ads": null,
@@ -7987,7 +8037,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 10:52"
+    "datetime": "2026-07-20 13:39"
   },
   {
     "keyword": "강동구미용실",
@@ -7998,6 +8048,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 10:53"
+  },
+  {
+    "keyword": "강동구미용실",
+    "place_name": "리안헤어 상일동역점",
+    "rank": 137,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:40"
   },
   {
     "keyword": "상일동미용실",
