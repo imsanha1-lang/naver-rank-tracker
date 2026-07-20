@@ -4290,6 +4290,16 @@
     "datetime": "2026-07-20 10:02"
   },
   {
+    "keyword": "독산동미용실",
+    "place_name": "리안헤어 금천점",
+    "rank": 50,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:54"
+  },
+  {
     "keyword": "독산미용실",
     "place_name": "리안헤어 금천점",
     "rank": 50,
@@ -4298,6 +4308,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 10:02"
+  },
+  {
+    "keyword": "독산미용실",
+    "place_name": "리안헤어 금천점",
+    "rank": 50,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:54"
   },
   {
     "keyword": "춘천미용실",
@@ -4310,7 +4330,37 @@
     "datetime": "2026-07-20 10:02"
   },
   {
+    "keyword": "춘천미용실",
+    "place_name": "리안헤어 퇴계점",
+    "rank": 19,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:54"
+  },
+  {
     "keyword": "춘천퇴계동미용실",
+    "place_name": "리안헤어 퇴계점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:02"
+  },
+  {
+    "keyword": "춘천퇴계동미용실",
+    "place_name": "리안헤어 퇴계점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:54"
+  },
+  {
+    "keyword": "퇴계동미용실",
     "place_name": "리안헤어 퇴계점",
     "rank": 3,
     "rank_with_ads": null,
@@ -4327,7 +4377,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 10:02"
+    "datetime": "2026-07-20 12:54"
   },
   {
     "keyword": "김포미용실",
@@ -4340,7 +4390,37 @@
     "datetime": "2026-07-20 10:03"
   },
   {
+    "keyword": "김포미용실",
+    "place_name": "리안헤어 김포장기점",
+    "rank": 44,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:55"
+  },
+  {
     "keyword": "김포장기동미용실",
+    "place_name": "리안헤어 김포장기점",
+    "rank": 10,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:03"
+  },
+  {
+    "keyword": "김포장기동미용실",
+    "place_name": "리안헤어 김포장기점",
+    "rank": 10,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:55"
+  },
+  {
+    "keyword": "장기동미용실",
     "place_name": "리안헤어 김포장기점",
     "rank": 10,
     "rank_with_ads": null,
@@ -4357,7 +4437,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 10:03"
+    "datetime": "2026-07-20 12:55"
   },
   {
     "keyword": "전농미용실",
@@ -4370,9 +4450,39 @@
     "datetime": "2026-07-20 10:03"
   },
   {
+    "keyword": "전농미용실",
+    "place_name": "리안헤어 전농사거리점",
+    "rank": 9,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:55"
+  },
+  {
     "keyword": "전농동미용실",
     "place_name": "리안헤어 전농사거리점",
     "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:03"
+  },
+  {
+    "keyword": "전농동미용실",
+    "place_name": "리안헤어 전농사거리점",
+    "rank": 9,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:55"
+  },
+  {
+    "keyword": "전농사거리미용실",
+    "place_name": "리안헤어 전농사거리점",
+    "rank": 1,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -4387,7 +4497,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 10:03"
+    "datetime": "2026-07-20 12:55"
   },
   {
     "keyword": "포항미용실",
@@ -4398,6 +4508,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 10:04"
+  },
+  {
+    "keyword": "포항미용실",
+    "place_name": "리안헤어 오천세계점",
+    "rank": 195,
+    "rank_with_ads": null,
+    "page": 3,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:56"
   },
   {
     "keyword": "오천미용실",
