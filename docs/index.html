@@ -403,12 +403,24 @@ function formatChartLabel(ymd) {
   return ymd.length >= 10 ? ymd.slice(5) : ymd;
 }
 
+const DATA_CDN = 'https://cdn.jsdelivr.net/gh/imsanha1-lang/naver-rank-tracker@main/docs/data/';
+
+async function fetchJson(path) {
+  const bust = '?t=' + Date.now();
+  for (const base of ['data/', DATA_CDN]) {
+    try {
+      const res = await fetch(base + path + bust);
+      if (res.ok) return await res.json();
+    } catch (e) {}
+  }
+  return null;
+}
+
 async function loadData(){
   try{
-    const bust = '?t=' + Date.now();
     const [t, r] = await Promise.all([
-      fetch('data/targets.json'+bust).then(x=>x.json()),
-      fetch('data/rankings.json'+bust).then(x=>x.json()),
+      fetchJson('targets.json'),
+      fetchJson('rankings.json'),
     ]);
     const map = {};
     (t||[]).forEach(o=>{
@@ -437,13 +449,9 @@ const DEFAULT_STORE_GROUPS = [
 async function loadStoreGroups(){
   STORE_GROUPS = DEFAULT_STORE_GROUPS.map(g => ({ ...g, places: [...(g.places || [])] }));
   try{
-    const bust = '?t=' + Date.now();
-    const res = await fetch('data/store-groups.json'+bust);
-    if(res.ok){
-      const data = await res.json();
-      if(Array.isArray(data.groups) && data.groups.length){
-        STORE_GROUPS = data.groups;
-      }
+    const data = await fetchJson('store-groups.json');
+    if(data && Array.isArray(data.groups) && data.groups.length){
+      STORE_GROUPS = data.groups;
     }
   }catch(e){}
 }
