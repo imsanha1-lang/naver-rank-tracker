@@ -2300,6 +2300,16 @@
     "datetime": "2026-07-20 09:27"
   },
   {
+    "keyword": "구로구미용실",
+    "place_name": "리안헤어 오류점",
+    "rank": 19,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:22"
+  },
+  {
     "keyword": "오류동미용실",
     "place_name": "리안헤어 오류점",
     "rank": 2,
@@ -2308,6 +2318,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:27"
+  },
+  {
+    "keyword": "오류동미용실",
+    "place_name": "리안헤어 오류점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:22"
   },
   {
     "keyword": "오류동역미용실",
@@ -2320,6 +2340,16 @@
     "datetime": "2026-07-20 09:28"
   },
   {
+    "keyword": "오류동역미용실",
+    "place_name": "리안헤어 오류점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:22"
+  },
+  {
     "keyword": "분당미용실",
     "place_name": "리안헤어 야탑점",
     "rank": 67,
@@ -2330,7 +2360,37 @@
     "datetime": "2026-07-20 09:28"
   },
   {
+    "keyword": "분당미용실",
+    "place_name": "리안헤어 야탑점",
+    "rank": 69,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:23"
+  },
+  {
     "keyword": "분당야탑미용실",
+    "place_name": "리안헤어 야탑점",
+    "rank": 8,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 09:28"
+  },
+  {
+    "keyword": "분당야탑미용실",
+    "place_name": "리안헤어 야탑점",
+    "rank": 8,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:23"
+  },
+  {
+    "keyword": "야탑역미용실",
     "place_name": "리안헤어 야탑점",
     "rank": 8,
     "rank_with_ads": null,
@@ -2347,7 +2407,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 09:28"
+    "datetime": "2026-07-20 12:23"
   },
   {
     "keyword": "기흥구미용실",
@@ -2360,6 +2420,16 @@
     "datetime": "2026-07-20 09:29"
   },
   {
+    "keyword": "기흥구미용실",
+    "place_name": "리안헤어 용인흥덕점",
+    "rank": 54,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:23"
+  },
+  {
     "keyword": "용인흥덕미용실",
     "place_name": "리안헤어 용인흥덕점",
     "rank": 12,
@@ -2368,6 +2438,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:29"
+  },
+  {
+    "keyword": "용인흥덕미용실",
+    "place_name": "리안헤어 용인흥덕점",
+    "rank": 6,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:24"
   },
   {
     "keyword": "흥덕미용실",
@@ -2380,6 +2460,16 @@
     "datetime": "2026-07-20 09:29"
   },
   {
+    "keyword": "흥덕미용실",
+    "place_name": "리안헤어 용인흥덕점",
+    "rank": 6,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:24"
+  },
+  {
     "keyword": "강동구미용실",
     "place_name": "H STYLE헤어살롱 강동역점",
     "rank": 278,
@@ -2388,6 +2478,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:30"
+  },
+  {
+    "keyword": "강동구미용실",
+    "place_name": "H STYLE헤어살롱 강동역점",
+    "rank": 275,
+    "rank_with_ads": null,
+    "page": 4,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:25"
   },
   {
     "keyword": "천호동미용실",
@@ -5788,5 +5888,15 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:27"
+  },
+  {
+    "keyword": "신사동미용실",
+    "place_name": "보그헤어 응암역2호점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:22"
   }
 ]
