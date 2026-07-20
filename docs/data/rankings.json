@@ -1390,6 +1390,16 @@
     "datetime": "2026-07-20 09:14"
   },
   {
+    "keyword": "화곡동미용실",
+    "place_name": "리안헤어 화곡역점",
+    "rank": 17,
+    "rank_with_ads": 10,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:12"
+  },
+  {
     "keyword": "화곡역미용실",
     "place_name": "리안헤어 화곡역점",
     "rank": 8,
@@ -1400,9 +1410,39 @@
     "datetime": "2026-07-20 09:14"
   },
   {
+    "keyword": "화곡역미용실",
+    "place_name": "리안헤어 화곡역점",
+    "rank": 8,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:12"
+  },
+  {
     "keyword": "강서구미용실",
     "place_name": "리안헤어 가양자이타워점",
     "rank": 50,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 09:15"
+  },
+  {
+    "keyword": "강서구미용실",
+    "place_name": "리안헤어 가양자이타워점",
+    "rank": 47,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:12"
+  },
+  {
+    "keyword": "가양동미용실",
+    "place_name": "리안헤어 가양자이타워점",
+    "rank": 2,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -1417,7 +1457,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 09:15"
+    "datetime": "2026-07-20 12:12"
   },
   {
     "keyword": "가양역미용실",
@@ -1430,6 +1470,16 @@
     "datetime": "2026-07-20 09:15"
   },
   {
+    "keyword": "가양역미용실",
+    "place_name": "리안헤어 가양자이타워점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:12"
+  },
+  {
     "keyword": "종로구미용실",
     "place_name": "리안헤어 대학로점",
     "rank": 22,
@@ -1438,6 +1488,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:15"
+  },
+  {
+    "keyword": "종로구미용실",
+    "place_name": "리안헤어 대학로점",
+    "rank": 25,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:12"
   },
   {
     "keyword": "대학로미용실",
@@ -1450,6 +1510,16 @@
     "datetime": "2026-07-20 09:15"
   },
   {
+    "keyword": "대학로미용실",
+    "place_name": "리안헤어 대학로점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:12"
+  },
+  {
     "keyword": "혜화역미용실",
     "place_name": "리안헤어 대학로점",
     "rank": 6,
@@ -1458,6 +1528,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:16"
+  },
+  {
+    "keyword": "혜화역미용실",
+    "place_name": "리안헤어 대학로점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:13"
   },
   {
     "keyword": "검단미용실",
@@ -1470,6 +1550,16 @@
     "datetime": "2026-07-20 09:16"
   },
   {
+    "keyword": "검단미용실",
+    "place_name": "리안헤어 검단문화체육센터점",
+    "rank": 21,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:13"
+  },
+  {
     "keyword": "신검단미용실",
     "place_name": "리안헤어 검단문화체육센터점",
     "rank": null,
@@ -1478,6 +1568,16 @@
     "note": "1페이지·24건 검색 · 미발견 유사매장: 리안헤어 신검단중앙역점",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:16"
+  },
+  {
+    "keyword": "신검단미용실",
+    "place_name": "리안헤어 검단문화체육센터점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "1페이지·24건 검색 · 미발견 유사매장: 리안헤어 신검단중앙역점",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:13"
   },
   {
     "keyword": "불로동미용실",
@@ -1490,6 +1590,16 @@
     "datetime": "2026-07-20 09:16"
   },
   {
+    "keyword": "불로동미용실",
+    "place_name": "리안헤어 검단문화체육센터점",
+    "rank": 2,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:13"
+  },
+  {
     "keyword": "청주미용실",
     "place_name": "리안헤어 청주지웰시티점",
     "rank": 104,
@@ -1498,6 +1608,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:17"
+  },
+  {
+    "keyword": "청주미용실",
+    "place_name": "리안헤어 청주지웰시티점",
+    "rank": 103,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:14"
   },
   {
     "keyword": "복대동미용실",
