@@ -6930,6 +6930,16 @@
     "datetime": "2026-07-20 10:33"
   },
   {
+    "keyword": "내포신도시미용실",
+    "place_name": "리안헤어 내포첫마을점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:23"
+  },
+  {
     "keyword": "내포미용실",
     "place_name": "리안헤어 내포첫마을점",
     "rank": 7,
@@ -6938,6 +6948,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 10:33"
+  },
+  {
+    "keyword": "내포미용실",
+    "place_name": "리안헤어 내포첫마을점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:23"
   },
   {
     "keyword": "수원정자동미용실",
@@ -6950,7 +6970,37 @@
     "datetime": "2026-07-20 10:34"
   },
   {
+    "keyword": "수원정자동미용실",
+    "place_name": "리안헤어 수원정자시장점",
+    "rank": 48,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:23"
+  },
+  {
     "keyword": "수원정자시장미용실",
+    "place_name": "리안헤어 수원정자시장점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:34"
+  },
+  {
+    "keyword": "수원정자시장미용실",
+    "place_name": "리안헤어 수원정자시장점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:24"
+  },
+  {
+    "keyword": "정자시장미용실",
     "place_name": "리안헤어 수원정자시장점",
     "rank": 2,
     "rank_with_ads": null,
@@ -6967,7 +7017,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 10:34"
+    "datetime": "2026-07-20 13:24"
   },
   {
     "keyword": "광명소하미용실",
@@ -6978,6 +7028,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 10:34"
+  },
+  {
+    "keyword": "광명소하미용실",
+    "place_name": "리안헤어 소하신촌점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:24"
   },
   {
     "keyword": "소하동미용실",
