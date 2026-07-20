@@ -5730,6 +5730,16 @@
     "datetime": "2026-07-20 10:20"
   },
   {
+    "keyword": "하남감일미용실",
+    "place_name": "리안헤어 감일중앙로점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:10"
+  },
+  {
     "keyword": "감일신도시미용실",
     "place_name": "리안헤어 감일중앙로점",
     "rank": null,
@@ -5790,6 +5800,16 @@
     "datetime": "2026-07-20 11:37"
   },
   {
+    "keyword": "감일신도시미용실",
+    "place_name": "리안헤어 감일중앙로점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:11"
+  },
+  {
     "keyword": "감일동미용실",
     "place_name": "리안헤어 감일중앙로점",
     "rank": 76,
@@ -5798,6 +5818,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 10:21"
+  },
+  {
+    "keyword": "감일동미용실",
+    "place_name": "리안헤어 감일중앙로점",
+    "rank": 76,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:11"
   },
   {
     "keyword": "동작구미용실",
@@ -5810,6 +5840,16 @@
     "datetime": "2026-07-20 10:21"
   },
   {
+    "keyword": "동작구미용실",
+    "place_name": "H STYLE 헤어살롱 노량진점",
+    "rank": 15,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:11"
+  },
+  {
     "keyword": "노량진미용실",
     "place_name": "H STYLE 헤어살롱 노량진점",
     "rank": 1,
@@ -5818,6 +5858,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 10:21"
+  },
+  {
+    "keyword": "노량진미용실",
+    "place_name": "H STYLE 헤어살롱 노량진점",
+    "rank": 2,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:11"
   },
   {
     "keyword": "노량진역미용실",
@@ -5830,6 +5880,16 @@
     "datetime": "2026-07-20 10:21"
   },
   {
+    "keyword": "노량진역미용실",
+    "place_name": "H STYLE 헤어살롱 노량진점",
+    "rank": 3,
+    "rank_with_ads": 3,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:12"
+  },
+  {
     "keyword": "동대문구미용실",
     "place_name": "리안헤어 장안점",
     "rank": 16,
@@ -5838,6 +5898,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 10:21"
+  },
+  {
+    "keyword": "동대문구미용실",
+    "place_name": "리안헤어 장안점",
+    "rank": 22,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:12"
   },
   {
     "keyword": "장안동미용실",
