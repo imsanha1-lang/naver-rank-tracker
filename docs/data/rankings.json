@@ -3200,9 +3200,39 @@
     "datetime": "2026-07-20 09:48"
   },
   {
+    "keyword": "용봉동미용실",
+    "place_name": "리안헤어 광주용봉점",
+    "rank": 45,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:43"
+  },
+  {
     "keyword": "광주광산구미용실",
     "place_name": "리안헤어 하남2지구점",
     "rank": 46,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 09:50"
+  },
+  {
+    "keyword": "광주광산구미용실",
+    "place_name": "리안헤어 하남2지구점",
+    "rank": 46,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:43"
+  },
+  {
+    "keyword": "하남동미용실",
+    "place_name": "리안헤어 하남2지구점",
+    "rank": 10,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -3217,7 +3247,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 09:50"
+    "datetime": "2026-07-20 12:43"
   },
   {
     "keyword": "하남2지구미용실",
@@ -3228,6 +3258,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:50"
+  },
+  {
+    "keyword": "하남2지구미용실",
+    "place_name": "리안헤어 하남2지구점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:43"
   },
   {
     "keyword": "광주광산구미용실",
@@ -3248,6 +3288,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:51"
+  },
+  {
+    "keyword": "광주광산구미용실",
+    "place_name": "리안헤어 수완점",
+    "rank": 131,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:44"
   },
   {
     "keyword": "수완지구미용실",
@@ -3290,6 +3340,16 @@
     "datetime": "2026-07-20 09:51"
   },
   {
+    "keyword": "수완지구미용실",
+    "place_name": "리안헤어 수완점",
+    "rank": 56,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:44"
+  },
+  {
     "keyword": "신가동미용실",
     "place_name": "리안헤어 수완점",
     "rank": 41,
@@ -3310,6 +3370,16 @@
     "datetime": "2026-07-20 09:51"
   },
   {
+    "keyword": "신가동미용실",
+    "place_name": "리안헤어 수완점",
+    "rank": 54,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:44"
+  },
+  {
     "keyword": "강서구미용실",
     "place_name": "리안헤어 마곡역점",
     "rank": 108,
@@ -3318,6 +3388,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 09:52"
+  },
+  {
+    "keyword": "강서구미용실",
+    "place_name": "리안헤어 마곡역점",
+    "rank": 111,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:45"
   },
   {
     "keyword": "마곡동미용실",
