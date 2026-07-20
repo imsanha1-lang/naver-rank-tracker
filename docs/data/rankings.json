@@ -4770,6 +4770,16 @@
     "datetime": "2026-07-20 10:07"
   },
   {
+    "keyword": "영도미용실",
+    "place_name": "어썸헤어바이명작",
+    "rank": 8,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:59"
+  },
+  {
     "keyword": "신선동미용실",
     "place_name": "어썸헤어바이명작",
     "rank": 1,
@@ -4778,6 +4788,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 10:07"
+  },
+  {
+    "keyword": "신선동미용실",
+    "place_name": "어썸헤어바이명작",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 12:59"
   },
   {
     "keyword": "부산미용실",
@@ -4790,9 +4810,39 @@
     "datetime": "2026-07-20 10:08"
   },
   {
+    "keyword": "부산미용실",
+    "place_name": "어썸헤어 서면점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "5페이지·318건 검색 · 미발견",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:01"
+  },
+  {
     "keyword": "서면미용실",
     "place_name": "어썸헤어 서면점",
     "rank": 57,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:09"
+  },
+  {
+    "keyword": "서면미용실",
+    "place_name": "어썸헤어 서면점",
+    "rank": 57,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:01"
+  },
+  {
+    "keyword": "부전동미용실",
+    "place_name": "어썸헤어 서면점",
+    "rank": 40,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -4807,7 +4857,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-20",
-    "datetime": "2026-07-20 10:09"
+    "datetime": "2026-07-20 13:01"
   },
   {
     "keyword": "청주미용실",
