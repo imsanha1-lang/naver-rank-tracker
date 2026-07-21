@@ -500,6 +500,36 @@
     "datetime": "2026-07-21 12:17"
   },
   {
+    "keyword": "용죽동미용실",
+    "place_name": "리안헤어 평택용죽점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "키워드 검색 불가 (네이버 플레이스 목록 없음)",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:17"
+  },
+  {
+    "keyword": "범어역미용실",
+    "place_name": "비욘드헤어",
+    "rank": 25,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:18"
+  },
+  {
+    "keyword": "부산서면미용실",
+    "place_name": "어썸헤어 서면점",
+    "rank": 56,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:19"
+  },
+  {
     "keyword": "부평구미용실",
     "place_name": "리안헤어 부평역점",
     "rank": 39,
@@ -3070,6 +3100,16 @@
     "datetime": "2026-07-20 12:34"
   },
   {
+    "keyword": "평택미용실",
+    "place_name": "리안헤어 평택용죽점",
+    "rank": 21,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:17"
+  },
+  {
     "keyword": "용이동미용실",
     "place_name": "리안헤어 평택용죽점",
     "rank": 1,
@@ -3088,6 +3128,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:34"
+  },
+  {
+    "keyword": "용이동미용실",
+    "place_name": "리안헤어 평택용죽점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:18"
   },
   {
     "keyword": "북수원미용실",
@@ -5130,6 +5180,16 @@
     "datetime": "2026-07-20 13:01"
   },
   {
+    "keyword": "서면미용실",
+    "place_name": "어썸헤어 서면점",
+    "rank": 56,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:19"
+  },
+  {
     "keyword": "부전동미용실",
     "place_name": "어썸헤어 서면점",
     "rank": 40,
@@ -6580,6 +6640,16 @@
     "datetime": "2026-07-20 13:17"
   },
   {
+    "keyword": "수성구미용실",
+    "place_name": "비욘드헤어",
+    "rank": null,
+    "rank_with_ads": 77,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:18"
+  },
+  {
     "keyword": "범어동미용실",
     "place_name": "비욘드헤어",
     "rank": null,
@@ -6598,6 +6668,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 13:17"
+  },
+  {
+    "keyword": "범어동미용실",
+    "place_name": "비욘드헤어",
+    "rank": null,
+    "rank_with_ads": 3,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:18"
   },
   {
     "keyword": "달서구미용실",
@@ -7100,6 +7180,16 @@
     "datetime": "2026-07-20 13:23"
   },
   {
+    "keyword": "내포미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:17"
+  },
+  {
     "keyword": "충남도청미용실",
     "place_name": "리안헤어 충남도청점",
     "rank": 1,
@@ -7118,6 +7208,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 13:23"
+  },
+  {
+    "keyword": "충남도청미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:17"
   },
   {
     "keyword": "수원정자동미용실",
