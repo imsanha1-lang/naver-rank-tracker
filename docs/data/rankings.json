@@ -410,6 +410,46 @@
     "datetime": "2026-07-21 12:08"
   },
   {
+    "keyword": "인하대미용실",
+    "place_name": "리안헤어 용현점",
+    "rank": null,
+    "rank_with_ads": 41,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:09"
+  },
+  {
+    "keyword": "울산중구미용실",
+    "place_name": "리안헤어 울산성남점",
+    "rank": 60,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:10"
+  },
+  {
+    "keyword": "이수미용실",
+    "place_name": "리안헤어 이수이마트점",
+    "rank": 13,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:10"
+  },
+  {
+    "keyword": "인하대미용실",
+    "place_name": "리안헤어 인천미추홀점",
+    "rank": 287,
+    "rank_with_ads": null,
+    "page": 5,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:11"
+  },
+  {
     "keyword": "부평구미용실",
     "place_name": "리안헤어 부평역점",
     "rank": 39,
@@ -1018,6 +1058,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:07"
+  },
+  {
+    "keyword": "이수역미용실",
+    "place_name": "리안헤어 이수이마트점",
+    "rank": 13,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:10"
   },
   {
     "keyword": "덕양구미용실",
@@ -2578,6 +2628,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:24"
+  },
+  {
+    "keyword": "용인흥덕미용실",
+    "place_name": "리안헤어 용인흥덕점",
+    "rank": 6,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:09"
   },
   {
     "keyword": "강동구미용실",
@@ -5320,6 +5380,16 @@
     "datetime": "2026-07-20 13:05"
   },
   {
+    "keyword": "울산성남동미용실",
+    "place_name": "리안헤어 울산성남점",
+    "rank": 14,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:10"
+  },
+  {
     "keyword": "성남동미용실",
     "place_name": "리안헤어 울산성남점",
     "rank": 13,
@@ -5338,6 +5408,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 13:06"
+  },
+  {
+    "keyword": "성남동미용실",
+    "place_name": "리안헤어 울산성남점",
+    "rank": 14,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:10"
   },
   {
     "keyword": "구로구미용실",
@@ -6470,6 +6550,16 @@
     "datetime": "2026-07-20 13:18"
   },
   {
+    "keyword": "미추홀구미용실",
+    "place_name": "리안헤어 용현점",
+    "rank": 51,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:09"
+  },
+  {
     "keyword": "용현동미용실",
     "place_name": "리안헤어 용현점",
     "rank": 16,
@@ -6488,6 +6578,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 13:18"
+  },
+  {
+    "keyword": "용현동미용실",
+    "place_name": "리안헤어 용현점",
+    "rank": 16,
+    "rank_with_ads": 11,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:10"
   },
   {
     "keyword": "동탄미용실",
