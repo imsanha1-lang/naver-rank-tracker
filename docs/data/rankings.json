@@ -480,6 +480,26 @@
     "datetime": "2026-07-21 12:14"
   },
   {
+    "keyword": "천호동미용실",
+    "place_name": "리안헤어 천호역점",
+    "rank": 271,
+    "rank_with_ads": null,
+    "page": 4,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:15"
+  },
+  {
+    "keyword": "홍성미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "5페이지·303건 검색 · 미발견 유사매장: 리안헤어 내포중앙점, 리안헤어 내포첫마을점",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:17"
+  },
+  {
     "keyword": "부평구미용실",
     "place_name": "리안헤어 부평역점",
     "rank": 39,
@@ -2390,6 +2410,16 @@
     "datetime": "2026-07-20 12:21"
   },
   {
+    "keyword": "주안동미용실",
+    "place_name": "리안헤어 주안시민공원역점",
+    "rank": 18,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:14"
+  },
+  {
     "keyword": "시민공원역미용실",
     "place_name": "리안헤어 주안시민공원역점",
     "rank": 19,
@@ -2408,6 +2438,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:21"
+  },
+  {
+    "keyword": "시민공원역미용실",
+    "place_name": "리안헤어 주안시민공원역점",
+    "rank": 14,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:14"
   },
   {
     "keyword": "부천소사미용실",
@@ -2770,6 +2810,16 @@
     "datetime": "2026-07-20 12:27"
   },
   {
+    "keyword": "천호미용실",
+    "place_name": "리안헤어 천호역점",
+    "rank": 21,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:15"
+  },
+  {
     "keyword": "천호역미용실",
     "place_name": "리안헤어 천호역점",
     "rank": 19,
@@ -2788,6 +2838,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:27"
+  },
+  {
+    "keyword": "천호역미용실",
+    "place_name": "리안헤어 천호역점",
+    "rank": 21,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:15"
   },
   {
     "keyword": "광주서구미용실",
