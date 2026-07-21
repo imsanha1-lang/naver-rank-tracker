@@ -5030,6 +5030,16 @@
     "datetime": "2026-07-20 12:46"
   },
   {
+    "keyword": "원당동미용실",
+    "place_name": "리안헤어 검단신도시 원당점",
+    "rank": 21,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 13:01"
+  },
+  {
     "keyword": "검단미용실",
     "place_name": "리안헤어 검단신도시법조타운점",
     "rank": 69,
@@ -5050,6 +5060,16 @@
     "datetime": "2026-07-20 12:47"
   },
   {
+    "keyword": "검단미용실",
+    "place_name": "리안헤어 검단신도시법조타운점",
+    "rank": 71,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 13:02"
+  },
+  {
     "keyword": "검단신도시미용실",
     "place_name": "리안헤어 검단신도시법조타운점",
     "rank": 69,
@@ -5068,6 +5088,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:47"
+  },
+  {
+    "keyword": "검단신도시미용실",
+    "place_name": "리안헤어 검단신도시법조타운점",
+    "rank": 71,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 13:02"
   },
   {
     "keyword": "당하동미용실",
@@ -5090,6 +5120,16 @@
     "datetime": "2026-07-20 12:47"
   },
   {
+    "keyword": "당하동미용실",
+    "place_name": "리안헤어 검단신도시법조타운점",
+    "rank": null,
+    "rank_with_ads": 42,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 13:02"
+  },
+  {
     "keyword": "영등포미용실",
     "place_name": "VOG Hair 보라매역점",
     "rank": 94,
@@ -5110,6 +5150,16 @@
     "datetime": "2026-07-20 12:48"
   },
   {
+    "keyword": "영등포미용실",
+    "place_name": "VOG Hair 보라매역점",
+    "rank": 93,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 13:03"
+  },
+  {
     "keyword": "신길동미용실",
     "place_name": "VOG Hair 보라매역점",
     "rank": 15,
@@ -5128,6 +5178,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:48"
+  },
+  {
+    "keyword": "신길동미용실",
+    "place_name": "VOG Hair 보라매역점",
+    "rank": 12,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 13:03"
   },
   {
     "keyword": "보라매역미용실",
