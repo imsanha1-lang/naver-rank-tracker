@@ -1090,6 +1090,16 @@
     "datetime": "2026-07-20 12:05"
   },
   {
+    "keyword": "심곡동미용실",
+    "place_name": "리안헤어 부천역점",
+    "rank": 15,
+    "rank_with_ads": 9,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:24"
+  },
+  {
     "keyword": "부천역미용실",
     "place_name": "리안헤어 부천역점",
     "rank": 15,
@@ -1108,6 +1118,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:05"
+  },
+  {
+    "keyword": "부천역미용실",
+    "place_name": "리안헤어 부천역점",
+    "rank": 17,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:24"
   },
   {
     "keyword": "용현동미용실",
@@ -1250,6 +1270,16 @@
     "datetime": "2026-07-20 12:06"
   },
   {
+    "keyword": "영종도미용실",
+    "place_name": "리안헤어 영종하늘도시점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:24"
+  },
+  {
     "keyword": "영종하늘도시미용실",
     "place_name": "리안헤어 영종하늘도시점",
     "rank": 5,
@@ -1270,6 +1300,16 @@
     "datetime": "2026-07-20 12:06"
   },
   {
+    "keyword": "영종하늘도시미용실",
+    "place_name": "리안헤어 영종하늘도시점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:24"
+  },
+  {
     "keyword": "중산동미용실",
     "place_name": "리안헤어 영종하늘도시점",
     "rank": 3,
@@ -1288,6 +1328,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:06"
+  },
+  {
+    "keyword": "중산동미용실",
+    "place_name": "리안헤어 영종하늘도시점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:24"
   },
   {
     "keyword": "이수역미용실",
@@ -1340,6 +1390,16 @@
     "datetime": "2026-07-20 12:07"
   },
   {
+    "keyword": "덕양구미용실",
+    "place_name": "리안헤어 행신역2호점",
+    "rank": 60,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:25"
+  },
+  {
     "keyword": "행신동미용실",
     "place_name": "리안헤어 행신역2호점",
     "rank": 8,
@@ -1360,6 +1420,16 @@
     "datetime": "2026-07-20 12:07"
   },
   {
+    "keyword": "행신동미용실",
+    "place_name": "리안헤어 행신역2호점",
+    "rank": 9,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:25"
+  },
+  {
     "keyword": "행신역미용실",
     "place_name": "리안헤어 행신역2호점",
     "rank": 8,
@@ -1378,6 +1448,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:07"
+  },
+  {
+    "keyword": "행신역미용실",
+    "place_name": "리안헤어 행신역2호점",
+    "rank": 8,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:25"
   },
   {
     "keyword": "범어동미용실",
@@ -1490,6 +1570,16 @@
     "datetime": "2026-07-20 12:09"
   },
   {
+    "keyword": "양천구미용실",
+    "place_name": "리안헤어 목동파리공원점",
+    "rank": 29,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:25"
+  },
+  {
     "keyword": "목동미용실",
     "place_name": "리안헤어 목동파리공원점",
     "rank": 22,
@@ -1508,6 +1598,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:09"
+  },
+  {
+    "keyword": "목동미용실",
+    "place_name": "리안헤어 목동파리공원점",
+    "rank": 18,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:25"
   },
   {
     "keyword": "파리공원미용실",
@@ -1530,6 +1630,16 @@
     "datetime": "2026-07-20 12:09"
   },
   {
+    "keyword": "파리공원미용실",
+    "place_name": "리안헤어 목동파리공원점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:25"
+  },
+  {
     "keyword": "음성군미용실",
     "place_name": "리안헤어 금왕점",
     "rank": 5,
@@ -1550,6 +1660,16 @@
     "datetime": "2026-07-20 12:09"
   },
   {
+    "keyword": "음성군미용실",
+    "place_name": "리안헤어 금왕점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:25"
+  },
+  {
     "keyword": "금왕미용실",
     "place_name": "리안헤어 금왕점",
     "rank": 1,
@@ -1568,6 +1688,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:09"
+  },
+  {
+    "keyword": "금왕미용실",
+    "place_name": "리안헤어 금왕점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:26"
   },
   {
     "keyword": "금왕읍미용실",
