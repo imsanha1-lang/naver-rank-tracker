@@ -380,6 +380,36 @@
     "datetime": "2026-07-21 12:07"
   },
   {
+    "keyword": "부평시장미용실",
+    "place_name": "리안헤어 부평부흥로점",
+    "rank": 18,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:07"
+  },
+  {
+    "keyword": "동작구미용실",
+    "place_name": "리안헤어 성대시장점",
+    "rank": 45,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:08"
+  },
+  {
+    "keyword": "영덕동미용실",
+    "place_name": "리안헤어 용인흥덕점",
+    "rank": 6,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:08"
+  },
+  {
     "keyword": "부평구미용실",
     "place_name": "리안헤어 부평역점",
     "rank": 39,
@@ -1068,6 +1098,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:08"
+  },
+  {
+    "keyword": "범어동미용실",
+    "place_name": "리안헤어 범어점",
+    "rank": 28,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:07"
   },
   {
     "keyword": "도곡동미용실",
@@ -2130,6 +2170,16 @@
     "datetime": "2026-07-20 12:19"
   },
   {
+    "keyword": "부평미용실",
+    "place_name": "리안헤어 부평부흥로점",
+    "rank": 85,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:07"
+  },
+  {
     "keyword": "부평동미용실",
     "place_name": "리안헤어 부평부흥로점",
     "rank": 57,
@@ -2148,6 +2198,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:20"
+  },
+  {
+    "keyword": "부평동미용실",
+    "place_name": "리안헤어 부평부흥로점",
+    "rank": 57,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:08"
   },
   {
     "keyword": "청주미용실",
@@ -2488,6 +2548,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:23"
+  },
+  {
+    "keyword": "기흥구미용실",
+    "place_name": "리안헤어 용인흥덕점",
+    "rank": 51,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:09"
   },
   {
     "keyword": "용인흥덕미용실",
@@ -3800,6 +3870,16 @@
     "datetime": "2026-07-20 12:50"
   },
   {
+    "keyword": "상도동미용실",
+    "place_name": "리안헤어 성대시장점",
+    "rank": 12,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:08"
+  },
+  {
     "keyword": "성대시장미용실",
     "place_name": "리안헤어 성대시장점",
     "rank": 5,
@@ -3818,6 +3898,16 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:50"
+  },
+  {
+    "keyword": "성대시장미용실",
+    "place_name": "리안헤어 성대시장점",
+    "rank": 4,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-21",
+    "datetime": "2026-07-21 12:08"
   },
   {
     "keyword": "경기광주미용실",
