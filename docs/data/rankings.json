@@ -1,35 +1,5 @@
 [
   {
-    "keyword": "인덕원미용실",
-    "place_name": "리안헤어 관양동편마을점",
-    "rank": 32,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-16",
-    "datetime": "2026-07-16 16:57"
-  },
-  {
-    "keyword": "인덕원미용실",
-    "place_name": "리안헤어 관양동편마을점",
-    "rank": 32,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:00"
-  },
-  {
-    "keyword": "인덕원미용실",
-    "place_name": "리안헤어 관양동편마을점",
-    "rank": 32,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:00"
-  },
-  {
     "keyword": "부평구미용실",
     "place_name": "리안헤어 부평역점",
     "rank": 39,
@@ -120,36 +90,6 @@
     "datetime": "2026-07-20 12:01"
   },
   {
-    "keyword": "남동구미용실",
-    "place_name": "리안헤어 서창2지구점",
-    "rank": 158,
-    "rank_with_ads": null,
-    "page": 3,
-    "note": "",
-    "date": "2026-07-16",
-    "datetime": "2026-07-16 16:58"
-  },
-  {
-    "keyword": "남동구미용실",
-    "place_name": "리안헤어 서창2지구점",
-    "rank": 162,
-    "rank_with_ads": null,
-    "page": 3,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:02"
-  },
-  {
-    "keyword": "남동구미용실",
-    "place_name": "리안헤어 서창2지구점",
-    "rank": 178,
-    "rank_with_ads": null,
-    "page": 3,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:02"
-  },
-  {
     "keyword": "서창동미용실",
     "place_name": "리안헤어 서창2지구점",
     "rank": 12,
@@ -203,36 +143,6 @@
     "keyword": "서창2지구미용실",
     "place_name": "리안헤어 서창2지구점",
     "rank": 12,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:02"
-  },
-  {
-    "keyword": "성남수정구미용실",
-    "place_name": "리안헤어 신흥역점",
-    "rank": null,
-    "rank_with_ads": 2,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-16",
-    "datetime": "2026-07-16 16:59"
-  },
-  {
-    "keyword": "성남수정구미용실",
-    "place_name": "리안헤어 신흥역점",
-    "rank": 18,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:02"
-  },
-  {
-    "keyword": "성남수정구미용실",
-    "place_name": "리안헤어 신흥역점",
-    "rank": 17,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -300,36 +210,6 @@
     "datetime": "2026-07-20 12:02"
   },
   {
-    "keyword": "남동구미용실",
-    "place_name": "리안헤어 간석점",
-    "rank": 116,
-    "rank_with_ads": null,
-    "page": 2,
-    "note": "",
-    "date": "2026-07-16",
-    "datetime": "2026-07-16 16:59"
-  },
-  {
-    "keyword": "남동구미용실",
-    "place_name": "리안헤어 간석점",
-    "rank": 106,
-    "rank_with_ads": null,
-    "page": 2,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:03"
-  },
-  {
-    "keyword": "남동구미용실",
-    "place_name": "리안헤어 간석점",
-    "rank": 102,
-    "rank_with_ads": null,
-    "page": 2,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:03"
-  },
-  {
     "keyword": "간석동미용실",
     "place_name": "리안헤어 간석점",
     "rank": 16,
@@ -353,66 +233,6 @@
     "keyword": "간석동미용실",
     "place_name": "리안헤어 간석점",
     "rank": 13,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:03"
-  },
-  {
-    "keyword": "간석2동미용실",
-    "place_name": "리안헤어 간석점",
-    "rank": 16,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-16",
-    "datetime": "2026-07-16 16:59"
-  },
-  {
-    "keyword": "간석2동미용실",
-    "place_name": "리안헤어 간석점",
-    "rank": 14,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:03"
-  },
-  {
-    "keyword": "간석2동미용실",
-    "place_name": "리안헤어 간석점",
-    "rank": 13,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:03"
-  },
-  {
-    "keyword": "남동구미용실",
-    "place_name": "리안헤어 구월동점",
-    "rank": 13,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-16",
-    "datetime": "2026-07-16 16:59"
-  },
-  {
-    "keyword": "남동구미용실",
-    "place_name": "리안헤어 구월동점",
-    "rank": 21,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:03"
-  },
-  {
-    "keyword": "남동구미용실",
-    "place_name": "리안헤어 구월동점",
-    "rank": 18,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -610,26 +430,6 @@
     "datetime": "2026-07-20 12:05"
   },
   {
-    "keyword": "미추홀구미용실",
-    "place_name": "리안헤어 인천미추홀점",
-    "rank": 12,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:06"
-  },
-  {
-    "keyword": "미추홀구미용실",
-    "place_name": "리안헤어 인천미추홀점",
-    "rank": 14,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:06"
-  },
-  {
     "keyword": "용현동미용실",
     "place_name": "리안헤어 인천미추홀점",
     "rank": 4,
@@ -690,26 +490,6 @@
     "datetime": "2026-07-20 12:06"
   },
   {
-    "keyword": "광명동미용실",
-    "place_name": "리안헤어 광명사거리역점",
-    "rank": 2,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:06"
-  },
-  {
-    "keyword": "광명동미용실",
-    "place_name": "리안헤어 광명사거리역점",
-    "rank": 2,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:06"
-  },
-  {
     "keyword": "광명사거리역미용실",
     "place_name": "리안헤어 광명사거리역점",
     "rank": 1,
@@ -788,56 +568,6 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:06"
-  },
-  {
-    "keyword": "동작구미용실",
-    "place_name": "리안헤어 이수이마트점",
-    "rank": 31,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:07"
-  },
-  {
-    "keyword": "동작구미용실",
-    "place_name": "리안헤어 이수이마트점",
-    "rank": 33,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:07"
-  },
-  {
-    "keyword": "사당동미용실",
-    "place_name": "리안헤어 이수이마트점",
-    "rank": 13,
-    "rank_with_ads": 17,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:07"
-  },
-  {
-    "keyword": "사당동미용실",
-    "place_name": "리안헤어 이수이마트점",
-    "rank": 13,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 11:14"
-  },
-  {
-    "keyword": "사당동미용실",
-    "place_name": "리안헤어 이수이마트점",
-    "rank": 14,
-    "rank_with_ads": 17,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:07"
   },
   {
     "keyword": "이수역미용실",
@@ -920,46 +650,6 @@
     "datetime": "2026-07-20 12:07"
   },
   {
-    "keyword": "수성구미용실",
-    "place_name": "리안헤어 범어점",
-    "rank": 163,
-    "rank_with_ads": null,
-    "page": 3,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:09"
-  },
-  {
-    "keyword": "수성구미용실",
-    "place_name": "리안헤어 범어점",
-    "rank": 86,
-    "rank_with_ads": null,
-    "page": 2,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:08"
-  },
-  {
-    "keyword": "대구범어미용실",
-    "place_name": "리안헤어 범어점",
-    "rank": 40,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:09"
-  },
-  {
-    "keyword": "대구범어미용실",
-    "place_name": "리안헤어 범어점",
-    "rank": 26,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:08"
-  },
-  {
     "keyword": "범어동미용실",
     "place_name": "리안헤어 범어점",
     "rank": 40,
@@ -974,26 +664,6 @@
     "place_name": "리안헤어 범어점",
     "rank": 26,
     "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:08"
-  },
-  {
-    "keyword": "강남구미용실",
-    "place_name": "리안헤어 강남양재역점",
-    "rank": null,
-    "rank_with_ads": null,
-    "page": null,
-    "note": "5페이지·317건 검색 · 미발견 유사매장: 리안헤어 강남일원점",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:11"
-  },
-  {
-    "keyword": "강남구미용실",
-    "place_name": "리안헤어 강남양재역점",
-    "rank": null,
-    "rank_with_ads": 3,
     "page": 1,
     "note": "",
     "date": "2026-07-20",
@@ -1473,26 +1143,6 @@
     "keyword": "가양역미용실",
     "place_name": "리안헤어 가양자이타워점",
     "rank": 3,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:12"
-  },
-  {
-    "keyword": "종로구미용실",
-    "place_name": "리안헤어 대학로점",
-    "rank": 22,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:15"
-  },
-  {
-    "keyword": "종로구미용실",
-    "place_name": "리안헤어 대학로점",
-    "rank": 25,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -2020,26 +1670,6 @@
     "datetime": "2026-07-20 12:18"
   },
   {
-    "keyword": "부평구미용실",
-    "place_name": "리안헤어 부평부흥로점",
-    "rank": 89,
-    "rank_with_ads": null,
-    "page": 2,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:23"
-  },
-  {
-    "keyword": "부평구미용실",
-    "place_name": "리안헤어 부평부흥로점",
-    "rank": 87,
-    "rank_with_ads": null,
-    "page": 2,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:19"
-  },
-  {
     "keyword": "부평미용실",
     "place_name": "리안헤어 부평부흥로점",
     "rank": 89,
@@ -2138,26 +1768,6 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:20"
-  },
-  {
-    "keyword": "미추홀구미용실",
-    "place_name": "리안헤어 주안시민공원역점",
-    "rank": 81,
-    "rank_with_ads": null,
-    "page": 2,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:25"
-  },
-  {
-    "keyword": "미추홀구미용실",
-    "place_name": "리안헤어 주안시민공원역점",
-    "rank": 77,
-    "rank_with_ads": null,
-    "page": 2,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:21"
   },
   {
     "keyword": "주안동미용실",
@@ -2460,26 +2070,6 @@
     "datetime": "2026-07-20 12:24"
   },
   {
-    "keyword": "흥덕미용실",
-    "place_name": "리안헤어 용인흥덕점",
-    "rank": 12,
-    "rank_with_ads": 1,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:29"
-  },
-  {
-    "keyword": "흥덕미용실",
-    "place_name": "리안헤어 용인흥덕점",
-    "rank": 6,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:24"
-  },
-  {
     "keyword": "강동구미용실",
     "place_name": "H STYLE헤어살롱 강동역점",
     "rank": 278,
@@ -2540,26 +2130,6 @@
     "datetime": "2026-07-20 12:25"
   },
   {
-    "keyword": "강동구미용실",
-    "place_name": "리안헤어 천호역점",
-    "rank": null,
-    "rank_with_ads": null,
-    "page": null,
-    "note": "5페이지·318건 검색 · 미발견 유사매장: 리안헤어 천호로데오점, 리안헤어 천일초교점, 리안헤어 고덕역점",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:32"
-  },
-  {
-    "keyword": "강동구미용실",
-    "place_name": "리안헤어 천호역점",
-    "rank": null,
-    "rank_with_ads": null,
-    "page": null,
-    "note": "5페이지·318건 검색 · 미발견 유사매장: 리안헤어 천일초교점, 리안헤어 천호로데오점, 리안헤어 천일초교점",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:27"
-  },
-  {
     "keyword": "천호미용실",
     "place_name": "리안헤어 천호역점",
     "rank": 19,
@@ -2601,7 +2171,7 @@
   },
   {
     "keyword": "광주서구미용실",
-    "place_name": "리안헤어 광주상무점",
+    "place_name": "리안헤어 상무점",
     "rank": null,
     "rank_with_ads": null,
     "page": null,
@@ -2611,7 +2181,7 @@
   },
   {
     "keyword": "광주서구미용실",
-    "place_name": "리안헤어 광주상무점",
+    "place_name": "리안헤어 상무점",
     "rank": null,
     "rank_with_ads": null,
     "page": null,
@@ -2621,7 +2191,7 @@
   },
   {
     "keyword": "상무지구미용실",
-    "place_name": "리안헤어 광주상무점",
+    "place_name": "리안헤어 상무점",
     "rank": null,
     "rank_with_ads": null,
     "page": null,
@@ -2631,7 +2201,7 @@
   },
   {
     "keyword": "상무지구미용실",
-    "place_name": "리안헤어 광주상무점",
+    "place_name": "리안헤어 상무점",
     "rank": null,
     "rank_with_ads": null,
     "page": null,
@@ -2641,7 +2211,7 @@
   },
   {
     "keyword": "치평동미용실",
-    "place_name": "리안헤어 광주상무점",
+    "place_name": "리안헤어 상무점",
     "rank": null,
     "rank_with_ads": null,
     "page": null,
@@ -2651,7 +2221,7 @@
   },
   {
     "keyword": "치평동미용실",
-    "place_name": "리안헤어 광주상무점",
+    "place_name": "리안헤어 상무점",
     "rank": null,
     "rank_with_ads": null,
     "page": null,
@@ -2831,26 +2401,6 @@
   },
   {
     "keyword": "용이동미용실",
-    "place_name": "리안헤어 평택용죽점",
-    "rank": 1,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:34"
-  },
-  {
-    "keyword": "용죽미용실",
-    "place_name": "리안헤어 평택용죽점",
-    "rank": 1,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:40"
-  },
-  {
-    "keyword": "용죽미용실",
     "place_name": "리안헤어 평택용죽점",
     "rank": 1,
     "rank_with_ads": null,
@@ -3810,26 +3360,6 @@
     "datetime": "2026-07-20 12:50"
   },
   {
-    "keyword": "신대방삼거리미용실",
-    "place_name": "리안헤어 성대시장점",
-    "rank": null,
-    "rank_with_ads": null,
-    "page": null,
-    "note": "1페이지·46건 검색 · 미발견 유사매장: 리안헤어 신대방삼거리역점",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 09:57"
-  },
-  {
-    "keyword": "신대방삼거리미용실",
-    "place_name": "리안헤어 성대시장점",
-    "rank": null,
-    "rank_with_ads": null,
-    "page": null,
-    "note": "1페이지·46건 검색 · 미발견 유사매장: 리안헤어 신대방삼거리역점",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:50"
-  },
-  {
     "keyword": "성대시장미용실",
     "place_name": "리안헤어 성대시장점",
     "rank": 5,
@@ -4720,26 +4250,6 @@
     "datetime": "2026-07-20 12:57"
   },
   {
-    "keyword": "고덕강일미용실",
-    "place_name": "리안헤어 강일2지구점",
-    "rank": null,
-    "rank_with_ads": null,
-    "page": null,
-    "note": "1페이지·8건 검색 · 미발견 유사매장: 리안헤어 상일동역점",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:05"
-  },
-  {
-    "keyword": "고덕강일미용실",
-    "place_name": "리안헤어 강일2지구점",
-    "rank": null,
-    "rank_with_ads": null,
-    "page": null,
-    "note": "1페이지·8건 검색 · 미발견 유사매장: 리안헤어 상일동역점",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:57"
-  },
-  {
     "keyword": "강일미용실",
     "place_name": "리안헤어 강일2지구점",
     "rank": 2,
@@ -4840,26 +4350,6 @@
     "datetime": "2026-07-20 12:58"
   },
   {
-    "keyword": "부산미용실",
-    "place_name": "어썸헤어바이명작",
-    "rank": null,
-    "rank_with_ads": null,
-    "page": null,
-    "note": "5페이지·318건 검색 · 미발견",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:07"
-  },
-  {
-    "keyword": "부산미용실",
-    "place_name": "어썸헤어바이명작",
-    "rank": null,
-    "rank_with_ads": null,
-    "page": null,
-    "note": "5페이지·318건 검색 · 미발견",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 12:59"
-  },
-  {
     "keyword": "영도미용실",
     "place_name": "어썸헤어바이명작",
     "rank": 10,
@@ -4898,26 +4388,6 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 12:59"
-  },
-  {
-    "keyword": "부산미용실",
-    "place_name": "어썸헤어 서면점",
-    "rank": null,
-    "rank_with_ads": null,
-    "page": null,
-    "note": "5페이지·88건 검색 · 미발견",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:08"
-  },
-  {
-    "keyword": "부산미용실",
-    "place_name": "어썸헤어 서면점",
-    "rank": null,
-    "rank_with_ads": null,
-    "page": null,
-    "note": "5페이지·318건 검색 · 미발견",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:01"
   },
   {
     "keyword": "서면미용실",
@@ -5278,26 +4748,6 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 13:04"
-  },
-  {
-    "keyword": "울산미용실",
-    "place_name": "리안헤어 울산성남점",
-    "rank": null,
-    "rank_with_ads": null,
-    "page": null,
-    "note": "5페이지·318건 검색 · 미발견",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:13"
-  },
-  {
-    "keyword": "울산미용실",
-    "place_name": "리안헤어 울산성남점",
-    "rank": null,
-    "rank_with_ads": null,
-    "page": null,
-    "note": "5페이지·318건 검색 · 미발견",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:05"
   },
   {
     "keyword": "울산성남동미용실",
@@ -6010,48 +5460,8 @@
     "datetime": "2026-07-20 13:11"
   },
   {
-    "keyword": "동작구미용실",
-    "place_name": "H STYLE 헤어살롱 노량진점",
-    "rank": 11,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:21"
-  },
-  {
-    "keyword": "동작구미용실",
-    "place_name": "H STYLE 헤어살롱 노량진점",
-    "rank": 15,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:11"
-  },
-  {
-    "keyword": "노량진미용실",
-    "place_name": "H STYLE 헤어살롱 노량진점",
-    "rank": 1,
-    "rank_with_ads": 1,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:21"
-  },
-  {
-    "keyword": "노량진미용실",
-    "place_name": "H STYLE 헤어살롱 노량진점",
-    "rank": 2,
-    "rank_with_ads": 1,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:11"
-  },
-  {
     "keyword": "노량진역미용실",
-    "place_name": "H STYLE 헤어살롱 노량진점",
+    "place_name": "리안헤어 노량진점",
     "rank": 2,
     "rank_with_ads": 2,
     "page": 1,
@@ -6061,7 +5471,7 @@
   },
   {
     "keyword": "노량진역미용실",
-    "place_name": "H STYLE 헤어살롱 노량진점",
+    "place_name": "리안헤어 노량진점",
     "rank": 3,
     "rank_with_ads": 3,
     "page": 1,
@@ -6168,26 +5578,6 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 13:12"
-  },
-  {
-    "keyword": "인하대역미용실",
-    "place_name": "리안헤어 인하대역점",
-    "rank": 7,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:22"
-  },
-  {
-    "keyword": "인하대역미용실",
-    "place_name": "리안헤어 인하대역점",
-    "rank": 9,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:13"
   },
   {
     "keyword": "성북구미용실",
@@ -6312,6 +5702,16 @@
   {
     "keyword": "동작구미용실",
     "place_name": "리안헤어 노량진점",
+    "rank": 11,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:21"
+  },
+  {
+    "keyword": "동작구미용실",
+    "place_name": "리안헤어 노량진점",
     "rank": null,
     "rank_with_ads": null,
     "page": null,
@@ -6362,6 +5762,16 @@
   {
     "keyword": "동작구미용실",
     "place_name": "리안헤어 노량진점",
+    "rank": 15,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:11"
+  },
+  {
+    "keyword": "동작구미용실",
+    "place_name": "리안헤어 노량진점",
     "rank": 30,
     "rank_with_ads": null,
     "page": 1,
@@ -6372,6 +5782,16 @@
   {
     "keyword": "노량진미용실",
     "place_name": "리안헤어 노량진점",
+    "rank": 1,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:21"
+  },
+  {
+    "keyword": "노량진미용실",
+    "place_name": "리안헤어 노량진점",
     "rank": 3,
     "rank_with_ads": 2,
     "page": 1,
@@ -6382,52 +5802,22 @@
   {
     "keyword": "노량진미용실",
     "place_name": "리안헤어 노량진점",
+    "rank": 2,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:11"
+  },
+  {
+    "keyword": "노량진미용실",
+    "place_name": "리안헤어 노량진점",
     "rank": 3,
     "rank_with_ads": 2,
     "page": 1,
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 13:14"
-  },
-  {
-    "keyword": "노들역미용실",
-    "place_name": "리안헤어 노량진점",
-    "rank": null,
-    "rank_with_ads": 3,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:24"
-  },
-  {
-    "keyword": "노들역미용실",
-    "place_name": "리안헤어 노량진점",
-    "rank": null,
-    "rank_with_ads": 9,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:15"
-  },
-  {
-    "keyword": "구로구미용실",
-    "place_name": "리안헤어 개봉푸르지오점",
-    "rank": null,
-    "rank_with_ads": 42,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:24"
-  },
-  {
-    "keyword": "구로구미용실",
-    "place_name": "리안헤어 개봉푸르지오점",
-    "rank": null,
-    "rank_with_ads": 53,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:15"
   },
   {
     "keyword": "개봉동미용실",
@@ -6468,26 +5858,6 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 13:15"
-  },
-  {
-    "keyword": "대구미용실",
-    "place_name": "비욘드헤어",
-    "rank": null,
-    "rank_with_ads": null,
-    "page": null,
-    "note": "5페이지·318건 검색 · 미발견",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:26"
-  },
-  {
-    "keyword": "대구미용실",
-    "place_name": "비욘드헤어",
-    "rank": null,
-    "rank_with_ads": null,
-    "page": null,
-    "note": "5페이지·318건 검색 · 미발견",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:17"
   },
   {
     "keyword": "수성구미용실",
@@ -6630,26 +6000,6 @@
     "datetime": "2026-07-20 13:18"
   },
   {
-    "keyword": "용현미용실",
-    "place_name": "리안헤어 용현점",
-    "rank": 16,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:28"
-  },
-  {
-    "keyword": "용현미용실",
-    "place_name": "리안헤어 용현점",
-    "rank": 16,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:18"
-  },
-  {
     "keyword": "동탄미용실",
     "place_name": "리안헤어 동탄2신도시영천점",
     "rank": 41,
@@ -6683,26 +6033,6 @@
     "keyword": "동탄2미용실",
     "place_name": "리안헤어 동탄2신도시영천점",
     "rank": 31,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:19"
-  },
-  {
-    "keyword": "영천동미용실",
-    "place_name": "리안헤어 동탄2신도시영천점",
-    "rank": 3,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:28"
-  },
-  {
-    "keyword": "영천동미용실",
-    "place_name": "리안헤어 동탄2신도시영천점",
-    "rank": 5,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -6962,116 +6292,6 @@
   {
     "keyword": "홍성미용실",
     "place_name": "리안헤어 내포중앙점",
-    "rank": 3,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:22"
-  },
-  {
-    "keyword": "내포신도시미용실",
-    "place_name": "리안헤어 내포중앙점",
-    "rank": 3,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:32"
-  },
-  {
-    "keyword": "내포신도시미용실",
-    "place_name": "리안헤어 내포중앙점",
-    "rank": 4,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:22"
-  },
-  {
-    "keyword": "내포미용실",
-    "place_name": "리안헤어 내포중앙점",
-    "rank": 3,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:32"
-  },
-  {
-    "keyword": "내포미용실",
-    "place_name": "리안헤어 내포중앙점",
-    "rank": 4,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:22"
-  },
-  {
-    "keyword": "예산미용실",
-    "place_name": "리안헤어 충남도청점",
-    "rank": 2,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:32"
-  },
-  {
-    "keyword": "예산미용실",
-    "place_name": "리안헤어 충남도청점",
-    "rank": 1,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:23"
-  },
-  {
-    "keyword": "내포미용실",
-    "place_name": "리안헤어 충남도청점",
-    "rank": 4,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:32"
-  },
-  {
-    "keyword": "내포미용실",
-    "place_name": "리안헤어 충남도청점",
-    "rank": 2,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:23"
-  },
-  {
-    "keyword": "충남도청미용실",
-    "place_name": "리안헤어 충남도청점",
-    "rank": 1,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:33"
-  },
-  {
-    "keyword": "충남도청미용실",
-    "place_name": "리안헤어 충남도청점",
-    "rank": 1,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:23"
-  },
-  {
-    "keyword": "홍성미용실",
-    "place_name": "리안헤어 내포첫마을점",
     "rank": 6,
     "rank_with_ads": null,
     "page": 1,
@@ -7081,7 +6301,17 @@
   },
   {
     "keyword": "홍성미용실",
-    "place_name": "리안헤어 내포첫마을점",
+    "place_name": "리안헤어 내포중앙점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:22"
+  },
+  {
+    "keyword": "홍성미용실",
+    "place_name": "리안헤어 내포중앙점",
     "rank": 7,
     "rank_with_ads": null,
     "page": 1,
@@ -7091,7 +6321,17 @@
   },
   {
     "keyword": "내포신도시미용실",
-    "place_name": "리안헤어 내포첫마을점",
+    "place_name": "리안헤어 내포중앙점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:32"
+  },
+  {
+    "keyword": "내포신도시미용실",
+    "place_name": "리안헤어 내포중앙점",
     "rank": 7,
     "rank_with_ads": null,
     "page": 1,
@@ -7101,7 +6341,17 @@
   },
   {
     "keyword": "내포신도시미용실",
-    "place_name": "리안헤어 내포첫마을점",
+    "place_name": "리안헤어 내포중앙점",
+    "rank": 4,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:22"
+  },
+  {
+    "keyword": "내포신도시미용실",
+    "place_name": "리안헤어 내포중앙점",
     "rank": 7,
     "rank_with_ads": null,
     "page": 1,
@@ -7111,7 +6361,17 @@
   },
   {
     "keyword": "내포미용실",
-    "place_name": "리안헤어 내포첫마을점",
+    "place_name": "리안헤어 내포중앙점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:32"
+  },
+  {
+    "keyword": "내포미용실",
+    "place_name": "리안헤어 내포중앙점",
     "rank": 7,
     "rank_with_ads": null,
     "page": 1,
@@ -7121,8 +6381,58 @@
   },
   {
     "keyword": "내포미용실",
-    "place_name": "리안헤어 내포첫마을점",
+    "place_name": "리안헤어 내포중앙점",
+    "rank": 4,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:22"
+  },
+  {
+    "keyword": "내포미용실",
+    "place_name": "리안헤어 내포중앙점",
     "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:23"
+  },
+  {
+    "keyword": "내포미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": 4,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:32"
+  },
+  {
+    "keyword": "내포미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:23"
+  },
+  {
+    "keyword": "충남도청미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:33"
+  },
+  {
+    "keyword": "충남도청미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": 1,
     "rank_with_ads": null,
     "page": 1,
     "note": "",
@@ -7330,26 +6640,6 @@
     "datetime": "2026-07-20 13:25"
   },
   {
-    "keyword": "동탄2미용실",
-    "place_name": "리안헤어 제2동탄시범점",
-    "rank": 51,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:37"
-  },
-  {
-    "keyword": "동탄2미용실",
-    "place_name": "리안헤어 제2동탄시범점",
-    "rank": 53,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:25"
-  },
-  {
     "keyword": "2동탄미용실",
     "place_name": "리안헤어 제2동탄시범점",
     "rank": 51,
@@ -7510,26 +6800,6 @@
     "datetime": "2026-07-20 13:26"
   },
   {
-    "keyword": "내발산동미용실",
-    "place_name": "리안헤어 발산점",
-    "rank": 3,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:38"
-  },
-  {
-    "keyword": "내발산동미용실",
-    "place_name": "리안헤어 발산점",
-    "rank": 3,
-    "rank_with_ads": 1,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:26"
-  },
-  {
     "keyword": "발산역미용실",
     "place_name": "리안헤어 발산점",
     "rank": 28,
@@ -7562,56 +6832,6 @@
   {
     "keyword": "서대문구미용실",
     "place_name": "리안헤어 명지대점",
-    "rank": 26,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:27"
-  },
-  {
-    "keyword": "남가좌동미용실",
-    "place_name": "리안헤어 명지대점",
-    "rank": 5,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:39"
-  },
-  {
-    "keyword": "남가좌동미용실",
-    "place_name": "리안헤어 명지대점",
-    "rank": 6,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:27"
-  },
-  {
-    "keyword": "명지대미용실",
-    "place_name": "리안헤어 명지대점",
-    "rank": 7,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:39"
-  },
-  {
-    "keyword": "명지대미용실",
-    "place_name": "리안헤어 명지대점",
-    "rank": 7,
-    "rank_with_ads": null,
-    "page": 1,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:27"
-  },
-  {
-    "keyword": "서대문구미용실",
-    "place_name": "리안헤어 명지대2호점",
     "rank": 16,
     "rank_with_ads": null,
     "page": 1,
@@ -7621,7 +6841,17 @@
   },
   {
     "keyword": "서대문구미용실",
-    "place_name": "리안헤어 명지대2호점",
+    "place_name": "리안헤어 명지대점",
+    "rank": 26,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:27"
+  },
+  {
+    "keyword": "서대문구미용실",
+    "place_name": "리안헤어 명지대점",
     "rank": 25,
     "rank_with_ads": null,
     "page": 1,
@@ -7631,7 +6861,17 @@
   },
   {
     "keyword": "남가좌동미용실",
-    "place_name": "리안헤어 명지대2호점",
+    "place_name": "리안헤어 명지대점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:39"
+  },
+  {
+    "keyword": "남가좌동미용실",
+    "place_name": "리안헤어 명지대점",
     "rank": 3,
     "rank_with_ads": null,
     "page": 1,
@@ -7641,7 +6881,17 @@
   },
   {
     "keyword": "남가좌동미용실",
-    "place_name": "리안헤어 명지대2호점",
+    "place_name": "리안헤어 명지대점",
+    "rank": 6,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:27"
+  },
+  {
+    "keyword": "남가좌동미용실",
+    "place_name": "리안헤어 명지대점",
     "rank": 5,
     "rank_with_ads": null,
     "page": 1,
@@ -7651,7 +6901,7 @@
   },
   {
     "keyword": "남가좌동미용실",
-    "place_name": "리안헤어 명지대2호점",
+    "place_name": "리안헤어 명지대점",
     "rank": 6,
     "rank_with_ads": null,
     "page": 1,
@@ -7661,7 +6911,17 @@
   },
   {
     "keyword": "명지대미용실",
-    "place_name": "리안헤어 명지대2호점",
+    "place_name": "리안헤어 명지대점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 10:39"
+  },
+  {
+    "keyword": "명지대미용실",
+    "place_name": "리안헤어 명지대점",
     "rank": 4,
     "rank_with_ads": null,
     "page": 1,
@@ -7671,7 +6931,17 @@
   },
   {
     "keyword": "명지대미용실",
-    "place_name": "리안헤어 명지대2호점",
+    "place_name": "리안헤어 명지대점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-20",
+    "datetime": "2026-07-20 13:27"
+  },
+  {
+    "keyword": "명지대미용실",
+    "place_name": "리안헤어 명지대점",
     "rank": 6,
     "rank_with_ads": null,
     "page": 1,
@@ -7681,7 +6951,7 @@
   },
   {
     "keyword": "명지대미용실",
-    "place_name": "리안헤어 명지대2호점",
+    "place_name": "리안헤어 명지대점",
     "rank": 7,
     "rank_with_ads": null,
     "page": 1,
@@ -8108,26 +7378,6 @@
     "note": "",
     "date": "2026-07-20",
     "datetime": "2026-07-20 13:36"
-  },
-  {
-    "keyword": "관악구미용실",
-    "place_name": "리안헤어 낙성대점",
-    "rank": 253,
-    "rank_with_ads": null,
-    "page": 4,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 10:50"
-  },
-  {
-    "keyword": "관악구미용실",
-    "place_name": "리안헤어 낙성대점",
-    "rank": 250,
-    "rank_with_ads": null,
-    "page": 4,
-    "note": "",
-    "date": "2026-07-20",
-    "datetime": "2026-07-20 13:37"
   },
   {
     "keyword": "낙성대미용실",

@@ -315,7 +315,7 @@ select:focus { outline: none; border-color: var(--primary); }
   <div class="panel">
     <div class="toolbar">
       <label id="dateLabel">날짜 선택</label>
-      <select id="dateSelect" onchange="renderActive()"></select>
+      <select id="dateSelect" onchange="onDateSelectChange()"></select>
     </div>
     <div class="rank-row" id="rankRow"></div>
   </div>
@@ -374,6 +374,7 @@ let current = null;
 let activeTab = 0;
 let chartAds = null, chartOrganic = null;
 let chartPeriodBack = 7;
+let datePickByKeyword = {};
 const CHART_PERIODS = [
   { label: '1주일', days: 7 },
   { label: '1개월', days: 30 },
@@ -561,6 +562,7 @@ function buildCurrent(name){
 function openPlace(name){
   current=buildCurrent(name);
   activeTab=0;
+  datePickByKeyword={};
   document.getElementById('homeView').classList.add('hidden');
   document.getElementById('detailView').classList.remove('hidden');
   document.getElementById('detailName').textContent=current.place_name;
@@ -583,9 +585,20 @@ function allDatesOfActive(){
   return [...set].sort().reverse();
 }
 
+function activeKeywordName(){
+  return current?.keywords?.[activeTab]?.keyword || '';
+}
+
+function onDateSelectChange(){
+  const kw = activeKeywordName();
+  const val = document.getElementById('dateSelect').value;
+  if(kw && val) datePickByKeyword[kw] = val;
+  renderActive();
+}
+
 function renderDateOptions(forceLatest = false){
   const sel=document.getElementById('dateSelect');
-  const prev = forceLatest ? '' : sel.value;
+  const kwName = activeKeywordName();
   const dates=allDatesOfActive(); sel.innerHTML='';
   if(!dates.length){
     const o=document.createElement('option');
@@ -593,7 +606,11 @@ function renderDateOptions(forceLatest = false){
     sel.appendChild(o); return;
   }
   dates.forEach(d=>{ const o=document.createElement('option'); o.value=d; o.textContent=d; sel.appendChild(o); });
-  sel.value = (prev && dates.includes(prev)) ? prev : dates[0];
+  if(forceLatest && kwName) delete datePickByKeyword[kwName];
+  let pick = dates[0];
+  const pinned = kwName ? datePickByKeyword[kwName] : null;
+  if(!forceLatest && pinned && dates.includes(pinned)) pick = pinned;
+  sel.value = pick;
 }
 
 function renderChartPeriodTabs() {
