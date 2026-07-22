@@ -1317,7 +1317,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-22",
-    "datetime": "2026-07-22 12:28"
+    "datetime": "2026-07-22 12:27"
   },
   {
     "keyword": "서창2지구미용실",
@@ -2620,6 +2620,16 @@
     "datetime": "2026-07-21 12:26"
   },
   {
+    "keyword": "금왕미용실",
+    "place_name": "리안헤어 금왕점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:32"
+  },
+  {
     "keyword": "금왕읍미용실",
     "place_name": "리안헤어 금왕점",
     "rank": 1,
@@ -2648,6 +2658,16 @@
     "note": "",
     "date": "2026-07-21",
     "datetime": "2026-07-21 12:26"
+  },
+  {
+    "keyword": "금왕읍미용실",
+    "place_name": "리안헤어 금왕점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:32"
   },
   {
     "keyword": "성북구미용실",
@@ -2680,6 +2700,16 @@
     "datetime": "2026-07-21 12:26"
   },
   {
+    "keyword": "성북구미용실",
+    "place_name": "리안헤어 성신여대점",
+    "rank": 26,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:32"
+  },
+  {
     "keyword": "동선동미용실",
     "place_name": "리안헤어 성신여대점",
     "rank": 15,
@@ -2708,6 +2738,16 @@
     "note": "",
     "date": "2026-07-21",
     "datetime": "2026-07-21 12:26"
+  },
+  {
+    "keyword": "동선동미용실",
+    "place_name": "리안헤어 성신여대점",
+    "rank": 13,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:32"
   },
   {
     "keyword": "성신여대미용실",
@@ -2740,6 +2780,16 @@
     "datetime": "2026-07-21 12:26"
   },
   {
+    "keyword": "성신여대미용실",
+    "place_name": "리안헤어 성신여대점",
+    "rank": 14,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:32"
+  },
+  {
     "keyword": "인천청라미용실",
     "place_name": "리안헤어 청라호수공원점",
     "rank": 34,
@@ -2768,6 +2818,16 @@
     "note": "",
     "date": "2026-07-21",
     "datetime": "2026-07-21 12:27"
+  },
+  {
+    "keyword": "인천청라미용실",
+    "place_name": "리안헤어 청라호수공원점",
+    "rank": 30,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:33"
   },
   {
     "keyword": "청라미용실",
