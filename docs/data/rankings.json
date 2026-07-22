@@ -1020,6 +1020,16 @@
     "datetime": "2026-07-21 12:12"
   },
   {
+    "keyword": "동탄카림미용실",
+    "place_name": "리안헤어 제2동탄시범점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:22"
+  },
+  {
     "keyword": "주안미용실",
     "place_name": "리안헤어 주안시민공원역점",
     "rank": 18,
@@ -1030,6 +1040,16 @@
     "datetime": "2026-07-21 12:14"
   },
   {
+    "keyword": "주안미용실",
+    "place_name": "리안헤어 주안시민공원역점",
+    "rank": 19,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:23"
+  },
+  {
     "keyword": "천호동미용실",
     "place_name": "리안헤어 천호역점",
     "rank": 271,
@@ -1038,6 +1058,16 @@
     "note": "",
     "date": "2026-07-21",
     "datetime": "2026-07-21 12:15"
+  },
+  {
+    "keyword": "천호동미용실",
+    "place_name": "리안헤어 천호역점",
+    "rank": 273,
+    "rank_with_ads": null,
+    "page": 4,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:24"
   },
   {
     "keyword": "범어역미용실",
@@ -3800,6 +3830,16 @@
     "datetime": "2026-07-21 12:14"
   },
   {
+    "keyword": "주안동미용실",
+    "place_name": "리안헤어 주안시민공원역점",
+    "rank": 19,
+    "rank_with_ads": 17,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:23"
+  },
+  {
     "keyword": "시민공원역미용실",
     "place_name": "리안헤어 주안시민공원역점",
     "rank": 19,
@@ -3828,6 +3868,16 @@
     "note": "",
     "date": "2026-07-21",
     "datetime": "2026-07-21 12:14"
+  },
+  {
+    "keyword": "시민공원역미용실",
+    "place_name": "리안헤어 주안시민공원역점",
+    "rank": 14,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:23"
   },
   {
     "keyword": "부천소사미용실",
@@ -9330,6 +9380,16 @@
     "datetime": "2026-07-21 12:12"
   },
   {
+    "keyword": "용현동미용실",
+    "place_name": "리안헤어 인하대역점",
+    "rank": 10,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:22"
+  },
+  {
     "keyword": "성북구미용실",
     "place_name": "리안헤어 정릉시장점",
     "rank": 29,
@@ -10800,6 +10860,16 @@
     "datetime": "2026-07-21 12:13"
   },
   {
+    "keyword": "동탄미용실",
+    "place_name": "리안헤어 제2동탄시범점",
+    "rank": 88,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:22"
+  },
+  {
     "keyword": "2동탄미용실",
     "place_name": "리안헤어 제2동탄시범점",
     "rank": 51,
@@ -10828,6 +10898,16 @@
     "note": "",
     "date": "2026-07-21",
     "datetime": "2026-07-21 12:13"
+  },
+  {
+    "keyword": "2동탄미용실",
+    "place_name": "리안헤어 제2동탄시범점",
+    "rank": 51,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:23"
   },
   {
     "keyword": "안양미용실",
