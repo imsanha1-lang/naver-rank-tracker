@@ -77,7 +77,7 @@
     "page": 2,
     "note": "",
     "date": "2026-07-22",
-    "datetime": "2026-07-22 12:04"
+    "datetime": "2026-07-22 12:03"
   },
   {
     "keyword": "북구미용실",
@@ -97,7 +97,7 @@
     "page": 4,
     "note": "",
     "date": "2026-07-22",
-    "datetime": "2026-07-22 12:05"
+    "datetime": "2026-07-22 12:04"
   },
   {
     "keyword": "광주진월미용실",
@@ -150,6 +150,16 @@
     "datetime": "2026-07-21 15:27"
   },
   {
+    "keyword": "신정네거리미용실",
+    "place_name": "리안헤어 목동신트리공원점",
+    "rank": 19,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:07"
+  },
+  {
     "keyword": "수서미용실",
     "place_name": "리안헤어 수서역점",
     "rank": 2,
@@ -158,6 +168,16 @@
     "note": "",
     "date": "2026-07-21",
     "datetime": "2026-07-21 15:29"
+  },
+  {
+    "keyword": "수서미용실",
+    "place_name": "리안헤어 수서역점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:07"
   },
   {
     "keyword": "장안구미용실",
@@ -170,6 +190,16 @@
     "datetime": "2026-07-21 15:27"
   },
   {
+    "keyword": "장안구미용실",
+    "place_name": "리안헤어 수원정자sk뷰점",
+    "rank": 39,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:08"
+  },
+  {
     "keyword": "금천구청역미용실",
     "place_name": "리안헤어 시흥사거리점",
     "rank": 18,
@@ -178,6 +208,16 @@
     "note": "",
     "date": "2026-07-21",
     "datetime": "2026-07-21 15:29"
+  },
+  {
+    "keyword": "금천구청역미용실",
+    "place_name": "리안헤어 시흥사거리점",
+    "rank": 18,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:08"
   },
   {
     "keyword": "장안미용실",
@@ -2487,7 +2527,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-22",
-    "datetime": "2026-07-22 12:04"
+    "datetime": "2026-07-22 12:03"
   },
   {
     "keyword": "불로동미용실",
@@ -2527,7 +2567,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-22",
-    "datetime": "2026-07-22 12:04"
+    "datetime": "2026-07-22 12:03"
   },
   {
     "keyword": "청주미용실",
@@ -4290,6 +4330,16 @@
     "datetime": "2026-07-21 12:46"
   },
   {
+    "keyword": "수원정자동미용실",
+    "place_name": "리안헤어 수원정자sk뷰점",
+    "rank": 13,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:08"
+  },
+  {
     "keyword": "정자SK뷰미용실",
     "place_name": "리안헤어 수원정자sk뷰점",
     "rank": 5,
@@ -4318,6 +4368,16 @@
     "note": "",
     "date": "2026-07-21",
     "datetime": "2026-07-21 12:46"
+  },
+  {
+    "keyword": "정자SK뷰미용실",
+    "place_name": "리안헤어 수원정자sk뷰점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:08"
   },
   {
     "keyword": "강서구미용실",
@@ -4577,7 +4637,7 @@
     "page": 1,
     "note": "",
     "date": "2026-07-22",
-    "datetime": "2026-07-22 12:03"
+    "datetime": "2026-07-22 12:02"
   },
   {
     "keyword": "양천구미용실",
@@ -4610,6 +4670,16 @@
     "datetime": "2026-07-21 12:52"
   },
   {
+    "keyword": "양천구미용실",
+    "place_name": "리안헤어 목동신트리공원점",
+    "rank": 43,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:07"
+  },
+  {
     "keyword": "신정동미용실",
     "place_name": "리안헤어 목동신트리공원점",
     "rank": 12,
@@ -4638,6 +4708,16 @@
     "note": "",
     "date": "2026-07-21",
     "datetime": "2026-07-21 12:54"
+  },
+  {
+    "keyword": "신정동미용실",
+    "place_name": "리안헤어 목동신트리공원점",
+    "rank": 15,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:07"
   },
   {
     "keyword": "광주북구미용실",
@@ -10050,6 +10130,16 @@
     "datetime": "2026-07-21 13:29"
   },
   {
+    "keyword": "금천구미용실",
+    "place_name": "리안헤어 시흥사거리점",
+    "rank": 48,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:08"
+  },
+  {
     "keyword": "시흥동미용실",
     "place_name": "리안헤어 시흥사거리점",
     "rank": 5,
@@ -11140,6 +11230,16 @@
     "datetime": "2026-07-21 13:45"
   },
   {
+    "keyword": "수서동미용실",
+    "place_name": "리안헤어 수서역점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:07"
+  },
+  {
     "keyword": "수서역미용실",
     "place_name": "리안헤어 수서역점",
     "rank": 2,
@@ -11168,6 +11268,16 @@
     "note": "",
     "date": "2026-07-21",
     "datetime": "2026-07-21 13:45"
+  },
+  {
+    "keyword": "수서역미용실",
+    "place_name": "리안헤어 수서역점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:08"
   },
   {
     "keyword": "강동구미용실",
@@ -11560,6 +11670,16 @@
     "datetime": "2026-07-21 13:52"
   },
   {
+    "keyword": "세류동미용실",
+    "place_name": "리안헤어 매교역점",
+    "rank": 10,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:07"
+  },
+  {
     "keyword": "매교역미용실",
     "place_name": "리안헤어 매교역점",
     "rank": 62,
@@ -11588,6 +11708,16 @@
     "note": "",
     "date": "2026-07-21",
     "datetime": "2026-07-21 13:52"
+  },
+  {
+    "keyword": "매교역미용실",
+    "place_name": "리안헤어 매교역점",
+    "rank": 66,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-22",
+    "datetime": "2026-07-22 12:07"
   },
   {
     "keyword": "수원미용실",
