@@ -15700,6 +15700,16 @@
     "datetime": "2026-07-22 13:12"
   },
   {
+    "keyword": "평거동미용실",
+    "place_name": "리안헤어 평거점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 13:29"
+  },
+  {
     "keyword": "진주미용실",
     "place_name": "리안헤어 진주역점",
     "rank": 80,
@@ -15738,6 +15748,16 @@
     "note": "",
     "date": "2026-07-22",
     "datetime": "2026-07-22 13:12"
+  },
+  {
+    "keyword": "진주미용실",
+    "place_name": "리안헤어 진주역점",
+    "rank": 91,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 13:29"
   },
   {
     "keyword": "가좌동미용실",
@@ -15780,6 +15800,16 @@
     "datetime": "2026-07-22 13:12"
   },
   {
+    "keyword": "가좌동미용실",
+    "place_name": "리안헤어 진주역점",
+    "rank": 20,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 13:29"
+  },
+  {
     "keyword": "진주역미용실",
     "place_name": "리안헤어 진주역점",
     "rank": 16,
@@ -15818,6 +15848,16 @@
     "note": "",
     "date": "2026-07-22",
     "datetime": "2026-07-22 13:12"
+  },
+  {
+    "keyword": "진주역미용실",
+    "place_name": "리안헤어 진주역점",
+    "rank": 18,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 13:30"
   },
   {
     "keyword": "동탄미용실",
@@ -15860,6 +15900,16 @@
     "datetime": "2026-07-22 13:13"
   },
   {
+    "keyword": "동탄미용실",
+    "place_name": "리안헤어 동탄장지점",
+    "rank": 169,
+    "rank_with_ads": null,
+    "page": 3,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 13:30"
+  },
+  {
     "keyword": "동탄2미용실",
     "place_name": "리안헤어 동탄장지점",
     "rank": 101,
@@ -15898,6 +15948,16 @@
     "note": "",
     "date": "2026-07-22",
     "datetime": "2026-07-22 13:14"
+  },
+  {
+    "keyword": "동탄2미용실",
+    "place_name": "리안헤어 동탄장지점",
+    "rank": 103,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 13:31"
   },
   {
     "keyword": "동탄장지동미용실",
