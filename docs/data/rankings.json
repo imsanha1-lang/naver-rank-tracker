@@ -470,6 +470,16 @@
     "datetime": "2026-07-22 12:11"
   },
   {
+    "keyword": "노량진미용실",
+    "place_name": "H STYLE 헤어살롱 노량진점",
+    "rank": 2,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 12:16"
+  },
+  {
     "keyword": "노량진역미용실",
     "place_name": "H STYLE 헤어살롱 노량진점",
     "rank": 2,
@@ -508,6 +518,16 @@
     "note": "",
     "date": "2026-07-22",
     "datetime": "2026-07-22 12:11"
+  },
+  {
+    "keyword": "노량진역미용실",
+    "place_name": "H STYLE 헤어살롱 노량진점",
+    "rank": 3,
+    "rank_with_ads": 9,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 12:16"
   },
   {
     "keyword": "동작구미용실",
@@ -550,6 +570,16 @@
     "datetime": "2026-07-22 12:11"
   },
   {
+    "keyword": "동작구미용실",
+    "place_name": "H STYLE 헤어살롱 노량진점",
+    "rank": 14,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 12:16"
+  },
+  {
     "keyword": "강남미용실",
     "place_name": "리안헤어 강남양재역점",
     "rank": null,
@@ -570,6 +600,16 @@
     "datetime": "2026-07-22 12:11"
   },
   {
+    "keyword": "강남미용실",
+    "place_name": "리안헤어 강남양재역점",
+    "rank": 197,
+    "rank_with_ads": 17,
+    "page": 3,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 12:17"
+  },
+  {
     "keyword": "고덕미용실",
     "place_name": "리안헤어 강일2지구점",
     "rank": 89,
@@ -588,6 +628,16 @@
     "note": "",
     "date": "2026-07-22",
     "datetime": "2026-07-22 12:11"
+  },
+  {
+    "keyword": "고덕미용실",
+    "place_name": "리안헤어 강일2지구점",
+    "rank": 92,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 12:18"
   },
   {
     "keyword": "관양동미용실",
@@ -2540,6 +2590,16 @@
     "datetime": "2026-07-22 12:11"
   },
   {
+    "keyword": "도곡동미용실",
+    "place_name": "리안헤어 강남양재역점",
+    "rank": 17,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 12:17"
+  },
+  {
     "keyword": "양재역미용실",
     "place_name": "리안헤어 강남양재역점",
     "rank": 15,
@@ -2578,6 +2638,16 @@
     "note": "",
     "date": "2026-07-22",
     "datetime": "2026-07-22 12:11"
+  },
+  {
+    "keyword": "양재역미용실",
+    "place_name": "리안헤어 강남양재역점",
+    "rank": 10,
+    "rank_with_ads": 10,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 12:17"
   },
   {
     "keyword": "양천구미용실",
@@ -14750,6 +14820,16 @@
     "datetime": "2026-07-22 12:10"
   },
   {
+    "keyword": "장안구미용실",
+    "place_name": "에이치스타일 정자점",
+    "rank": 50,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 12:16"
+  },
+  {
     "keyword": "수원정자동미용실",
     "place_name": "에이치스타일 정자점",
     "rank": 19,
@@ -14788,6 +14868,16 @@
     "note": "",
     "date": "2026-07-22",
     "datetime": "2026-07-22 12:10"
+  },
+  {
+    "keyword": "수원정자동미용실",
+    "place_name": "에이치스타일 정자점",
+    "rank": 16,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 12:16"
   },
   {
     "keyword": "안양미용실",
