@@ -120,6 +120,16 @@
     "datetime": "2026-07-22 12:04"
   },
   {
+    "keyword": "인천검단미용실",
+    "place_name": "리안헤어 검단문화체육센터점",
+    "rank": 110,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 12:09"
+  },
+  {
     "keyword": "북구미용실",
     "place_name": "리안헤어 광주용봉점",
     "rank": 264,
@@ -138,6 +148,16 @@
     "note": "",
     "date": "2026-07-22",
     "datetime": "2026-07-22 12:05"
+  },
+  {
+    "keyword": "북구미용실",
+    "place_name": "리안헤어 광주용봉점",
+    "rank": 185,
+    "rank_with_ads": null,
+    "page": 3,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 12:10"
   },
   {
     "keyword": "광주진월미용실",
@@ -3450,6 +3470,16 @@
     "datetime": "2026-07-22 12:04"
   },
   {
+    "keyword": "검단미용실",
+    "place_name": "리안헤어 검단문화체육센터점",
+    "rank": 30,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 12:10"
+  },
+  {
     "keyword": "불로동미용실",
     "place_name": "리안헤어 검단문화체육센터점",
     "rank": 2,
@@ -3488,6 +3518,16 @@
     "note": "",
     "date": "2026-07-22",
     "datetime": "2026-07-22 12:04"
+  },
+  {
+    "keyword": "불로동미용실",
+    "place_name": "리안헤어 검단문화체육센터점",
+    "rank": 3,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 12:10"
   },
   {
     "keyword": "청주미용실",
@@ -6180,6 +6220,16 @@
     "datetime": "2026-07-22 12:03"
   },
   {
+    "keyword": "강남역미용실",
+    "place_name": "리안헤어 강남역점",
+    "rank": 30,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 12:09"
+  },
+  {
     "keyword": "양천구미용실",
     "place_name": "리안헤어 목동신트리공원점",
     "rank": 32,
@@ -6298,6 +6348,16 @@
     "note": "",
     "date": "2026-07-22",
     "datetime": "2026-07-22 12:06"
+  },
+  {
+    "keyword": "광주북구미용실",
+    "place_name": "리안헤어 광주용봉점",
+    "rank": 186,
+    "rank_with_ads": null,
+    "page": 3,
+    "note": "",
+    "date": "2026-07-23",
+    "datetime": "2026-07-23 12:11"
   },
   {
     "keyword": "용봉동미용실",
