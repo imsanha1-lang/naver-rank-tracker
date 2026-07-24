@@ -14630,6 +14630,16 @@
     "datetime": "2026-07-23 13:15"
   },
   {
+    "keyword": "마장역미용실",
+    "place_name": "리안헤어 마장역점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-24",
+    "datetime": "2026-07-24 13:09"
+  },
+  {
     "keyword": "파주미용실",
     "place_name": "리안헤어 운정초롱꽃마을점",
     "rank": 12,
@@ -14680,6 +14690,16 @@
     "datetime": "2026-07-23 13:15"
   },
   {
+    "keyword": "파주미용실",
+    "place_name": "리안헤어 운정초롱꽃마을점",
+    "rank": 21,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-24",
+    "datetime": "2026-07-24 13:09"
+  },
+  {
     "keyword": "운정미용실",
     "place_name": "리안헤어 운정초롱꽃마을점",
     "rank": 12,
@@ -14730,6 +14750,16 @@
     "datetime": "2026-07-23 13:15"
   },
   {
+    "keyword": "운정미용실",
+    "place_name": "리안헤어 운정초롱꽃마을점",
+    "rank": 20,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-24",
+    "datetime": "2026-07-24 13:09"
+  },
+  {
     "keyword": "동패동미용실",
     "place_name": "리안헤어 운정초롱꽃마을점",
     "rank": 2,
@@ -14778,6 +14808,16 @@
     "note": "",
     "date": "2026-07-23",
     "datetime": "2026-07-23 13:16"
+  },
+  {
+    "keyword": "동패동미용실",
+    "place_name": "리안헤어 운정초롱꽃마을점",
+    "rank": 6,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-24",
+    "datetime": "2026-07-24 13:09"
   },
   {
     "keyword": "파주미용실",
@@ -14840,6 +14880,16 @@
     "datetime": "2026-07-23 13:16"
   },
   {
+    "keyword": "파주미용실",
+    "place_name": "리안헤어 다율동점",
+    "rank": 64,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-24",
+    "datetime": "2026-07-24 13:10"
+  },
+  {
     "keyword": "운정미용실",
     "place_name": "리안헤어 다율동점",
     "rank": 59,
@@ -14888,6 +14938,16 @@
     "note": "",
     "date": "2026-07-23",
     "datetime": "2026-07-23 13:17"
+  },
+  {
+    "keyword": "운정미용실",
+    "place_name": "리안헤어 다율동점",
+    "rank": 57,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-24",
+    "datetime": "2026-07-24 13:10"
   },
   {
     "keyword": "다율동미용실",
@@ -14950,6 +15010,16 @@
     "datetime": "2026-07-23 13:17"
   },
   {
+    "keyword": "다율동미용실",
+    "place_name": "리안헤어 다율동점",
+    "rank": 6,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-24",
+    "datetime": "2026-07-24 13:10"
+  },
+  {
     "keyword": "이문동미용실",
     "place_name": "리안헤어 외대역점",
     "rank": 29,
@@ -14998,6 +15068,16 @@
     "note": "",
     "date": "2026-07-23",
     "datetime": "2026-07-23 13:17"
+  },
+  {
+    "keyword": "이문동미용실",
+    "place_name": "리안헤어 외대역점",
+    "rank": 27,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-24",
+    "datetime": "2026-07-24 13:10"
   },
   {
     "keyword": "외대미용실",
@@ -15050,6 +15130,16 @@
     "datetime": "2026-07-23 13:17"
   },
   {
+    "keyword": "외대미용실",
+    "place_name": "리안헤어 외대역점",
+    "rank": 45,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-24",
+    "datetime": "2026-07-24 13:10"
+  },
+  {
     "keyword": "외대앞역미용실",
     "place_name": "리안헤어 외대역점",
     "rank": 29,
@@ -15098,6 +15188,16 @@
     "note": "",
     "date": "2026-07-23",
     "datetime": "2026-07-23 13:17"
+  },
+  {
+    "keyword": "외대앞역미용실",
+    "place_name": "리안헤어 외대역점",
+    "rank": 27,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-24",
+    "datetime": "2026-07-24 13:11"
   },
   {
     "keyword": "울산성남동미용실",
