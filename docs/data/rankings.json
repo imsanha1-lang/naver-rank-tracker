@@ -1920,6 +1920,16 @@
     "datetime": "2026-07-23 12:32"
   },
   {
+    "keyword": "천호동미용실",
+    "place_name": "리안헤어 천호역점",
+    "rank": 268,
+    "rank_with_ads": null,
+    "page": 4,
+    "note": "",
+    "date": "2026-07-24",
+    "datetime": "2026-07-24 12:27"
+  },
+  {
     "keyword": "범어역미용실",
     "place_name": "비욘드헤어",
     "rank": 25,
@@ -1950,6 +1960,16 @@
     "datetime": "2026-07-23 12:33"
   },
   {
+    "keyword": "범어역미용실",
+    "place_name": "비욘드헤어",
+    "rank": 22,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-24",
+    "datetime": "2026-07-24 12:27"
+  },
+  {
     "keyword": "부산서면미용실",
     "place_name": "어썸헤어 서면점",
     "rank": 56,
@@ -1978,6 +1998,16 @@
     "note": "",
     "date": "2026-07-23",
     "datetime": "2026-07-23 12:34"
+  },
+  {
+    "keyword": "부산서면미용실",
+    "place_name": "어썸헤어 서면점",
+    "rank": 69,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-24",
+    "datetime": "2026-07-24 12:28"
   },
   {
     "keyword": "부산영도미용실",
@@ -7260,6 +7290,16 @@
     "datetime": "2026-07-23 12:32"
   },
   {
+    "keyword": "천호미용실",
+    "place_name": "리안헤어 천호역점",
+    "rank": 21,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-24",
+    "datetime": "2026-07-24 12:27"
+  },
+  {
     "keyword": "천호역미용실",
     "place_name": "리안헤어 천호역점",
     "rank": 19,
@@ -7308,6 +7348,16 @@
     "note": "",
     "date": "2026-07-23",
     "datetime": "2026-07-23 12:32"
+  },
+  {
+    "keyword": "천호역미용실",
+    "place_name": "리안헤어 천호역점",
+    "rank": 21,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-24",
+    "datetime": "2026-07-24 12:27"
   },
   {
     "keyword": "광주서구미용실",
@@ -15830,6 +15880,16 @@
     "datetime": "2026-07-23 12:33"
   },
   {
+    "keyword": "수성구미용실",
+    "place_name": "비욘드헤어",
+    "rank": 108,
+    "rank_with_ads": 66,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-24",
+    "datetime": "2026-07-24 12:28"
+  },
+  {
     "keyword": "범어동미용실",
     "place_name": "비욘드헤어",
     "rank": null,
@@ -15878,6 +15938,16 @@
     "note": "",
     "date": "2026-07-23",
     "datetime": "2026-07-23 12:34"
+  },
+  {
+    "keyword": "범어동미용실",
+    "place_name": "비욘드헤어",
+    "rank": 28,
+    "rank_with_ads": 9,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-24",
+    "datetime": "2026-07-24 12:28"
   },
   {
     "keyword": "달서구미용실",
