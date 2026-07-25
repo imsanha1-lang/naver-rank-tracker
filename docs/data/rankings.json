@@ -100,6 +100,16 @@
     "datetime": "2026-07-24 12:02"
   },
   {
+    "keyword": "천호미용실",
+    "place_name": "H STYLE헤어살롱 강동역점",
+    "rank": 270,
+    "rank_with_ads": null,
+    "page": 4,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:01"
+  },
+  {
     "keyword": "서초미용실",
     "place_name": "리안헤어 강남역점",
     "rank": 38,
@@ -138,6 +148,16 @@
     "note": "",
     "date": "2026-07-24",
     "datetime": "2026-07-24 12:03"
+  },
+  {
+    "keyword": "서초미용실",
+    "place_name": "리안헤어 강남역점",
+    "rank": 60,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:02"
   },
   {
     "keyword": "인천검단미용실",
@@ -7970,6 +7990,16 @@
     "datetime": "2026-07-24 12:02"
   },
   {
+    "keyword": "천호동미용실",
+    "place_name": "H STYLE헤어살롱 강동역점",
+    "rank": 80,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:02"
+  },
+  {
     "keyword": "강동역미용실",
     "place_name": "H STYLE헤어살롱 강동역점",
     "rank": 34,
@@ -8028,6 +8058,16 @@
     "note": "",
     "date": "2026-07-24",
     "datetime": "2026-07-24 12:02"
+  },
+  {
+    "keyword": "강동역미용실",
+    "place_name": "H STYLE헤어살롱 강동역점",
+    "rank": 36,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:02"
   },
   {
     "keyword": "천호미용실",
@@ -8770,6 +8810,16 @@
     "datetime": "2026-07-24 12:01"
   },
   {
+    "keyword": "평택미용실",
+    "place_name": "리안헤어 평택용죽점",
+    "rank": 38,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:01"
+  },
+  {
     "keyword": "용이동미용실",
     "place_name": "리안헤어 평택용죽점",
     "rank": 1,
@@ -8828,6 +8878,16 @@
     "note": "",
     "date": "2026-07-24",
     "datetime": "2026-07-24 12:01"
+  },
+  {
+    "keyword": "용이동미용실",
+    "place_name": "리안헤어 평택용죽점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:01"
   },
   {
     "keyword": "수원정자동미용실",
