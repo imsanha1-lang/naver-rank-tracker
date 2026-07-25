@@ -1300,6 +1300,16 @@
     "datetime": "2026-07-24 12:14"
   },
   {
+    "keyword": "내포신도시미용실",
+    "place_name": "리안헤어 내포첫마을점",
+    "rank": 10,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:14"
+  },
+  {
     "keyword": "홍성미용실",
     "place_name": "리안헤어 내포첫마을점",
     "rank": 6,
@@ -1360,6 +1370,16 @@
     "datetime": "2026-07-24 12:14"
   },
   {
+    "keyword": "홍성미용실",
+    "place_name": "리안헤어 내포첫마을점",
+    "rank": 9,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:14"
+  },
+  {
     "keyword": "혜화미용실",
     "place_name": "리안헤어 대학로점",
     "rank": 7,
@@ -1400,6 +1420,16 @@
     "datetime": "2026-07-24 12:14"
   },
   {
+    "keyword": "혜화미용실",
+    "place_name": "리안헤어 대학로점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:14"
+  },
+  {
     "keyword": "동탄영천동미용실",
     "place_name": "리안헤어 동탄2신도시영천점",
     "rank": 6,
@@ -1438,6 +1468,16 @@
     "note": "",
     "date": "2026-07-24",
     "datetime": "2026-07-24 12:15"
+  },
+  {
+    "keyword": "동탄영천동미용실",
+    "place_name": "리안헤어 동탄2신도시영천점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:14"
   },
   {
     "keyword": "남가좌동미용실",
@@ -1510,6 +1550,16 @@
     "datetime": "2026-07-24 12:15"
   },
   {
+    "keyword": "남가좌동미용실",
+    "place_name": "리안헤어 명지대2호점",
+    "rank": 8,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:15"
+  },
+  {
     "keyword": "명지대미용실",
     "place_name": "리안헤어 명지대2호점",
     "rank": 4,
@@ -1580,6 +1630,16 @@
     "datetime": "2026-07-24 12:16"
   },
   {
+    "keyword": "명지대미용실",
+    "place_name": "리안헤어 명지대2호점",
+    "rank": 11,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:15"
+  },
+  {
     "keyword": "서대문구미용실",
     "place_name": "리안헤어 명지대2호점",
     "rank": 16,
@@ -1640,6 +1700,16 @@
     "datetime": "2026-07-24 12:16"
   },
   {
+    "keyword": "서대문구미용실",
+    "place_name": "리안헤어 명지대2호점",
+    "rank": 46,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:15"
+  },
+  {
     "keyword": "발산미용실",
     "place_name": "리안헤어 발산점",
     "rank": 108,
@@ -1678,6 +1748,16 @@
     "note": "",
     "date": "2026-07-24",
     "datetime": "2026-07-24 12:16"
+  },
+  {
+    "keyword": "발산미용실",
+    "place_name": "리안헤어 발산점",
+    "rank": 128,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:16"
   },
   {
     "keyword": "범어역미용실",
@@ -5570,6 +5650,16 @@
     "datetime": "2026-07-24 12:14"
   },
   {
+    "keyword": "대학로미용실",
+    "place_name": "리안헤어 대학로점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:14"
+  },
+  {
     "keyword": "혜화역미용실",
     "place_name": "리안헤어 대학로점",
     "rank": 6,
@@ -5628,6 +5718,16 @@
     "note": "",
     "date": "2026-07-24",
     "datetime": "2026-07-24 12:15"
+  },
+  {
+    "keyword": "혜화역미용실",
+    "place_name": "리안헤어 대학로점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:14"
   },
   {
     "keyword": "검단미용실",
@@ -18920,6 +19020,16 @@
     "datetime": "2026-07-24 12:15"
   },
   {
+    "keyword": "동탄미용실",
+    "place_name": "리안헤어 동탄2신도시영천점",
+    "rank": 57,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:15"
+  },
+  {
     "keyword": "동탄2미용실",
     "place_name": "리안헤어 동탄2신도시영천점",
     "rank": 28,
@@ -18978,6 +19088,16 @@
     "note": "",
     "date": "2026-07-24",
     "datetime": "2026-07-24 12:15"
+  },
+  {
+    "keyword": "동탄2미용실",
+    "place_name": "리안헤어 동탄2신도시영천점",
+    "rank": 36,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-25",
+    "datetime": "2026-07-25 12:15"
   },
   {
     "keyword": "장유미용실",
