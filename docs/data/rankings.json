@@ -9970,6 +9970,16 @@
     "datetime": "2026-07-28 12:38"
   },
   {
+    "keyword": "가양동미용실",
+    "place_name": "리안헤어 가양자이타워점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:47"
+  },
+  {
     "keyword": "가양역미용실",
     "place_name": "리안헤어 가양자이타워점",
     "rank": 3,
@@ -10068,6 +10078,16 @@
     "note": "",
     "date": "2026-07-28",
     "datetime": "2026-07-28 12:38"
+  },
+  {
+    "keyword": "가양역미용실",
+    "place_name": "리안헤어 가양자이타워점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:47"
   },
   {
     "keyword": "대학로미용실",
@@ -10610,6 +10630,16 @@
     "datetime": "2026-07-28 12:39"
   },
   {
+    "keyword": "청주미용실",
+    "place_name": "리안헤어 청주지웰시티점",
+    "rank": 118,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:48"
+  },
+  {
     "keyword": "복대동미용실",
     "place_name": "리안헤어 청주지웰시티점",
     "rank": 10,
@@ -10710,6 +10740,16 @@
     "datetime": "2026-07-28 12:39"
   },
   {
+    "keyword": "복대동미용실",
+    "place_name": "리안헤어 청주지웰시티점",
+    "rank": 12,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:48"
+  },
+  {
     "keyword": "지웰시티미용실",
     "place_name": "리안헤어 청주지웰시티점",
     "rank": 11,
@@ -10808,6 +10848,16 @@
     "note": "",
     "date": "2026-07-28",
     "datetime": "2026-07-28 12:39"
+  },
+  {
+    "keyword": "지웰시티미용실",
+    "place_name": "리안헤어 청주지웰시티점",
+    "rank": 11,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:48"
   },
   {
     "keyword": "은평구미용실",
@@ -10910,6 +10960,16 @@
     "datetime": "2026-07-28 12:40"
   },
   {
+    "keyword": "은평구미용실",
+    "place_name": "리안헤어 구파발역점",
+    "rank": 16,
+    "rank_with_ads": 10,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:48"
+  },
+  {
     "keyword": "진관동미용실",
     "place_name": "리안헤어 구파발역점",
     "rank": 8,
@@ -11010,6 +11070,16 @@
     "datetime": "2026-07-28 12:40"
   },
   {
+    "keyword": "진관동미용실",
+    "place_name": "리안헤어 구파발역점",
+    "rank": 7,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:48"
+  },
+  {
     "keyword": "구파발역미용실",
     "place_name": "리안헤어 구파발역점",
     "rank": 8,
@@ -11108,6 +11178,16 @@
     "note": "",
     "date": "2026-07-28",
     "datetime": "2026-07-28 12:40"
+  },
+  {
+    "keyword": "구파발역미용실",
+    "place_name": "리안헤어 구파발역점",
+    "rank": 7,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:49"
   },
   {
     "keyword": "마포구미용실",
@@ -11210,6 +11290,16 @@
     "datetime": "2026-07-28 12:40"
   },
   {
+    "keyword": "마포구미용실",
+    "place_name": "리안헤어 마포역점",
+    "rank": 93,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:49"
+  },
+  {
     "keyword": "마포미용실",
     "place_name": "리안헤어 마포역점",
     "rank": 154,
@@ -11308,6 +11398,16 @@
     "note": "",
     "date": "2026-07-28",
     "datetime": "2026-07-28 12:41"
+  },
+  {
+    "keyword": "마포미용실",
+    "place_name": "리안헤어 마포역점",
+    "rank": 93,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:49"
   },
   {
     "keyword": "마포역미용실",
