@@ -4340,6 +4340,16 @@
     "datetime": "2026-07-28 12:29"
   },
   {
+    "keyword": "부산영도미용실",
+    "place_name": "어썸헤어바이명작",
+    "rank": 9,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:39"
+  },
+  {
     "keyword": "부평구미용실",
     "place_name": "리안헤어 부평역점",
     "rank": 39,
@@ -4450,6 +4460,16 @@
     "datetime": "2026-07-28 12:30"
   },
   {
+    "keyword": "부평구미용실",
+    "place_name": "리안헤어 부평역점",
+    "rank": 78,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:40"
+  },
+  {
     "keyword": "부평미용실",
     "place_name": "리안헤어 부평역점",
     "rank": 39,
@@ -4558,6 +4578,16 @@
     "note": "",
     "date": "2026-07-28",
     "datetime": "2026-07-28 12:30"
+  },
+  {
+    "keyword": "부평미용실",
+    "place_name": "리안헤어 부평역점",
+    "rank": 78,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:40"
   },
   {
     "keyword": "부평역미용실",
@@ -4670,6 +4700,16 @@
     "datetime": "2026-07-28 12:31"
   },
   {
+    "keyword": "부평역미용실",
+    "place_name": "리안헤어 부평역점",
+    "rank": 39,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:40"
+  },
+  {
     "keyword": "서창동미용실",
     "place_name": "리안헤어 서창2지구점",
     "rank": 12,
@@ -4780,6 +4820,16 @@
     "datetime": "2026-07-28 12:31"
   },
   {
+    "keyword": "서창동미용실",
+    "place_name": "리안헤어 서창2지구점",
+    "rank": 14,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:41"
+  },
+  {
     "keyword": "서창2지구미용실",
     "place_name": "리안헤어 서창2지구점",
     "rank": 12,
@@ -4890,6 +4940,16 @@
     "datetime": "2026-07-28 12:31"
   },
   {
+    "keyword": "서창2지구미용실",
+    "place_name": "리안헤어 서창2지구점",
+    "rank": 14,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:41"
+  },
+  {
     "keyword": "신흥동미용실",
     "place_name": "리안헤어 신흥역점",
     "rank": 4,
@@ -5000,6 +5060,16 @@
     "datetime": "2026-07-28 12:31"
   },
   {
+    "keyword": "신흥동미용실",
+    "place_name": "리안헤어 신흥역점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:41"
+  },
+  {
     "keyword": "신흥역미용실",
     "place_name": "리안헤어 신흥역점",
     "rank": 3,
@@ -5108,6 +5178,16 @@
     "note": "",
     "date": "2026-07-28",
     "datetime": "2026-07-28 12:31"
+  },
+  {
+    "keyword": "신흥역미용실",
+    "place_name": "리안헤어 신흥역점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:41"
   },
   {
     "keyword": "간석동미용실",
@@ -24550,6 +24630,16 @@
     "datetime": "2026-07-28 12:29"
   },
   {
+    "keyword": "영도미용실",
+    "place_name": "어썸헤어바이명작",
+    "rank": 9,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:39"
+  },
+  {
     "keyword": "신선동미용실",
     "place_name": "어썸헤어바이명작",
     "rank": 1,
@@ -24648,6 +24738,16 @@
     "note": "",
     "date": "2026-07-28",
     "datetime": "2026-07-28 12:29"
+  },
+  {
+    "keyword": "신선동미용실",
+    "place_name": "어썸헤어바이명작",
+    "rank": 1,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:39"
   },
   {
     "keyword": "서면미용실",
