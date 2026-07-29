@@ -11510,6 +11510,16 @@
     "datetime": "2026-07-28 12:41"
   },
   {
+    "keyword": "마포역미용실",
+    "place_name": "리안헤어 마포역점",
+    "rank": 4,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:50"
+  },
+  {
     "keyword": "청주미용실",
     "place_name": "리안헤어 모충동 서원대점",
     "rank": 228,
@@ -11608,6 +11618,16 @@
     "note": "",
     "date": "2026-07-28",
     "datetime": "2026-07-28 12:42"
+  },
+  {
+    "keyword": "청주미용실",
+    "place_name": "리안헤어 모충동 서원대점",
+    "rank": 231,
+    "rank_with_ads": null,
+    "page": 4,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:51"
   },
   {
     "keyword": "모충동미용실",
@@ -11710,6 +11730,16 @@
     "datetime": "2026-07-28 12:42"
   },
   {
+    "keyword": "모충동미용실",
+    "place_name": "리안헤어 모충동 서원대점",
+    "rank": 4,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:51"
+  },
+  {
     "keyword": "서원대미용실",
     "place_name": "리안헤어 모충동 서원대점",
     "rank": 20,
@@ -11810,6 +11840,16 @@
     "datetime": "2026-07-28 12:42"
   },
   {
+    "keyword": "서원대미용실",
+    "place_name": "리안헤어 모충동 서원대점",
+    "rank": 18,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:51"
+  },
+  {
     "keyword": "검단미용실",
     "place_name": "리안헤어 마전역점",
     "rank": 29,
@@ -11908,6 +11948,16 @@
     "note": "",
     "date": "2026-07-28",
     "datetime": "2026-07-28 12:43"
+  },
+  {
+    "keyword": "검단미용실",
+    "place_name": "리안헤어 마전역점",
+    "rank": 54,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:52"
   },
   {
     "keyword": "마전동미용실",
