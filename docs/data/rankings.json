@@ -5300,6 +5300,16 @@
     "datetime": "2026-07-28 12:31"
   },
   {
+    "keyword": "간석동미용실",
+    "place_name": "리안헤어 간석점",
+    "rank": 13,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:41"
+  },
+  {
     "keyword": "구월동미용실",
     "place_name": "리안헤어 구월동점",
     "rank": 12,
@@ -5408,6 +5418,16 @@
     "note": "",
     "date": "2026-07-28",
     "datetime": "2026-07-28 12:32"
+  },
+  {
+    "keyword": "구월동미용실",
+    "place_name": "리안헤어 구월동점",
+    "rank": 21,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:41"
   },
   {
     "keyword": "모래내시장역미용실",
@@ -5530,6 +5550,16 @@
     "datetime": "2026-07-28 12:32"
   },
   {
+    "keyword": "모래내시장역미용실",
+    "place_name": "리안헤어 구월동점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:41"
+  },
+  {
     "keyword": "구미미용실",
     "place_name": "리안헤어 구미송정형곡점",
     "rank": 51,
@@ -5628,6 +5658,16 @@
     "note": "",
     "date": "2026-07-28",
     "datetime": "2026-07-28 12:32"
+  },
+  {
+    "keyword": "구미미용실",
+    "place_name": "리안헤어 구미송정형곡점",
+    "rank": 47,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:42"
   },
   {
     "keyword": "송정동미용실",
@@ -5730,6 +5770,16 @@
     "datetime": "2026-07-28 12:32"
   },
   {
+    "keyword": "송정동미용실",
+    "place_name": "리안헤어 구미송정형곡점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:42"
+  },
+  {
     "keyword": "형곡동미용실",
     "place_name": "리안헤어 구미송정형곡점",
     "rank": 166,
@@ -5828,6 +5878,16 @@
     "note": "",
     "date": "2026-07-28",
     "datetime": "2026-07-28 12:33"
+  },
+  {
+    "keyword": "형곡동미용실",
+    "place_name": "리안헤어 구미송정형곡점",
+    "rank": 163,
+    "rank_with_ads": null,
+    "page": 3,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:42"
   },
   {
     "keyword": "부천미용실",
@@ -5930,6 +5990,16 @@
     "datetime": "2026-07-28 12:33"
   },
   {
+    "keyword": "부천미용실",
+    "place_name": "리안헤어 부천역점",
+    "rank": 87,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:43"
+  },
+  {
     "keyword": "심곡동미용실",
     "place_name": "리안헤어 부천역점",
     "rank": 14,
@@ -6030,6 +6100,16 @@
     "datetime": "2026-07-28 12:33"
   },
   {
+    "keyword": "심곡동미용실",
+    "place_name": "리안헤어 부천역점",
+    "rank": 10,
+    "rank_with_ads": 3,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:43"
+  },
+  {
     "keyword": "부천역미용실",
     "place_name": "리안헤어 부천역점",
     "rank": 15,
@@ -6128,6 +6208,16 @@
     "note": "",
     "date": "2026-07-28",
     "datetime": "2026-07-28 12:33"
+  },
+  {
+    "keyword": "부천역미용실",
+    "place_name": "리안헤어 부천역점",
+    "rank": 11,
+    "rank_with_ads": 17,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-29",
+    "datetime": "2026-07-29 12:43"
   },
   {
     "keyword": "용현동미용실",
