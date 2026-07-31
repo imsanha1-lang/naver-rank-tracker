@@ -27970,6 +27970,16 @@
     "datetime": "2026-07-30 13:01"
   },
   {
+    "keyword": "금천구미용실",
+    "place_name": "리안헤어 금천점",
+    "rank": 110,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 16:29"
+  },
+  {
     "keyword": "독산동미용실",
     "place_name": "리안헤어 금천점",
     "rank": 50,
@@ -28090,6 +28100,16 @@
     "datetime": "2026-07-30 13:01"
   },
   {
+    "keyword": "독산동미용실",
+    "place_name": "리안헤어 금천점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 16:30"
+  },
+  {
     "keyword": "독산미용실",
     "place_name": "리안헤어 금천점",
     "rank": 50,
@@ -28208,6 +28228,16 @@
     "note": "",
     "date": "2026-07-30",
     "datetime": "2026-07-30 13:02"
+  },
+  {
+    "keyword": "독산미용실",
+    "place_name": "리안헤어 금천점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 16:31"
   },
   {
     "keyword": "춘천미용실",
