@@ -4960,6 +4960,16 @@
     "datetime": "2026-07-31 13:43"
   },
   {
+    "keyword": "인하대미용실",
+    "place_name": "리안헤어 인하대역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 20:46"
+  },
+  {
     "keyword": "동탄카림미용실",
     "place_name": "리안헤어 제2동탄시범점",
     "rank": 7,
@@ -8078,6 +8088,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-07-31",
     "datetime": "2026-07-31 13:42"
+  },
+  {
+    "keyword": "숭의역미용실",
+    "place_name": "리안헤어 인천미추홀점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 20:45"
   },
   {
     "keyword": "광명미용실",
