@@ -220,6 +220,16 @@
     "datetime": "2026-07-30 12:03"
   },
   {
+    "keyword": "천호미용실",
+    "place_name": "H STYLE헤어살롱 강동역점",
+    "rank": 261,
+    "rank_with_ads": null,
+    "page": 4,
+    "note": "",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 12:07"
+  },
+  {
     "keyword": "서초미용실",
     "place_name": "리안헤어 강남역점",
     "rank": 38,
@@ -318,6 +328,16 @@
     "note": "",
     "date": "2026-07-30",
     "datetime": "2026-07-30 12:04"
+  },
+  {
+    "keyword": "서초미용실",
+    "place_name": "리안헤어 강남역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 12:08"
   },
   {
     "keyword": "인천검단미용실",
@@ -16490,6 +16510,16 @@
     "datetime": "2026-07-30 12:03"
   },
   {
+    "keyword": "천호동미용실",
+    "place_name": "H STYLE헤어살롱 강동역점",
+    "rank": 61,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 12:07"
+  },
+  {
     "keyword": "강동역미용실",
     "place_name": "H STYLE헤어살롱 강동역점",
     "rank": 34,
@@ -16608,6 +16638,16 @@
     "note": "",
     "date": "2026-07-30",
     "datetime": "2026-07-30 12:04"
+  },
+  {
+    "keyword": "강동역미용실",
+    "place_name": "H STYLE헤어살롱 강동역점",
+    "rank": 25,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 12:07"
   },
   {
     "keyword": "천호미용실",
