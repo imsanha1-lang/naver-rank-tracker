@@ -5550,6 +5550,16 @@
     "datetime": "2026-07-31 13:56"
   },
   {
+    "keyword": "부산서면미용실",
+    "place_name": "어썸헤어 서면점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 20:59"
+  },
+  {
     "keyword": "부산영도미용실",
     "place_name": "어썸헤어바이명작",
     "rank": 8,
@@ -18868,6 +18878,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-07-31",
     "datetime": "2026-07-31 13:55"
+  },
+  {
+    "keyword": "천호역미용실",
+    "place_name": "리안헤어 천호역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 20:58"
   },
   {
     "keyword": "광주서구미용실",
