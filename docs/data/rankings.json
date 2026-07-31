@@ -4820,6 +4820,16 @@
     "datetime": "2026-07-30 12:27"
   },
   {
+    "keyword": "주안미용실",
+    "place_name": "리안헤어 주안시민공원역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 13:49"
+  },
+  {
     "keyword": "천호동미용실",
     "place_name": "리안헤어 천호역점",
     "rank": 271,
@@ -41398,6 +41408,16 @@
     "note": "",
     "date": "2026-07-30",
     "datetime": "2026-07-30 12:27"
+  },
+  {
+    "keyword": "2동탄미용실",
+    "place_name": "리안헤어 제2동탄시범점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 13:48"
   },
   {
     "keyword": "안양미용실",
