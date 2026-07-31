@@ -23290,6 +23290,16 @@
     "datetime": "2026-07-31 22:40"
   },
   {
+    "keyword": "우장산미용실",
+    "place_name": "리안헤어 우장산역점",
+    "rank": 22,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 05:35"
+  },
+  {
     "keyword": "우장산역미용실",
     "place_name": "리안헤어 우장산역점",
     "rank": 4,
@@ -23560,6 +23570,16 @@
     "datetime": "2026-07-31 22:42"
   },
   {
+    "keyword": "수원미용실",
+    "place_name": "리안헤어 오목천역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 05:36"
+  },
+  {
     "keyword": "오목천동미용실",
     "place_name": "리안헤어 오목천역점",
     "rank": 1,
@@ -23698,6 +23718,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-07-31",
     "datetime": "2026-07-31 22:43"
+  },
+  {
+    "keyword": "오목천동미용실",
+    "place_name": "리안헤어 오목천역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 05:37"
   },
   {
     "keyword": "오목천역미용실",
