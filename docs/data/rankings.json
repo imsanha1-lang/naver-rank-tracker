@@ -46390,6 +46390,16 @@
     "datetime": "2026-07-30 13:22"
   },
   {
+    "keyword": "구로미용실",
+    "place_name": "보그헤어 신도림역점",
+    "rank": 14,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 18:26"
+  },
+  {
     "keyword": "신도림미용실",
     "place_name": "보그헤어 신도림역점",
     "rank": 5,
@@ -46508,6 +46518,16 @@
     "note": "",
     "date": "2026-07-30",
     "datetime": "2026-07-30 13:22"
+  },
+  {
+    "keyword": "신도림미용실",
+    "place_name": "보그헤어 신도림역점",
+    "rank": 8,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 18:26"
   },
   {
     "keyword": "신도림역미용실",
@@ -46630,6 +46650,16 @@
     "datetime": "2026-07-30 13:22"
   },
   {
+    "keyword": "신도림역미용실",
+    "place_name": "보그헤어 신도림역점",
+    "rank": 8,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 18:26"
+  },
+  {
     "keyword": "수원미용실",
     "place_name": "리안헤어 수원곡반정점",
     "rank": 270,
@@ -46750,6 +46780,16 @@
     "datetime": "2026-07-30 13:25"
   },
   {
+    "keyword": "수원미용실",
+    "place_name": "리안헤어 수원곡반정점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 18:28"
+  },
+  {
     "keyword": "권선구미용실",
     "place_name": "리안헤어 수원곡반정점",
     "rank": 43,
@@ -46868,6 +46908,16 @@
     "note": "",
     "date": "2026-07-30",
     "datetime": "2026-07-30 13:25"
+  },
+  {
+    "keyword": "권선구미용실",
+    "place_name": "리안헤어 수원곡반정점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 18:29"
   },
   {
     "keyword": "곡반정동미용실",
