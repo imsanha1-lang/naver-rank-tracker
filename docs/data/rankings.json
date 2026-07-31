@@ -52010,6 +52010,16 @@
     "datetime": "2026-07-30 13:32"
   },
   {
+    "keyword": "신불당미용실",
+    "place_name": "리안헤어 신불당점",
+    "rank": 17,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 19:02"
+  },
+  {
     "keyword": "익산미용실",
     "place_name": "리안헤어 익산모현점",
     "rank": null,
@@ -52130,6 +52140,16 @@
     "datetime": "2026-07-30 13:32"
   },
   {
+    "keyword": "익산미용실",
+    "place_name": "리안헤어 익산모현점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 19:03"
+  },
+  {
     "keyword": "익산모현동미용실",
     "place_name": "리안헤어 익산모현점",
     "rank": 8,
@@ -52248,6 +52268,16 @@
     "note": "",
     "date": "2026-07-30",
     "datetime": "2026-07-30 13:32"
+  },
+  {
+    "keyword": "익산모현동미용실",
+    "place_name": "리안헤어 익산모현점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-07-31",
+    "datetime": "2026-07-31 19:04"
   },
   {
     "keyword": "모현동미용실",
