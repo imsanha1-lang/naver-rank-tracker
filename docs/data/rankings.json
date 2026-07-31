@@ -49760,6 +49760,16 @@
     "datetime": "2026-08-01 01:13"
   },
   {
+    "keyword": "소하1동미용실",
+    "place_name": "리안헤어 소하신촌점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 08:05"
+  },
+  {
     "keyword": "금천구미용실",
     "place_name": "리안헤어 시흥사거리점",
     "rank": 36,
@@ -50818,6 +50828,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-01",
     "datetime": "2026-08-01 01:14"
+  },
+  {
+    "keyword": "오산미용실",
+    "place_name": "리안헤어 오산시청점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 08:07"
   },
   {
     "keyword": "오산원동미용실",
