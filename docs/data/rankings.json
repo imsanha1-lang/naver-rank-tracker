@@ -2360,6 +2360,16 @@
     "datetime": "2026-07-31 19:52"
   },
   {
+    "keyword": "강남미용실",
+    "place_name": "리안헤어 강남양재역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 02:47"
+  },
+  {
     "keyword": "고덕미용실",
     "place_name": "리안헤어 강일2지구점",
     "rank": 89,
@@ -9998,6 +10008,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-07-31",
     "datetime": "2026-07-31 19:53"
+  },
+  {
+    "keyword": "도곡동미용실",
+    "place_name": "리안헤어 강남양재역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 02:48"
   },
   {
     "keyword": "양재역미용실",
