@@ -6660,6 +6660,16 @@
     "datetime": "2026-08-01 04:00"
   },
   {
+    "keyword": "부평구미용실",
+    "place_name": "리안헤어 부평역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 10:53"
+  },
+  {
     "keyword": "부평미용실",
     "place_name": "리안헤어 부평역점",
     "rank": 39,
@@ -36438,6 +36448,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-01",
     "datetime": "2026-08-01 03:59"
+  },
+  {
+    "keyword": "신선동미용실",
+    "place_name": "어썸헤어바이명작",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 10:52"
   },
   {
     "keyword": "서면미용실",
