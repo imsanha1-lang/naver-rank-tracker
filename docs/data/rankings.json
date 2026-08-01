@@ -4560,6 +4560,16 @@
     "datetime": "2026-08-01 03:17"
   },
   {
+    "keyword": "범어역미용실",
+    "place_name": "리안헤어 범어점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 10:09"
+  },
+  {
     "keyword": "부평시장미용실",
     "place_name": "리안헤어 부평부흥로점",
     "rank": 18,
@@ -4688,6 +4698,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-01",
     "datetime": "2026-08-01 03:19"
+  },
+  {
+    "keyword": "부평시장미용실",
+    "place_name": "리안헤어 부평부흥로점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 10:11"
   },
   {
     "keyword": "동작구미용실",
@@ -10688,6 +10708,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-01",
     "datetime": "2026-08-01 03:18"
+  },
+  {
+    "keyword": "범어동미용실",
+    "place_name": "리안헤어 범어점",
+    "rank": 35,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 10:10"
   },
   {
     "keyword": "도곡동미용실",
