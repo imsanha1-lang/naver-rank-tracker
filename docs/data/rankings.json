@@ -14750,6 +14750,16 @@
     "datetime": "2026-08-01 04:44"
   },
   {
+    "keyword": "가양역미용실",
+    "place_name": "리안헤어 가양자이타워점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 11:37"
+  },
+  {
     "keyword": "대학로미용실",
     "place_name": "리안헤어 대학로점",
     "rank": 6,
@@ -15538,6 +15548,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-01",
     "datetime": "2026-08-01 04:45"
+  },
+  {
+    "keyword": "청주미용실",
+    "place_name": "리안헤어 청주지웰시티점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 11:38"
   },
   {
     "keyword": "복대동미용실",
