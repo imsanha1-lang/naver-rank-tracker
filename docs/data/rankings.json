@@ -51170,6 +51170,16 @@
     "datetime": "2026-08-01 07:57"
   },
   {
+    "keyword": "동탄장지동미용실",
+    "place_name": "리안헤어 동탄장지점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 14:47"
+  },
+  {
     "keyword": "홍성미용실",
     "place_name": "리안헤어 내포중앙점",
     "rank": 3,
@@ -51320,6 +51330,16 @@
     "datetime": "2026-08-01 07:58"
   },
   {
+    "keyword": "홍성미용실",
+    "place_name": "리안헤어 내포중앙점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 14:48"
+  },
+  {
     "keyword": "내포신도시미용실",
     "place_name": "리안헤어 내포중앙점",
     "rank": 3,
@@ -51468,6 +51488,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-01",
     "datetime": "2026-08-01 07:59"
+  },
+  {
+    "keyword": "내포신도시미용실",
+    "place_name": "리안헤어 내포중앙점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 14:49"
   },
   {
     "keyword": "내포미용실",
