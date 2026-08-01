@@ -61420,6 +61420,16 @@
     "datetime": "2026-08-01 15:14"
   },
   {
+    "keyword": "호계동미용실",
+    "place_name": "리안헤어 안양호계점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 22:00"
+  },
+  {
     "keyword": "낙성대미용실",
     "place_name": "리안헤어 낙성대점",
     "rank": 32,
@@ -62258,6 +62268,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-01",
     "datetime": "2026-08-01 15:15"
+  },
+  {
+    "keyword": "강동구미용실",
+    "place_name": "리안헤어 상일동역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 22:01"
   },
   {
     "keyword": "상일동미용실",
