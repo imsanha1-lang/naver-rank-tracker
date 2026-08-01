@@ -1310,6 +1310,16 @@
     "datetime": "2026-08-01 09:21"
   },
   {
+    "keyword": "수서미용실",
+    "place_name": "리안헤어 수서역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 16:11"
+  },
+  {
     "keyword": "장안구미용실",
     "place_name": "리안헤어 수원정자sk뷰점",
     "rank": 38,
@@ -26198,6 +26208,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-01",
     "datetime": "2026-08-01 09:20"
+  },
+  {
+    "keyword": "신정동미용실",
+    "place_name": "리안헤어 목동신트리공원점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 16:10"
   },
   {
     "keyword": "광주북구미용실",
