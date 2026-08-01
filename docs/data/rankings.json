@@ -22630,6 +22630,16 @@
     "datetime": "2026-08-01 12:15"
   },
   {
+    "keyword": "분당야탑미용실",
+    "place_name": "리안헤어 야탑점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 19:03"
+  },
+  {
     "keyword": "야탑역미용실",
     "place_name": "리안헤어 야탑점",
     "rank": 8,
@@ -22788,6 +22798,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-01",
     "datetime": "2026-08-01 12:16"
+  },
+  {
+    "keyword": "야탑역미용실",
+    "place_name": "리안헤어 야탑점",
+    "rank": 9,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 19:03"
   },
   {
     "keyword": "기흥구미용실",
@@ -23888,6 +23908,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-01",
     "datetime": "2026-08-01 12:17"
+  },
+  {
+    "keyword": "광주서구미용실",
+    "place_name": "리안헤어 상무점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 19:04"
   },
   {
     "keyword": "상무지구미용실",
