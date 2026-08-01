@@ -7240,6 +7240,16 @@
     "datetime": "2026-08-02 00:16"
   },
   {
+    "keyword": "천호동미용실",
+    "place_name": "리안헤어 천호역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-02",
+    "datetime": "2026-08-02 06:59"
+  },
+  {
     "keyword": "범어역미용실",
     "place_name": "비욘드헤어",
     "rank": 25,
@@ -22808,6 +22818,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-02",
     "datetime": "2026-08-02 00:15"
+  },
+  {
+    "keyword": "시민공원역미용실",
+    "place_name": "리안헤어 주안시민공원역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-02",
+    "datetime": "2026-08-02 06:58"
   },
   {
     "keyword": "부천소사미용실",
