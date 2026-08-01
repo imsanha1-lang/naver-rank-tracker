@@ -2980,6 +2980,16 @@
     "datetime": "2026-08-01 09:46"
   },
   {
+    "keyword": "관양동미용실",
+    "place_name": "리안헤어 관양동편마을점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 16:36"
+  },
+  {
     "keyword": "광명사거리미용실",
     "place_name": "리안헤어 광명사거리역점",
     "rank": 1,
@@ -54108,6 +54118,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-01",
     "datetime": "2026-08-01 09:47"
+  },
+  {
+    "keyword": "안양미용실",
+    "place_name": "리안헤어 관양동편마을점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-01",
+    "datetime": "2026-08-01 16:37"
   },
   {
     "keyword": "동편마을미용실",
