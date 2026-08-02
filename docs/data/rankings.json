@@ -69500,6 +69500,16 @@
     "datetime": "2026-08-03 00:20"
   },
   {
+    "keyword": "내포신도시미용실",
+    "place_name": "리안헤어 내포중앙점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 06:55"
+  },
+  {
     "keyword": "내포미용실",
     "place_name": "리안헤어 내포중앙점",
     "rank": 3,
@@ -70230,6 +70240,16 @@
     "datetime": "2026-08-03 00:21"
   },
   {
+    "keyword": "수원정자동미용실",
+    "place_name": "리안헤어 수원정자시장점",
+    "rank": 38,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 06:56"
+  },
+  {
     "keyword": "수원정자시장미용실",
     "place_name": "리안헤어 수원정자시장점",
     "rank": 2,
@@ -70438,6 +70458,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-03",
     "datetime": "2026-08-03 00:22"
+  },
+  {
+    "keyword": "수원정자시장미용실",
+    "place_name": "리안헤어 수원정자시장점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 06:57"
   },
   {
     "keyword": "정자시장미용실",
