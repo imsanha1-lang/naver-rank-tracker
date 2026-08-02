@@ -2290,6 +2290,16 @@
     "datetime": "2026-08-02 19:09"
   },
   {
+    "keyword": "장안미용실",
+    "place_name": "리안헤어 장안점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 01:46"
+  },
+  {
     "keyword": "예산미용실",
     "place_name": "리안헤어 충남도청점",
     "rank": 1,
@@ -68938,6 +68948,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-02",
     "datetime": "2026-08-02 19:08"
+  },
+  {
+    "keyword": "시흥동미용실",
+    "place_name": "리안헤어 시흥사거리점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 01:45"
   },
   {
     "keyword": "동탄미용실",
