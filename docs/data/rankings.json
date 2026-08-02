@@ -3500,6 +3500,16 @@
     "datetime": "2026-08-02 12:41"
   },
   {
+    "keyword": "고덕미용실",
+    "place_name": "리안헤어 강일2지구점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-02",
+    "datetime": "2026-08-02 19:21"
+  },
+  {
     "keyword": "관양동미용실",
     "place_name": "리안헤어 관양동편마을점",
     "rank": 21,
@@ -45988,6 +45998,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-02",
     "datetime": "2026-08-02 12:42"
+  },
+  {
+    "keyword": "강일미용실",
+    "place_name": "리안헤어 강일2지구점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-02",
+    "datetime": "2026-08-02 19:22"
   },
   {
     "keyword": "강일동미용실",
