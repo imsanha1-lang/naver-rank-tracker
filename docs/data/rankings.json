@@ -7090,6 +7090,16 @@
     "datetime": "2026-08-02 13:27"
   },
   {
+    "keyword": "이수미용실",
+    "place_name": "리안헤어 이수이마트점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-02",
+    "datetime": "2026-08-02 20:04"
+  },
+  {
     "keyword": "인하대미용실",
     "place_name": "리안헤어 인천미추홀점",
     "rank": 287,
@@ -13348,6 +13358,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-02",
     "datetime": "2026-08-02 13:28"
+  },
+  {
+    "keyword": "이수역미용실",
+    "place_name": "리안헤어 이수이마트점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-02",
+    "datetime": "2026-08-02 20:05"
   },
   {
     "keyword": "덕양구미용실",
