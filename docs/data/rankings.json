@@ -83700,6 +83700,16 @@
     "datetime": "2026-08-03 01:04"
   },
   {
+    "keyword": "탕정미용실",
+    "place_name": "리안헤어 아산탕정역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 07:40"
+  },
+  {
     "keyword": "탕정역미용실",
     "place_name": "리안헤어 아산탕정역점",
     "rank": 8,
@@ -83908,6 +83918,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-03",
     "datetime": "2026-08-03 01:05"
+  },
+  {
+    "keyword": "탕정역미용실",
+    "place_name": "리안헤어 아산탕정역점",
+    "rank": 4,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 07:40"
   },
   {
     "keyword": "천안아산미용실",
@@ -84128,6 +84148,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-03",
     "datetime": "2026-08-03 01:06"
+  },
+  {
+    "keyword": "천안아산미용실",
+    "place_name": "리안헤어 이마트트레이더스 천안아산점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 07:41"
   },
   {
     "keyword": "아산미용실",
