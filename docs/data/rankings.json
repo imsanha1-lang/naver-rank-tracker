@@ -31750,6 +31750,16 @@
     "datetime": "2026-08-02 21:56"
   },
   {
+    "keyword": "광교에듀타운미용실",
+    "place_name": "리안헤어 광교에듀타운점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 04:34"
+  },
+  {
     "keyword": "과천미용실",
     "place_name": "리안헤어 과천지식정보타운역점",
     "rank": 10,
@@ -31960,6 +31970,16 @@
     "datetime": "2026-08-02 21:57"
   },
   {
+    "keyword": "과천미용실",
+    "place_name": "리안헤어 과천지식정보타운역점",
+    "rank": 13,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 04:34"
+  },
+  {
     "keyword": "갈현동미용실",
     "place_name": "리안헤어 과천지식정보타운역점",
     "rank": 3,
@@ -32168,6 +32188,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-02",
     "datetime": "2026-08-02 21:58"
+  },
+  {
+    "keyword": "갈현동미용실",
+    "place_name": "리안헤어 과천지식정보타운역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 04:35"
   },
   {
     "keyword": "지정타미용실",
