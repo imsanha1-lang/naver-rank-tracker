@@ -6710,6 +6710,16 @@
     "datetime": "2026-08-02 13:20"
   },
   {
+    "keyword": "인하대미용실",
+    "place_name": "리안헤어 용현점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-02",
+    "datetime": "2026-08-02 19:58"
+  },
+  {
     "keyword": "울산중구미용실",
     "place_name": "리안헤어 울산성남점",
     "rank": 60,
@@ -60808,6 +60818,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-02",
     "datetime": "2026-08-02 13:21"
+  },
+  {
+    "keyword": "미추홀구미용실",
+    "place_name": "리안헤어 용현점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-02",
+    "datetime": "2026-08-02 19:59"
   },
   {
     "keyword": "용현동미용실",
