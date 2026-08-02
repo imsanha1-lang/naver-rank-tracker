@@ -2270,6 +2270,16 @@
     "datetime": "2026-08-02 05:52"
   },
   {
+    "keyword": "예산미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-02",
+    "datetime": "2026-08-02 12:32"
+  },
+  {
     "keyword": "정자미용실",
     "place_name": "에이치스타일 정자점",
     "rank": 18,
@@ -61298,6 +61308,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-02",
     "datetime": "2026-08-02 05:53"
+  },
+  {
+    "keyword": "충남도청미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-02",
+    "datetime": "2026-08-02 12:33"
   },
   {
     "keyword": "수원정자동미용실",
