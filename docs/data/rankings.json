@@ -61180,6 +61180,16 @@
     "datetime": "2026-08-02 23:50"
   },
   {
+    "keyword": "감일미용실",
+    "place_name": "리안헤어 감일중앙로점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 06:27"
+  },
+  {
     "keyword": "감일동미용실",
     "place_name": "리안헤어 감일중앙로점",
     "rank": 76,
@@ -61578,6 +61588,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-02",
     "datetime": "2026-08-02 23:53"
+  },
+  {
+    "keyword": "노량진역미용실",
+    "place_name": "리안헤어 노량진점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 06:28"
   },
   {
     "keyword": "동대문구미용실",
