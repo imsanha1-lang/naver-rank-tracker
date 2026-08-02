@@ -5450,6 +5450,16 @@
     "datetime": "2026-08-02 19:42"
   },
   {
+    "keyword": "남가좌동미용실",
+    "place_name": "리안헤어 명지대2호점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 02:18"
+  },
+  {
     "keyword": "명지대미용실",
     "place_name": "리안헤어 명지대2호점",
     "rank": 4,
@@ -64138,6 +64148,16 @@
     "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
     "date": "2026-08-02",
     "datetime": "2026-08-02 19:41"
+  },
+  {
+    "keyword": "동탄2미용실",
+    "place_name": "리안헤어 동탄2신도시영천점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: 검색 결과 목록이 나타나지 않았습니다.\n",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 02:17"
   },
   {
     "keyword": "장유미용실",
