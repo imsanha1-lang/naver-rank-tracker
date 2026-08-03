@@ -2920,6 +2920,16 @@
     "datetime": "2026-08-03 12:12"
   },
   {
+    "keyword": "정자미용실",
+    "place_name": "에이치스타일 정자점",
+    "rank": 13,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 16:05"
+  },
+  {
     "keyword": "노량진미용실",
     "place_name": "H STYLE 헤어살롱 노량진점",
     "rank": 1,
@@ -3148,6 +3158,16 @@
     "note": "1페이지·0건 검색 · 미발견",
     "date": "2026-08-03",
     "datetime": "2026-08-03 12:13"
+  },
+  {
+    "keyword": "노량진미용실",
+    "place_name": "H STYLE 헤어살롱 노량진점",
+    "rank": 3,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 16:05"
   },
   {
     "keyword": "노량진역미용실",
@@ -3380,6 +3400,16 @@
     "datetime": "2026-08-03 12:13"
   },
   {
+    "keyword": "노량진역미용실",
+    "place_name": "H STYLE 헤어살롱 노량진점",
+    "rank": 3,
+    "rank_with_ads": 9,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 16:06"
+  },
+  {
     "keyword": "동작구미용실",
     "place_name": "H STYLE 헤어살롱 노량진점",
     "rank": 11,
@@ -3610,6 +3640,16 @@
     "datetime": "2026-08-03 12:14"
   },
   {
+    "keyword": "동작구미용실",
+    "place_name": "H STYLE 헤어살롱 노량진점",
+    "rank": 17,
+    "rank_with_ads": 10,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 16:06"
+  },
+  {
     "keyword": "강남미용실",
     "place_name": "리안헤어 강남양재역점",
     "rank": null,
@@ -3818,6 +3858,16 @@
     "note": "1페이지·0건 검색 · 미발견",
     "date": "2026-08-03",
     "datetime": "2026-08-03 12:14"
+  },
+  {
+    "keyword": "강남미용실",
+    "place_name": "리안헤어 강남양재역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "5페이지·317건 검색 · 미발견 유사매장: 리안헤어 강남일원점",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 16:09"
   },
   {
     "keyword": "고덕미용실",
@@ -73680,6 +73730,16 @@
     "datetime": "2026-08-03 12:12"
   },
   {
+    "keyword": "내포미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 16:04"
+  },
+  {
     "keyword": "충남도청미용실",
     "place_name": "리안헤어 충남도청점",
     "rank": 1,
@@ -73908,6 +73968,16 @@
     "note": "1페이지·0건 검색 · 미발견",
     "date": "2026-08-03",
     "datetime": "2026-08-03 12:12"
+  },
+  {
+    "keyword": "충남도청미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 16:04"
   },
   {
     "keyword": "수원정자동미용실",
@@ -81580,6 +81650,16 @@
     "datetime": "2026-08-03 12:13"
   },
   {
+    "keyword": "장안구미용실",
+    "place_name": "에이치스타일 정자점",
+    "rank": 44,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 16:05"
+  },
+  {
     "keyword": "수원정자동미용실",
     "place_name": "에이치스타일 정자점",
     "rank": 19,
@@ -81718,6 +81798,16 @@
     "note": "1페이지·0건 검색 · 미발견",
     "date": "2026-08-03",
     "datetime": "2026-08-03 12:13"
+  },
+  {
+    "keyword": "수원정자동미용실",
+    "place_name": "에이치스타일 정자점",
+    "rank": 13,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 16:05"
   },
   {
     "keyword": "안양미용실",
