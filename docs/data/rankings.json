@@ -66270,6 +66270,16 @@
     "datetime": "2026-08-03 02:37"
   },
   {
+    "keyword": "용현동미용실",
+    "place_name": "리안헤어 용현점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: 'NoneType' object is not iterable",
+    "date": "2026-08-03",
+    "datetime": "2026-08-03 09:56"
+  },
+  {
     "keyword": "동탄미용실",
     "place_name": "리안헤어 동탄2신도시영천점",
     "rank": 41,
