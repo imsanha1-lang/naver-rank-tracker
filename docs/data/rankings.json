@@ -28530,6 +28530,16 @@
     "datetime": "2026-08-04 12:59"
   },
   {
+    "keyword": "모충동미용실",
+    "place_name": "리안헤어 모충동 서원대점",
+    "rank": 4,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 14:59"
+  },
+  {
     "keyword": "서원대미용실",
     "place_name": "리안헤어 모충동 서원대점",
     "rank": 20,
@@ -28778,6 +28788,16 @@
     "note": "",
     "date": "2026-08-04",
     "datetime": "2026-08-04 12:59"
+  },
+  {
+    "keyword": "서원대미용실",
+    "place_name": "리안헤어 모충동 서원대점",
+    "rank": 16,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 14:59"
   },
   {
     "keyword": "검단미용실",
@@ -29030,6 +29050,16 @@
     "datetime": "2026-08-04 13:00"
   },
   {
+    "keyword": "검단미용실",
+    "place_name": "리안헤어 마전역점",
+    "rank": 60,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 15:00"
+  },
+  {
     "keyword": "마전동미용실",
     "place_name": "리안헤어 마전역점",
     "rank": 6,
@@ -29278,6 +29308,16 @@
     "note": "",
     "date": "2026-08-04",
     "datetime": "2026-08-04 13:00"
+  },
+  {
+    "keyword": "마전동미용실",
+    "place_name": "리안헤어 마전역점",
+    "rank": 15,
+    "rank_with_ads": 9,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 15:00"
   },
   {
     "keyword": "마전역미용실",
@@ -29530,6 +29570,16 @@
     "datetime": "2026-08-04 13:00"
   },
   {
+    "keyword": "마전역미용실",
+    "place_name": "리안헤어 마전역점",
+    "rank": 2,
+    "rank_with_ads": 3,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 15:00"
+  },
+  {
     "keyword": "부천소사미용실",
     "place_name": "리안헤어 소사역점",
     "rank": 37,
@@ -29778,6 +29828,16 @@
     "note": "",
     "date": "2026-08-04",
     "datetime": "2026-08-04 13:01"
+  },
+  {
+    "keyword": "부천소사미용실",
+    "place_name": "리안헤어 소사역점",
+    "rank": 37,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 15:00"
   },
   {
     "keyword": "소사본동미용실",
@@ -30030,6 +30090,16 @@
     "datetime": "2026-08-04 13:01"
   },
   {
+    "keyword": "소사본동미용실",
+    "place_name": "리안헤어 소사역점",
+    "rank": 10,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 15:00"
+  },
+  {
     "keyword": "소사역미용실",
     "place_name": "리안헤어 소사역점",
     "rank": 5,
@@ -30278,6 +30348,16 @@
     "note": "",
     "date": "2026-08-04",
     "datetime": "2026-08-04 13:01"
+  },
+  {
+    "keyword": "소사역미용실",
+    "place_name": "리안헤어 소사역점",
+    "rank": 6,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 15:01"
   },
   {
     "keyword": "광명미용실",
@@ -30530,6 +30610,16 @@
     "datetime": "2026-08-04 13:01"
   },
   {
+    "keyword": "광명미용실",
+    "place_name": "리안헤어 철산자이브리에르점",
+    "rank": 23,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 15:01"
+  },
+  {
     "keyword": "광명철산미용실",
     "place_name": "리안헤어 철산자이브리에르점",
     "rank": 12,
@@ -30780,6 +30870,16 @@
     "datetime": "2026-08-04 13:02"
   },
   {
+    "keyword": "광명철산미용실",
+    "place_name": "리안헤어 철산자이브리에르점",
+    "rank": 13,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 15:01"
+  },
+  {
     "keyword": "철산동미용실",
     "place_name": "리안헤어 철산자이브리에르점",
     "rank": 12,
@@ -31028,6 +31128,16 @@
     "note": "",
     "date": "2026-08-04",
     "datetime": "2026-08-04 13:02"
+  },
+  {
+    "keyword": "철산동미용실",
+    "place_name": "리안헤어 철산자이브리에르점",
+    "rank": 13,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 15:01"
   },
   {
     "keyword": "부평미용실",
@@ -31818,6 +31928,16 @@
     "note": "",
     "date": "2026-08-04",
     "datetime": "2026-08-04 13:02"
+  },
+  {
+    "keyword": "청주미용실",
+    "place_name": "리안헤어 오창점",
+    "rank": 53,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 15:02"
   },
   {
     "keyword": "오창미용실",
