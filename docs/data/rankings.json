@@ -250,6 +250,16 @@
     "datetime": "2026-08-04 12:00"
   },
   {
+    "keyword": "평택용죽미용실",
+    "place_name": "리안헤어 평택용죽점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 13:42"
+  },
+  {
     "keyword": "천호미용실",
     "place_name": "H STYLE헤어살롱 강동역점",
     "rank": 270,
@@ -60520,6 +60530,16 @@
     "datetime": "2026-08-03 17:39"
   },
   {
+    "keyword": "청주산남동미용실",
+    "place_name": "리안헤어 청주산남점",
+    "rank": 2,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 13:40"
+  },
+  {
     "keyword": "산남동미용실",
     "place_name": "리안헤어 청주산남점",
     "rank": 1,
@@ -60758,6 +60778,16 @@
     "note": "",
     "date": "2026-08-03",
     "datetime": "2026-08-03 17:39"
+  },
+  {
+    "keyword": "산남동미용실",
+    "place_name": "리안헤어 청주산남점",
+    "rank": 2,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 13:40"
   },
   {
     "keyword": "마장동미용실",
@@ -61000,6 +61030,16 @@
     "datetime": "2026-08-03 17:40"
   },
   {
+    "keyword": "마장동미용실",
+    "place_name": "리안헤어 마장역점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 13:41"
+  },
+  {
     "keyword": "마장미용실",
     "place_name": "리안헤어 마장역점",
     "rank": 1,
@@ -61240,6 +61280,16 @@
     "datetime": "2026-08-03 17:40"
   },
   {
+    "keyword": "마장미용실",
+    "place_name": "리안헤어 마장역점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 13:41"
+  },
+  {
     "keyword": "마장역미용실",
     "place_name": "리안헤어 마장역점",
     "rank": 1,
@@ -61478,6 +61528,16 @@
     "note": "",
     "date": "2026-08-03",
     "datetime": "2026-08-03 17:40"
+  },
+  {
+    "keyword": "마장역미용실",
+    "place_name": "리안헤어 마장역점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 13:41"
   },
   {
     "keyword": "파주미용실",
