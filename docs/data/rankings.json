@@ -4740,6 +4740,16 @@
     "datetime": "2026-08-03 16:11"
   },
   {
+    "keyword": "광명사거리미용실",
+    "place_name": "리안헤어 광명사거리역점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 12:17"
+  },
+  {
     "keyword": "봉천동미용실",
     "place_name": "리안헤어 낙성대점",
     "rank": 125,
@@ -4958,6 +4968,16 @@
     "note": "",
     "date": "2026-08-03",
     "datetime": "2026-08-03 16:12"
+  },
+  {
+    "keyword": "봉천동미용실",
+    "place_name": "리안헤어 낙성대점",
+    "rank": 100,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 12:18"
   },
   {
     "keyword": "내포미용실",
@@ -5188,6 +5208,16 @@
     "note": "",
     "date": "2026-08-03",
     "datetime": "2026-08-03 16:13"
+  },
+  {
+    "keyword": "내포미용실",
+    "place_name": "리안헤어 내포첫마을점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 12:19"
   },
   {
     "keyword": "내포신도시미용실",
@@ -14720,6 +14750,16 @@
     "datetime": "2026-08-03 16:12"
   },
   {
+    "keyword": "광명미용실",
+    "place_name": "리안헤어 광명사거리역점",
+    "rank": 38,
+    "rank_with_ads": 42,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 12:17"
+  },
+  {
     "keyword": "광명사거리역미용실",
     "place_name": "리안헤어 광명사거리역점",
     "rank": 1,
@@ -14958,6 +14998,16 @@
     "note": "",
     "date": "2026-08-03",
     "datetime": "2026-08-03 16:12"
+  },
+  {
+    "keyword": "광명사거리역미용실",
+    "place_name": "리안헤어 광명사거리역점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 12:17"
   },
   {
     "keyword": "영종도미용실",
@@ -87230,6 +87280,16 @@
     "datetime": "2026-08-03 16:13"
   },
   {
+    "keyword": "낙성대미용실",
+    "place_name": "리안헤어 낙성대점",
+    "rank": 28,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 12:18"
+  },
+  {
     "keyword": "낙성대역미용실",
     "place_name": "리안헤어 낙성대점",
     "rank": 32,
@@ -87468,6 +87528,16 @@
     "note": "",
     "date": "2026-08-03",
     "datetime": "2026-08-03 16:13"
+  },
+  {
+    "keyword": "낙성대역미용실",
+    "place_name": "리안헤어 낙성대점",
+    "rank": 28,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 12:18"
   },
   {
     "keyword": "수서동미용실",
