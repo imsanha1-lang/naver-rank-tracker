@@ -7230,6 +7230,16 @@
     "datetime": "2026-08-03 16:19"
   },
   {
+    "keyword": "범어역미용실",
+    "place_name": "리안헤어 범어점",
+    "rank": 118,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 12:24"
+  },
+  {
     "keyword": "부평시장미용실",
     "place_name": "리안헤어 부평부흥로점",
     "rank": 18,
@@ -7450,6 +7460,16 @@
     "datetime": "2026-08-03 16:20"
   },
   {
+    "keyword": "부평시장미용실",
+    "place_name": "리안헤어 부평부흥로점",
+    "rank": 12,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 12:24"
+  },
+  {
     "keyword": "동작구미용실",
     "place_name": "리안헤어 성대시장점",
     "rank": 45,
@@ -7668,6 +7688,16 @@
     "note": "",
     "date": "2026-08-03",
     "datetime": "2026-08-03 16:21"
+  },
+  {
+    "keyword": "동작구미용실",
+    "place_name": "리안헤어 성대시장점",
+    "rank": 29,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 12:25"
   },
   {
     "keyword": "영덕동미용실",
@@ -16978,6 +17008,16 @@
     "note": "",
     "date": "2026-08-03",
     "datetime": "2026-08-03 16:19"
+  },
+  {
+    "keyword": "범어동미용실",
+    "place_name": "리안헤어 범어점",
+    "rank": 25,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 12:24"
   },
   {
     "keyword": "도곡동미용실",
@@ -28750,6 +28790,16 @@
     "datetime": "2026-08-03 16:20"
   },
   {
+    "keyword": "부평미용실",
+    "place_name": "리안헤어 부평부흥로점",
+    "rank": 93,
+    "rank_with_ads": 29,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 12:25"
+  },
+  {
     "keyword": "부평동미용실",
     "place_name": "리안헤어 부평부흥로점",
     "rank": 57,
@@ -28988,6 +29038,16 @@
     "note": "",
     "date": "2026-08-03",
     "datetime": "2026-08-03 16:21"
+  },
+  {
+    "keyword": "부평동미용실",
+    "place_name": "리안헤어 부평부흥로점",
+    "rank": 58,
+    "rank_with_ads": 10,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-04",
+    "datetime": "2026-08-04 12:25"
   },
   {
     "keyword": "청주미용실",
