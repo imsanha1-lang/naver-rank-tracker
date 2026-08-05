@@ -800,6 +800,16 @@
     "datetime": "2026-08-04 14:16"
   },
   {
+    "keyword": "서초미용실",
+    "place_name": "리안헤어 강남역점",
+    "rank": 11,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-05",
+    "datetime": "2026-08-05 12:05"
+  },
+  {
     "keyword": "인천검단미용실",
     "place_name": "리안헤어 검단문화체육센터점",
     "rank": 108,
@@ -1060,6 +1070,16 @@
     "datetime": "2026-08-04 14:17"
   },
   {
+    "keyword": "인천검단미용실",
+    "place_name": "리안헤어 검단문화체육센터점",
+    "rank": 115,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-05",
+    "datetime": "2026-08-05 12:06"
+  },
+  {
     "keyword": "북구미용실",
     "place_name": "리안헤어 광주용봉점",
     "rank": 264,
@@ -1318,6 +1338,16 @@
     "note": "",
     "date": "2026-08-04",
     "datetime": "2026-08-04 14:18"
+  },
+  {
+    "keyword": "북구미용실",
+    "place_name": "리안헤어 광주용봉점",
+    "rank": 121,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-05",
+    "datetime": "2026-08-05 12:07"
   },
   {
     "keyword": "광주진월미용실",
@@ -25450,6 +25480,16 @@
     "datetime": "2026-08-04 14:17"
   },
   {
+    "keyword": "검단미용실",
+    "place_name": "리안헤어 검단문화체육센터점",
+    "rank": 47,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-05",
+    "datetime": "2026-08-05 12:06"
+  },
+  {
     "keyword": "불로동미용실",
     "place_name": "리안헤어 검단문화체육센터점",
     "rank": 2,
@@ -25728,6 +25768,16 @@
     "note": "",
     "date": "2026-08-04",
     "datetime": "2026-08-04 14:17"
+  },
+  {
+    "keyword": "불로동미용실",
+    "place_name": "리안헤어 검단문화체육센터점",
+    "rank": 5,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-05",
+    "datetime": "2026-08-05 12:06"
   },
   {
     "keyword": "청주미용실",
@@ -36330,6 +36380,16 @@
     "datetime": "2026-08-04 14:16"
   },
   {
+    "keyword": "천호동미용실",
+    "place_name": "H STYLE헤어살롱 강동역점",
+    "rank": 66,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-05",
+    "datetime": "2026-08-05 12:05"
+  },
+  {
     "keyword": "강동역미용실",
     "place_name": "H STYLE헤어살롱 강동역점",
     "rank": 34,
@@ -36518,6 +36578,16 @@
     "note": "",
     "date": "2026-08-04",
     "datetime": "2026-08-04 14:16"
+  },
+  {
+    "keyword": "강동역미용실",
+    "place_name": "H STYLE헤어살롱 강동역점",
+    "rank": 28,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-05",
+    "datetime": "2026-08-05 12:05"
   },
   {
     "keyword": "천호미용실",
@@ -41890,6 +41960,16 @@
     "datetime": "2026-08-04 14:16"
   },
   {
+    "keyword": "서초동미용실",
+    "place_name": "리안헤어 강남역점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-05",
+    "datetime": "2026-08-05 12:05"
+  },
+  {
     "keyword": "강남역미용실",
     "place_name": "리안헤어 강남역점",
     "rank": null,
@@ -42168,6 +42248,16 @@
     "note": "",
     "date": "2026-08-04",
     "datetime": "2026-08-04 14:16"
+  },
+  {
+    "keyword": "강남역미용실",
+    "place_name": "리안헤어 강남역점",
+    "rank": 11,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-05",
+    "datetime": "2026-08-05 12:05"
   },
   {
     "keyword": "양천구미용실",
