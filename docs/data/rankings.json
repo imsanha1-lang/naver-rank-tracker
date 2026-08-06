@@ -30830,6 +30830,16 @@
     "datetime": "2026-08-05 12:45"
   },
   {
+    "keyword": "모충동미용실",
+    "place_name": "리안헤어 모충동 서원대점",
+    "rank": 4,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-06",
+    "datetime": "2026-08-06 12:47"
+  },
+  {
     "keyword": "서원대미용실",
     "place_name": "리안헤어 모충동 서원대점",
     "rank": 20,
@@ -31098,6 +31108,16 @@
     "note": "",
     "date": "2026-08-05",
     "datetime": "2026-08-05 12:45"
+  },
+  {
+    "keyword": "서원대미용실",
+    "place_name": "리안헤어 모충동 서원대점",
+    "rank": 16,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-06",
+    "datetime": "2026-08-06 12:48"
   },
   {
     "keyword": "검단미용실",
@@ -31370,6 +31390,16 @@
     "datetime": "2026-08-05 12:46"
   },
   {
+    "keyword": "검단미용실",
+    "place_name": "리안헤어 마전역점",
+    "rank": 62,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-06",
+    "datetime": "2026-08-06 12:48"
+  },
+  {
     "keyword": "마전동미용실",
     "place_name": "리안헤어 마전역점",
     "rank": 6,
@@ -31638,6 +31668,16 @@
     "note": "",
     "date": "2026-08-05",
     "datetime": "2026-08-05 12:46"
+  },
+  {
+    "keyword": "마전동미용실",
+    "place_name": "리안헤어 마전역점",
+    "rank": 16,
+    "rank_with_ads": 10,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-06",
+    "datetime": "2026-08-06 12:48"
   },
   {
     "keyword": "마전역미용실",
@@ -31910,6 +31950,16 @@
     "datetime": "2026-08-05 12:46"
   },
   {
+    "keyword": "마전역미용실",
+    "place_name": "리안헤어 마전역점",
+    "rank": 2,
+    "rank_with_ads": 9,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-06",
+    "datetime": "2026-08-06 12:49"
+  },
+  {
     "keyword": "부천소사미용실",
     "place_name": "리안헤어 소사역점",
     "rank": 37,
@@ -32178,6 +32228,16 @@
     "note": "",
     "date": "2026-08-05",
     "datetime": "2026-08-05 12:46"
+  },
+  {
+    "keyword": "부천소사미용실",
+    "place_name": "리안헤어 소사역점",
+    "rank": 39,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-06",
+    "datetime": "2026-08-06 12:49"
   },
   {
     "keyword": "소사본동미용실",
@@ -32450,6 +32510,16 @@
     "datetime": "2026-08-05 12:46"
   },
   {
+    "keyword": "소사본동미용실",
+    "place_name": "리안헤어 소사역점",
+    "rank": 11,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-06",
+    "datetime": "2026-08-06 12:49"
+  },
+  {
     "keyword": "소사역미용실",
     "place_name": "리안헤어 소사역점",
     "rank": 5,
@@ -32720,6 +32790,16 @@
     "datetime": "2026-08-05 12:46"
   },
   {
+    "keyword": "소사역미용실",
+    "place_name": "리안헤어 소사역점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-06",
+    "datetime": "2026-08-06 12:49"
+  },
+  {
     "keyword": "광명미용실",
     "place_name": "리안헤어 철산자이브리에르점",
     "rank": 21,
@@ -32988,6 +33068,16 @@
     "note": "",
     "date": "2026-08-05",
     "datetime": "2026-08-05 12:47"
+  },
+  {
+    "keyword": "광명미용실",
+    "place_name": "리안헤어 철산자이브리에르점",
+    "rank": 30,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-06",
+    "datetime": "2026-08-06 12:50"
   },
   {
     "keyword": "광명철산미용실",
