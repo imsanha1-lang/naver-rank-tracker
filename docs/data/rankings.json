@@ -9710,6 +9710,16 @@
     "datetime": "2026-08-05 12:23"
   },
   {
+    "keyword": "인하대미용실",
+    "place_name": "리안헤어 용현점",
+    "rank": null,
+    "rank_with_ads": 30,
+    "page": null,
+    "note": "",
+    "date": "2026-08-06",
+    "datetime": "2026-08-06 12:24"
+  },
+  {
     "keyword": "울산중구미용실",
     "place_name": "리안헤어 울산성남점",
     "rank": 60,
@@ -9968,6 +9978,16 @@
     "note": "",
     "date": "2026-08-05",
     "datetime": "2026-08-05 12:24"
+  },
+  {
+    "keyword": "울산중구미용실",
+    "place_name": "리안헤어 울산성남점",
+    "rank": 63,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-06",
+    "datetime": "2026-08-06 12:25"
   },
   {
     "keyword": "이수미용실",
@@ -37740,6 +37760,16 @@
     "datetime": "2026-08-05 12:22"
   },
   {
+    "keyword": "기흥구미용실",
+    "place_name": "리안헤어 용인흥덕점",
+    "rank": 74,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-06",
+    "datetime": "2026-08-06 12:23"
+  },
+  {
     "keyword": "용인흥덕미용실",
     "place_name": "리안헤어 용인흥덕점",
     "rank": 12,
@@ -38018,6 +38048,16 @@
     "note": "",
     "date": "2026-08-05",
     "datetime": "2026-08-05 12:22"
+  },
+  {
+    "keyword": "용인흥덕미용실",
+    "place_name": "리안헤어 용인흥덕점",
+    "rank": 9,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-06",
+    "datetime": "2026-08-06 12:23"
   },
   {
     "keyword": "천호동미용실",
@@ -82300,6 +82340,16 @@
     "datetime": "2026-08-05 12:24"
   },
   {
+    "keyword": "미추홀구미용실",
+    "place_name": "리안헤어 용현점",
+    "rank": 25,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-06",
+    "datetime": "2026-08-06 12:24"
+  },
+  {
     "keyword": "용현동미용실",
     "place_name": "리안헤어 용현점",
     "rank": 16,
@@ -82648,6 +82698,16 @@
     "note": "",
     "date": "2026-08-05",
     "datetime": "2026-08-05 12:24"
+  },
+  {
+    "keyword": "용현동미용실",
+    "place_name": "리안헤어 용현점",
+    "rank": 8,
+    "rank_with_ads": 17,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-06",
+    "datetime": "2026-08-06 12:24"
   },
   {
     "keyword": "동탄미용실",
