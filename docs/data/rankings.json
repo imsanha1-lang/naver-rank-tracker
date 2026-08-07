@@ -4510,6 +4510,16 @@
     "datetime": "2026-08-06 12:12"
   },
   {
+    "keyword": "노량진역미용실",
+    "place_name": "H STYLE 헤어살롱 노량진점",
+    "rank": 3,
+    "rank_with_ads": 9,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-07",
+    "datetime": "2026-08-07 14:12"
+  },
+  {
     "keyword": "동작구미용실",
     "place_name": "H STYLE 헤어살롱 노량진점",
     "rank": 11,
@@ -4800,6 +4810,16 @@
     "datetime": "2026-08-06 12:13"
   },
   {
+    "keyword": "동작구미용실",
+    "place_name": "H STYLE 헤어살롱 노량진점",
+    "rank": 33,
+    "rank_with_ads": 42,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-07",
+    "datetime": "2026-08-07 14:12"
+  },
+  {
     "keyword": "강남미용실",
     "place_name": "리안헤어 강남양재역점",
     "rank": null,
@@ -5068,6 +5088,16 @@
     "note": "",
     "date": "2026-08-06",
     "datetime": "2026-08-06 12:14"
+  },
+  {
+    "keyword": "강남미용실",
+    "place_name": "리안헤어 강남양재역점",
+    "rank": 275,
+    "rank_with_ads": null,
+    "page": 4,
+    "note": "",
+    "date": "2026-08-07",
+    "datetime": "2026-08-07 14:14"
   },
   {
     "keyword": "고덕미용실",
@@ -5348,6 +5378,16 @@
     "note": "",
     "date": "2026-08-06",
     "datetime": "2026-08-06 12:15"
+  },
+  {
+    "keyword": "고덕미용실",
+    "place_name": "리안헤어 강일2지구점",
+    "rank": 90,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-07",
+    "datetime": "2026-08-07 14:14"
   },
   {
     "keyword": "관양동미용실",
@@ -20660,6 +20700,16 @@
     "datetime": "2026-08-06 12:14"
   },
   {
+    "keyword": "도곡동미용실",
+    "place_name": "리안헤어 강남양재역점",
+    "rank": 6,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-07",
+    "datetime": "2026-08-07 14:14"
+  },
+  {
     "keyword": "양재역미용실",
     "place_name": "리안헤어 강남양재역점",
     "rank": 15,
@@ -20948,6 +20998,16 @@
     "note": "",
     "date": "2026-08-06",
     "datetime": "2026-08-06 12:14"
+  },
+  {
+    "keyword": "양재역미용실",
+    "place_name": "리안헤어 강남양재역점",
+    "rank": 13,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-07",
+    "datetime": "2026-08-07 14:14"
   },
   {
     "keyword": "양천구미용실",
