@@ -63620,6 +63620,16 @@
     "datetime": "2026-08-09 13:04"
   },
   {
+    "keyword": "태전동미용실",
+    "place_name": "리안헤어 광주태전동점",
+    "rank": 9,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-10",
+    "datetime": "2026-08-10 13:09"
+  },
+  {
     "keyword": "김포미용실",
     "place_name": "리안헤어 김포걸포점",
     "rank": 98,
@@ -63928,6 +63938,16 @@
     "note": "",
     "date": "2026-08-09",
     "datetime": "2026-08-09 13:06"
+  },
+  {
+    "keyword": "김포미용실",
+    "place_name": "리안헤어 김포걸포점",
+    "rank": 142,
+    "rank_with_ads": null,
+    "page": 3,
+    "note": "",
+    "date": "2026-08-10",
+    "datetime": "2026-08-10 13:10"
   },
   {
     "keyword": "걸포동미용실",
@@ -64240,6 +64260,16 @@
     "datetime": "2026-08-09 13:06"
   },
   {
+    "keyword": "걸포동미용실",
+    "place_name": "리안헤어 김포걸포점",
+    "rank": 6,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-10",
+    "datetime": "2026-08-10 13:10"
+  },
+  {
     "keyword": "걸포북변역미용실",
     "place_name": "리안헤어 김포걸포점",
     "rank": 6,
@@ -64550,6 +64580,16 @@
     "datetime": "2026-08-09 13:07"
   },
   {
+    "keyword": "걸포북변역미용실",
+    "place_name": "리안헤어 김포걸포점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-10",
+    "datetime": "2026-08-10 13:10"
+  },
+  {
     "keyword": "상도동미용실",
     "place_name": "리안헤어 상도역점",
     "rank": 3,
@@ -64858,6 +64898,16 @@
     "note": "",
     "date": "2026-08-09",
     "datetime": "2026-08-09 13:07"
+  },
+  {
+    "keyword": "상도동미용실",
+    "place_name": "리안헤어 상도역점",
+    "rank": 7,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-10",
+    "datetime": "2026-08-10 13:11"
   },
   {
     "keyword": "상도미용실",
@@ -65210,6 +65260,16 @@
     "datetime": "2026-08-09 13:07"
   },
   {
+    "keyword": "상도미용실",
+    "place_name": "리안헤어 상도역점",
+    "rank": 7,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-10",
+    "datetime": "2026-08-10 13:11"
+  },
+  {
     "keyword": "상도역미용실",
     "place_name": "리안헤어 상도역점",
     "rank": 1,
@@ -65530,6 +65590,16 @@
     "datetime": "2026-08-09 13:07"
   },
   {
+    "keyword": "상도역미용실",
+    "place_name": "리안헤어 상도역점",
+    "rank": 1,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-10",
+    "datetime": "2026-08-10 13:11"
+  },
+  {
     "keyword": "노원미용실",
     "place_name": "리안헤어 하계점",
     "rank": 177,
@@ -65788,6 +65858,16 @@
     "note": "",
     "date": "2026-08-09",
     "datetime": "2026-08-09 13:08"
+  },
+  {
+    "keyword": "노원미용실",
+    "place_name": "리안헤어 하계점",
+    "rank": 99,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-10",
+    "datetime": "2026-08-10 13:11"
   },
   {
     "keyword": "하계미용실",
