@@ -85540,6 +85540,16 @@
     "datetime": "2026-08-10 13:22"
   },
   {
+    "keyword": "구로항동미용실",
+    "place_name": "리안헤어 항동점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-11",
+    "datetime": "2026-08-11 13:30"
+  },
+  {
     "keyword": "항동미용실",
     "place_name": "리안헤어 항동점",
     "rank": 3,
@@ -85848,6 +85858,16 @@
     "note": "",
     "date": "2026-08-10",
     "datetime": "2026-08-10 13:22"
+  },
+  {
+    "keyword": "항동미용실",
+    "place_name": "리안헤어 항동점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-11",
+    "datetime": "2026-08-11 13:30"
   },
   {
     "keyword": "전주미용실",
@@ -86160,6 +86180,16 @@
     "datetime": "2026-08-10 13:23"
   },
   {
+    "keyword": "전주미용실",
+    "place_name": "리안헤어 전주효자점",
+    "rank": 228,
+    "rank_with_ads": 2,
+    "page": 4,
+    "note": "",
+    "date": "2026-08-11",
+    "datetime": "2026-08-11 13:31"
+  },
+  {
     "keyword": "전주효자동미용실",
     "place_name": "리안헤어 전주효자점",
     "rank": 3,
@@ -86468,6 +86498,16 @@
     "note": "",
     "date": "2026-08-10",
     "datetime": "2026-08-10 13:23"
+  },
+  {
+    "keyword": "전주효자동미용실",
+    "place_name": "리안헤어 전주효자점",
+    "rank": 16,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-11",
+    "datetime": "2026-08-11 13:31"
   },
   {
     "keyword": "효자동미용실",
@@ -86780,6 +86820,16 @@
     "datetime": "2026-08-10 13:23"
   },
   {
+    "keyword": "효자동미용실",
+    "place_name": "리안헤어 전주효자점",
+    "rank": 81,
+    "rank_with_ads": 2,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-11",
+    "datetime": "2026-08-11 13:32"
+  },
+  {
     "keyword": "노원미용실",
     "place_name": "리안헤어 크레파스 마들역점",
     "rank": 39,
@@ -87088,6 +87138,16 @@
     "note": "",
     "date": "2026-08-10",
     "datetime": "2026-08-10 13:24"
+  },
+  {
+    "keyword": "노원미용실",
+    "place_name": "리안헤어 크레파스 마들역점",
+    "rank": 13,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-11",
+    "datetime": "2026-08-11 13:32"
   },
   {
     "keyword": "상계동미용실",
