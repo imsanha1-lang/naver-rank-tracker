@@ -133080,6 +133080,16 @@
     "datetime": "2026-08-11 13:57"
   },
   {
+    "keyword": "불당동미용실",
+    "place_name": "리안헤어 신불당점",
+    "rank": 15,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-12",
+    "datetime": "2026-08-12 15:50"
+  },
+  {
     "keyword": "신불당미용실",
     "place_name": "리안헤어 신불당점",
     "rank": 19,
@@ -133308,6 +133318,16 @@
     "note": "",
     "date": "2026-08-11",
     "datetime": "2026-08-11 13:58"
+  },
+  {
+    "keyword": "신불당미용실",
+    "place_name": "리안헤어 신불당점",
+    "rank": 13,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-12",
+    "datetime": "2026-08-12 15:50"
   },
   {
     "keyword": "익산미용실",
@@ -133638,6 +133658,16 @@
     "note": "",
     "date": "2026-08-11",
     "datetime": "2026-08-11 13:58"
+  },
+  {
+    "keyword": "익산미용실",
+    "place_name": "리안헤어 익산모현점",
+    "rank": 4,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-12",
+    "datetime": "2026-08-12 15:51"
   },
   {
     "keyword": "익산모현동미용실",
@@ -133990,6 +134020,16 @@
     "datetime": "2026-08-11 13:58"
   },
   {
+    "keyword": "익산모현동미용실",
+    "place_name": "리안헤어 익산모현점",
+    "rank": 3,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-12",
+    "datetime": "2026-08-12 15:51"
+  },
+  {
     "keyword": "모현동미용실",
     "place_name": "리안헤어 익산모현점",
     "rank": 8,
@@ -134258,6 +134298,16 @@
     "note": "",
     "date": "2026-08-11",
     "datetime": "2026-08-11 13:58"
+  },
+  {
+    "keyword": "모현동미용실",
+    "place_name": "리안헤어 익산모현점",
+    "rank": 3,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-12",
+    "datetime": "2026-08-12 15:51"
   },
   {
     "keyword": "송파구미용실",
@@ -134578,6 +134628,16 @@
     "note": "",
     "date": "2026-08-11",
     "datetime": "2026-08-11 13:59"
+  },
+  {
+    "keyword": "송파구미용실",
+    "place_name": "리안헤어 가락시장역점",
+    "rank": 186,
+    "rank_with_ads": null,
+    "page": 3,
+    "note": "",
+    "date": "2026-08-12",
+    "datetime": "2026-08-12 15:52"
   },
   {
     "keyword": "가락동미용실",
