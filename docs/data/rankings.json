@@ -39930,6 +39930,16 @@
     "datetime": "2026-08-12 14:53"
   },
   {
+    "keyword": "마전동미용실",
+    "place_name": "리안헤어 마전역점",
+    "rank": 21,
+    "rank_with_ads": 9,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 14:17"
+  },
+  {
     "keyword": "마전역미용실",
     "place_name": "리안헤어 마전역점",
     "rank": 2,
@@ -40268,6 +40278,16 @@
     "note": "",
     "date": "2026-08-12",
     "datetime": "2026-08-12 14:53"
+  },
+  {
+    "keyword": "마전역미용실",
+    "place_name": "리안헤어 마전역점",
+    "rank": 4,
+    "rank_with_ads": 3,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 14:17"
   },
   {
     "keyword": "부천소사미용실",
@@ -40610,6 +40630,16 @@
     "datetime": "2026-08-12 14:53"
   },
   {
+    "keyword": "부천소사미용실",
+    "place_name": "리안헤어 소사역점",
+    "rank": 51,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 14:19"
+  },
+  {
     "keyword": "소사본동미용실",
     "place_name": "리안헤어 소사역점",
     "rank": 10,
@@ -40948,6 +40978,16 @@
     "note": "",
     "date": "2026-08-12",
     "datetime": "2026-08-12 14:54"
+  },
+  {
+    "keyword": "소사본동미용실",
+    "place_name": "리안헤어 소사역점",
+    "rank": 14,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 14:19"
   },
   {
     "keyword": "소사역미용실",
@@ -41290,6 +41330,16 @@
     "datetime": "2026-08-12 14:54"
   },
   {
+    "keyword": "소사역미용실",
+    "place_name": "리안헤어 소사역점",
+    "rank": 8,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 14:19"
+  },
+  {
     "keyword": "광명미용실",
     "place_name": "리안헤어 철산자이브리에르점",
     "rank": 21,
@@ -41628,6 +41678,16 @@
     "note": "",
     "date": "2026-08-12",
     "datetime": "2026-08-12 14:54"
+  },
+  {
+    "keyword": "광명미용실",
+    "place_name": "리안헤어 철산자이브리에르점",
+    "rank": 27,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 14:20"
   },
   {
     "keyword": "광명철산미용실",
