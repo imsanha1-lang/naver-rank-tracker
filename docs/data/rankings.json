@@ -13120,6 +13120,16 @@
     "datetime": "2026-08-12 14:29"
   },
   {
+    "keyword": "이수미용실",
+    "place_name": "리안헤어 이수이마트점",
+    "rank": 11,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 13:13"
+  },
+  {
     "keyword": "인하대미용실",
     "place_name": "리안헤어 인천미추홀점",
     "rank": 287,
@@ -13388,6 +13398,16 @@
     "note": "",
     "date": "2026-08-12",
     "datetime": "2026-08-12 14:30"
+  },
+  {
+    "keyword": "인하대미용실",
+    "place_name": "리안헤어 인천미추홀점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "5페이지·221건 검색 · 미발견 유사매장: 리안헤어 인하대역점, 리안헤어 용현점, 헤어",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 13:16"
   },
   {
     "keyword": "인하대미용실",
@@ -23888,6 +23908,16 @@
     "note": "",
     "date": "2026-08-12",
     "datetime": "2026-08-12 14:29"
+  },
+  {
+    "keyword": "이수역미용실",
+    "place_name": "리안헤어 이수이마트점",
+    "rank": 11,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 13:13"
   },
   {
     "keyword": "덕양구미용실",
@@ -87880,6 +87910,16 @@
     "datetime": "2026-08-12 14:28"
   },
   {
+    "keyword": "울산성남동미용실",
+    "place_name": "리안헤어 울산성남점",
+    "rank": 17,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 13:12"
+  },
+  {
     "keyword": "성남동미용실",
     "place_name": "리안헤어 울산성남점",
     "rank": 13,
@@ -88228,6 +88268,16 @@
     "note": "",
     "date": "2026-08-12",
     "datetime": "2026-08-12 14:28"
+  },
+  {
+    "keyword": "성남동미용실",
+    "place_name": "리안헤어 울산성남점",
+    "rank": 17,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 13:12"
   },
   {
     "keyword": "구로구미용실",
