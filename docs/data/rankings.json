@@ -1280,6 +1280,16 @@
     "datetime": "2026-08-12 14:04"
   },
   {
+    "keyword": "서초미용실",
+    "place_name": "리안헤어 강남역점",
+    "rank": 12,
+    "rank_with_ads": 9,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 12:12"
+  },
+  {
     "keyword": "인천검단미용실",
     "place_name": "리안헤어 검단문화체육센터점",
     "rank": 108,
@@ -47930,6 +47940,16 @@
     "datetime": "2026-08-12 14:03"
   },
   {
+    "keyword": "천호동미용실",
+    "place_name": "H STYLE헤어살롱 강동역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "5페이지·174건 검색 · 미발견 유사매장: 헤어살롱오브 본점, 헤어살롱오브 본점, 헤어살롱보람",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 12:10"
+  },
+  {
     "keyword": "강동역미용실",
     "place_name": "H STYLE헤어살롱 강동역점",
     "rank": 34,
@@ -48198,6 +48218,16 @@
     "note": "",
     "date": "2026-08-12",
     "datetime": "2026-08-12 14:04"
+  },
+  {
+    "keyword": "강동역미용실",
+    "place_name": "H STYLE헤어살롱 강동역점",
+    "rank": 36,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 12:10"
   },
   {
     "keyword": "천호미용실",
