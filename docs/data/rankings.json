@@ -45550,6 +45550,16 @@
     "datetime": "2026-08-12 14:55"
   },
   {
+    "keyword": "범박동미용실",
+    "place_name": "리안헤어 소사범박점",
+    "rank": 3,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 14:24"
+  },
+  {
     "keyword": "범박미용실",
     "place_name": "리안헤어 소사범박점",
     "rank": 10,
@@ -45888,6 +45898,16 @@
     "note": "",
     "date": "2026-08-12",
     "datetime": "2026-08-12 14:56"
+  },
+  {
+    "keyword": "범박미용실",
+    "place_name": "리안헤어 소사범박점",
+    "rank": 3,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 14:24"
   },
   {
     "keyword": "응암역미용실",
@@ -46240,6 +46260,16 @@
     "datetime": "2026-08-12 14:56"
   },
   {
+    "keyword": "응암역미용실",
+    "place_name": "보그헤어 응암역2호점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 14:26"
+  },
+  {
     "keyword": "구로구미용실",
     "place_name": "리안헤어 오류점",
     "rank": 22,
@@ -46588,6 +46618,16 @@
     "note": "",
     "date": "2026-08-12",
     "datetime": "2026-08-12 14:56"
+  },
+  {
+    "keyword": "구로구미용실",
+    "place_name": "리안헤어 오류점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 14:27"
   },
   {
     "keyword": "오류동미용실",
@@ -138260,6 +138300,16 @@
     "datetime": "2026-08-12 14:56"
   },
   {
+    "keyword": "은평구미용실",
+    "place_name": "보그헤어 응암역2호점",
+    "rank": 8,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 14:26"
+  },
+  {
     "keyword": "신사동미용실",
     "place_name": "보그헤어 응암역2호점",
     "rank": 2,
@@ -138628,5 +138678,15 @@
     "note": "",
     "date": "2026-08-12",
     "datetime": "2026-08-12 14:56"
+  },
+  {
+    "keyword": "신사동미용실",
+    "place_name": "보그헤어 응암역2호점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 14:26"
   }
 ]
