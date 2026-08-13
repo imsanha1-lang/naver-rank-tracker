@@ -30760,6 +30760,16 @@
     "datetime": "2026-08-12 14:46"
   },
   {
+    "keyword": "계양구미용실",
+    "place_name": "리안헤어 작전역점",
+    "rank": 32,
+    "rank_with_ads": 3,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 14:02"
+  },
+  {
     "keyword": "작전동미용실",
     "place_name": "리안헤어 작전역점",
     "rank": 1,
@@ -31098,6 +31108,16 @@
     "note": "",
     "date": "2026-08-12",
     "datetime": "2026-08-12 14:47"
+  },
+  {
+    "keyword": "작전동미용실",
+    "place_name": "리안헤어 작전역점",
+    "rank": 10,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 14:02"
   },
   {
     "keyword": "작전역미용실",
@@ -31450,6 +31470,16 @@
     "datetime": "2026-08-12 14:47"
   },
   {
+    "keyword": "작전역미용실",
+    "place_name": "리안헤어 작전역점",
+    "rank": 16,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 14:02"
+  },
+  {
     "keyword": "강서구미용실",
     "place_name": "리안헤어 화곡역점",
     "rank": 77,
@@ -31788,6 +31818,16 @@
     "note": "",
     "date": "2026-08-12",
     "datetime": "2026-08-12 14:47"
+  },
+  {
+    "keyword": "강서구미용실",
+    "place_name": "리안헤어 화곡역점",
+    "rank": 66,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 14:04"
   },
   {
     "keyword": "화곡동미용실",
