@@ -11080,6 +11080,16 @@
     "datetime": "2026-08-12 14:24"
   },
   {
+    "keyword": "범어역미용실",
+    "place_name": "리안헤어 범어점",
+    "rank": 158,
+    "rank_with_ads": null,
+    "page": 3,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 13:01"
+  },
+  {
     "keyword": "부평시장미용실",
     "place_name": "리안헤어 부평부흥로점",
     "rank": 18,
@@ -115910,6 +115920,16 @@
     "datetime": "2026-08-12 14:23"
   },
   {
+    "keyword": "강서구미용실",
+    "place_name": "리안헤어 발산점",
+    "rank": null,
+    "rank_with_ads": 2,
+    "page": null,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 12:59"
+  },
+  {
     "keyword": "발산역미용실",
     "place_name": "리안헤어 발산점",
     "rank": 28,
@@ -116258,6 +116278,16 @@
     "note": "",
     "date": "2026-08-12",
     "datetime": "2026-08-12 14:23"
+  },
+  {
+    "keyword": "발산역미용실",
+    "place_name": "리안헤어 발산점",
+    "rank": 44,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-13",
+    "datetime": "2026-08-13 12:59"
   },
   {
     "keyword": "서대문구미용실",
