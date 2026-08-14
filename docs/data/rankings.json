@@ -1700,6 +1700,16 @@
     "datetime": "2026-08-13 12:14"
   },
   {
+    "keyword": "인천검단미용실",
+    "place_name": "리안헤어 검단문화체육센터점",
+    "rank": 116,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-14",
+    "datetime": "2026-08-14 12:10"
+  },
+  {
     "keyword": "북구미용실",
     "place_name": "리안헤어 광주용봉점",
     "rank": 264,
@@ -57328,6 +57338,16 @@
     "note": "",
     "date": "2026-08-13",
     "datetime": "2026-08-13 12:12"
+  },
+  {
+    "keyword": "강남역미용실",
+    "place_name": "리안헤어 강남역점",
+    "rank": 14,
+    "rank_with_ads": 3,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-14",
+    "datetime": "2026-08-14 12:09"
   },
   {
     "keyword": "양천구미용실",
