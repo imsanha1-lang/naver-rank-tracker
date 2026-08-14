@@ -4140,6 +4140,16 @@
     "datetime": "2026-08-13 12:29"
   },
   {
+    "keyword": "금천구청역미용실",
+    "place_name": "리안헤어 시흥사거리점",
+    "rank": 18,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-14",
+    "datetime": "2026-08-14 12:26"
+  },
+  {
     "keyword": "장안미용실",
     "place_name": "리안헤어 장안점",
     "rank": 2,
@@ -4478,6 +4488,16 @@
     "note": "",
     "date": "2026-08-13",
     "datetime": "2026-08-13 12:31"
+  },
+  {
+    "keyword": "장안미용실",
+    "place_name": "리안헤어 장안점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-14",
+    "datetime": "2026-08-14 12:27"
   },
   {
     "keyword": "예산미용실",
@@ -54728,6 +54748,16 @@
     "note": "",
     "date": "2026-08-13",
     "datetime": "2026-08-13 12:27"
+  },
+  {
+    "keyword": "정자SK뷰미용실",
+    "place_name": "리안헤어 수원정자sk뷰점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "키워드 검색 불가 (네이버 플레이스 목록 없음)",
+    "date": "2026-08-14",
+    "datetime": "2026-08-14 12:24"
   },
   {
     "keyword": "강서구미용실",
@@ -115880,6 +115910,16 @@
     "datetime": "2026-08-13 12:29"
   },
   {
+    "keyword": "금천구미용실",
+    "place_name": "리안헤어 시흥사거리점",
+    "rank": 56,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-14",
+    "datetime": "2026-08-14 12:26"
+  },
+  {
     "keyword": "시흥동미용실",
     "place_name": "리안헤어 시흥사거리점",
     "rank": 5,
@@ -116238,6 +116278,16 @@
     "note": "",
     "date": "2026-08-13",
     "datetime": "2026-08-13 12:29"
+  },
+  {
+    "keyword": "시흥동미용실",
+    "place_name": "리안헤어 시흥사거리점",
+    "rank": 10,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-14",
+    "datetime": "2026-08-14 12:26"
   },
   {
     "keyword": "동탄미용실",
