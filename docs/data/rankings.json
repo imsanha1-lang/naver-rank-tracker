@@ -17970,6 +17970,16 @@
     "datetime": "2026-08-13 13:39"
   },
   {
+    "keyword": "서창2지구미용실",
+    "place_name": "리안헤어 서창2지구점",
+    "rank": 6,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-14",
+    "datetime": "2026-08-14 13:34"
+  },
+  {
     "keyword": "신흥동미용실",
     "place_name": "리안헤어 신흥역점",
     "rank": 4,
@@ -18328,6 +18338,16 @@
     "note": "",
     "date": "2026-08-13",
     "datetime": "2026-08-13 13:41"
+  },
+  {
+    "keyword": "신흥동미용실",
+    "place_name": "리안헤어 신흥역점",
+    "rank": 3,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-14",
+    "datetime": "2026-08-14 13:36"
   },
   {
     "keyword": "신흥역미용실",
@@ -18690,6 +18710,16 @@
     "datetime": "2026-08-13 13:41"
   },
   {
+    "keyword": "신흥역미용실",
+    "place_name": "리안헤어 신흥역점",
+    "rank": 2,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-14",
+    "datetime": "2026-08-14 13:36"
+  },
+  {
     "keyword": "간석동미용실",
     "place_name": "리안헤어 간석점",
     "rank": 16,
@@ -19048,6 +19078,16 @@
     "note": "",
     "date": "2026-08-13",
     "datetime": "2026-08-13 13:42"
+  },
+  {
+    "keyword": "간석동미용실",
+    "place_name": "리안헤어 간석점",
+    "rank": 9,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-14",
+    "datetime": "2026-08-14 13:37"
   },
   {
     "keyword": "구월동미용실",
