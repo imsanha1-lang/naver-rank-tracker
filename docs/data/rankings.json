@@ -12830,6 +12830,16 @@
     "datetime": "2026-08-13 13:09"
   },
   {
+    "keyword": "인하대미용실",
+    "place_name": "리안헤어 용현점",
+    "rank": null,
+    "rank_with_ads": 42,
+    "page": null,
+    "note": "",
+    "date": "2026-08-14",
+    "datetime": "2026-08-14 13:06"
+  },
+  {
     "keyword": "울산중구미용실",
     "place_name": "리안헤어 울산성남점",
     "rank": 60,
@@ -49180,6 +49190,16 @@
     "datetime": "2026-08-13 13:06"
   },
   {
+    "keyword": "기흥구미용실",
+    "place_name": "리안헤어 용인흥덕점",
+    "rank": 99,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-14",
+    "datetime": "2026-08-14 13:02"
+  },
+  {
     "keyword": "용인흥덕미용실",
     "place_name": "리안헤어 용인흥덕점",
     "rank": 12,
@@ -49538,6 +49558,16 @@
     "note": "",
     "date": "2026-08-13",
     "datetime": "2026-08-13 13:07"
+  },
+  {
+    "keyword": "용인흥덕미용실",
+    "place_name": "리안헤어 용인흥덕점",
+    "rank": 11,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-14",
+    "datetime": "2026-08-14 13:03"
   },
   {
     "keyword": "천호동미용실",
