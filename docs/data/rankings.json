@@ -107180,6 +107180,16 @@
     "datetime": "2026-08-14 16:06"
   },
   {
+    "keyword": "노량진역미용실",
+    "place_name": "리안헤어 노량진점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 13:26"
+  },
+  {
     "keyword": "동대문구미용실",
     "place_name": "리안헤어 장안점",
     "rank": 16,
@@ -109070,6 +109080,16 @@
     "datetime": "2026-08-14 16:07"
   },
   {
+    "keyword": "성북구미용실",
+    "place_name": "리안헤어 정릉시장점",
+    "rank": 17,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 13:26"
+  },
+  {
     "keyword": "정릉동미용실",
     "place_name": "리안헤어 정릉시장점",
     "rank": 1,
@@ -109418,6 +109438,16 @@
     "note": "",
     "date": "2026-08-14",
     "datetime": "2026-08-14 16:07"
+  },
+  {
+    "keyword": "정릉동미용실",
+    "place_name": "리안헤어 정릉시장점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 13:27"
   },
   {
     "keyword": "정릉시장미용실",
@@ -109770,6 +109800,16 @@
     "datetime": "2026-08-14 16:07"
   },
   {
+    "keyword": "정릉시장미용실",
+    "place_name": "리안헤어 정릉시장점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 13:27"
+  },
+  {
     "keyword": "성북구미용실",
     "place_name": "리안헤어 한성대역점",
     "rank": 81,
@@ -110118,6 +110158,16 @@
     "note": "",
     "date": "2026-08-14",
     "datetime": "2026-08-14 16:08"
+  },
+  {
+    "keyword": "성북구미용실",
+    "place_name": "리안헤어 한성대역점",
+    "rank": 75,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 13:27"
   },
   {
     "keyword": "한성대미용실",
@@ -110470,6 +110520,16 @@
     "datetime": "2026-08-14 16:08"
   },
   {
+    "keyword": "한성대미용실",
+    "place_name": "리안헤어 한성대역점",
+    "rank": 6,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 13:27"
+  },
+  {
     "keyword": "한성대역미용실",
     "place_name": "리안헤어 한성대역점",
     "rank": 3,
@@ -110818,6 +110878,16 @@
     "note": "",
     "date": "2026-08-14",
     "datetime": "2026-08-14 16:08"
+  },
+  {
+    "keyword": "한성대역미용실",
+    "place_name": "리안헤어 한성대역점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 13:27"
   },
   {
     "keyword": "동작구미용실",
@@ -111210,6 +111280,16 @@
     "datetime": "2026-08-14 16:06"
   },
   {
+    "keyword": "동작구미용실",
+    "place_name": "리안헤어 노량진점",
+    "rank": 36,
+    "rank_with_ads": 42,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 13:26"
+  },
+  {
     "keyword": "노량진미용실",
     "place_name": "리안헤어 노량진점",
     "rank": 3,
@@ -111560,6 +111640,16 @@
     "datetime": "2026-08-14 16:06"
   },
   {
+    "keyword": "노량진미용실",
+    "place_name": "리안헤어 노량진점",
+    "rank": 3,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 13:26"
+  },
+  {
     "keyword": "개봉동미용실",
     "place_name": "리안헤어 개봉푸르지오점",
     "rank": 5,
@@ -111908,6 +111998,16 @@
     "note": "",
     "date": "2026-08-14",
     "datetime": "2026-08-14 16:08"
+  },
+  {
+    "keyword": "개봉동미용실",
+    "place_name": "리안헤어 개봉푸르지오점",
+    "rank": 2,
+    "rank_with_ads": 3,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 13:28"
   },
   {
     "keyword": "개봉역미용실",
