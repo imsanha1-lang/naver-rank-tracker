@@ -4860,6 +4860,16 @@
     "datetime": "2026-08-14 14:41"
   },
   {
+    "keyword": "장안미용실",
+    "place_name": "리안헤어 장안점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "검색 목록이 나타나지 않아 수집하지 않음",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 12:11"
+  },
+  {
     "keyword": "예산미용실",
     "place_name": "리안헤어 충남도청점",
     "rank": 1,
@@ -5220,6 +5230,16 @@
     "datetime": "2026-08-14 14:42"
   },
   {
+    "keyword": "예산미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 12:11"
+  },
+  {
     "keyword": "정자미용실",
     "place_name": "에이치스타일 정자점",
     "rank": 18,
@@ -5488,6 +5508,16 @@
     "note": "",
     "date": "2026-08-14",
     "datetime": "2026-08-14 14:42"
+  },
+  {
+    "keyword": "정자미용실",
+    "place_name": "에이치스타일 정자점",
+    "rank": 16,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 12:12"
   },
   {
     "keyword": "노량진미용실",
@@ -104940,6 +104970,16 @@
     "datetime": "2026-08-14 14:42"
   },
   {
+    "keyword": "동대문구미용실",
+    "place_name": "리안헤어 장안점",
+    "rank": 44,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 12:11"
+  },
+  {
     "keyword": "장안동미용실",
     "place_name": "리안헤어 장안점",
     "rank": 1,
@@ -105318,6 +105358,16 @@
     "note": "",
     "date": "2026-08-14",
     "datetime": "2026-08-14 14:42"
+  },
+  {
+    "keyword": "장안동미용실",
+    "place_name": "리안헤어 장안점",
+    "rank": 7,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 12:11"
   },
   {
     "keyword": "미추홀구미용실",
@@ -118200,6 +118250,16 @@
     "datetime": "2026-08-14 14:42"
   },
   {
+    "keyword": "내포미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": 4,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 12:11"
+  },
+  {
     "keyword": "충남도청미용실",
     "place_name": "리안헤어 충남도청점",
     "rank": 1,
@@ -118578,6 +118638,16 @@
     "note": "",
     "date": "2026-08-14",
     "datetime": "2026-08-14 14:42"
+  },
+  {
+    "keyword": "충남도청미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 12:11"
   },
   {
     "keyword": "수원정자동미용실",
@@ -121060,6 +121130,16 @@
     "datetime": "2026-08-14 14:41"
   },
   {
+    "keyword": "금천구미용실",
+    "place_name": "리안헤어 시흥사거리점",
+    "rank": 55,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 12:10"
+  },
+  {
     "keyword": "시흥동미용실",
     "place_name": "리안헤어 시흥사거리점",
     "rank": 5,
@@ -121438,6 +121518,16 @@
     "note": "",
     "date": "2026-08-14",
     "datetime": "2026-08-14 14:41"
+  },
+  {
+    "keyword": "시흥동미용실",
+    "place_name": "리안헤어 시흥사거리점",
+    "rank": 9,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-15",
+    "datetime": "2026-08-15 12:10"
   },
   {
     "keyword": "동탄미용실",
