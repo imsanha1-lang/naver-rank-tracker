@@ -32250,6 +32250,16 @@
     "datetime": "2026-08-15 12:43"
   },
   {
+    "keyword": "성북구미용실",
+    "place_name": "리안헤어 성신여대점",
+    "rank": 49,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-16",
+    "datetime": "2026-08-16 12:46"
+  },
+  {
     "keyword": "동선동미용실",
     "place_name": "리안헤어 성신여대점",
     "rank": 15,
@@ -32628,6 +32638,16 @@
     "note": "",
     "date": "2026-08-15",
     "datetime": "2026-08-15 12:43"
+  },
+  {
+    "keyword": "동선동미용실",
+    "place_name": "리안헤어 성신여대점",
+    "rank": 22,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-16",
+    "datetime": "2026-08-16 12:46"
   },
   {
     "keyword": "성신여대미용실",
@@ -33010,6 +33030,16 @@
     "datetime": "2026-08-15 12:43"
   },
   {
+    "keyword": "성신여대미용실",
+    "place_name": "리안헤어 성신여대점",
+    "rank": 24,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-16",
+    "datetime": "2026-08-16 12:46"
+  },
+  {
     "keyword": "인천청라미용실",
     "place_name": "리안헤어 청라호수공원점",
     "rank": 34,
@@ -33390,6 +33420,16 @@
     "datetime": "2026-08-15 12:44"
   },
   {
+    "keyword": "인천청라미용실",
+    "place_name": "리안헤어 청라호수공원점",
+    "rank": 30,
+    "rank_with_ads": 3,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-16",
+    "datetime": "2026-08-16 12:47"
+  },
+  {
     "keyword": "청라미용실",
     "place_name": "리안헤어 청라호수공원점",
     "rank": 34,
@@ -33678,6 +33718,16 @@
     "note": "",
     "date": "2026-08-15",
     "datetime": "2026-08-15 12:44"
+  },
+  {
+    "keyword": "청라미용실",
+    "place_name": "리안헤어 청라호수공원점",
+    "rank": 30,
+    "rank_with_ads": 3,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-16",
+    "datetime": "2026-08-16 12:47"
   },
   {
     "keyword": "청라호수공원미용실",
@@ -34070,6 +34120,16 @@
     "datetime": "2026-08-15 12:44"
   },
   {
+    "keyword": "청라호수공원미용실",
+    "place_name": "리안헤어 청라호수공원점",
+    "rank": 12,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-16",
+    "datetime": "2026-08-16 12:47"
+  },
+  {
     "keyword": "계양구미용실",
     "place_name": "리안헤어 작전역점",
     "rank": 11,
@@ -34450,6 +34510,16 @@
     "datetime": "2026-08-15 12:44"
   },
   {
+    "keyword": "계양구미용실",
+    "place_name": "리안헤어 작전역점",
+    "rank": 17,
+    "rank_with_ads": 9,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-16",
+    "datetime": "2026-08-16 12:47"
+  },
+  {
     "keyword": "작전동미용실",
     "place_name": "리안헤어 작전역점",
     "rank": 1,
@@ -34828,6 +34898,16 @@
     "note": "",
     "date": "2026-08-15",
     "datetime": "2026-08-15 12:44"
+  },
+  {
+    "keyword": "작전동미용실",
+    "place_name": "리안헤어 작전역점",
+    "rank": 5,
+    "rank_with_ads": 3,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-16",
+    "datetime": "2026-08-16 12:47"
   },
   {
     "keyword": "작전역미용실",
@@ -35220,6 +35300,16 @@
     "datetime": "2026-08-15 12:45"
   },
   {
+    "keyword": "작전역미용실",
+    "place_name": "리안헤어 작전역점",
+    "rank": 14,
+    "rank_with_ads": 3,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-16",
+    "datetime": "2026-08-16 12:47"
+  },
+  {
     "keyword": "강서구미용실",
     "place_name": "리안헤어 화곡역점",
     "rank": 77,
@@ -35598,6 +35688,16 @@
     "note": "",
     "date": "2026-08-15",
     "datetime": "2026-08-15 12:45"
+  },
+  {
+    "keyword": "강서구미용실",
+    "place_name": "리안헤어 화곡역점",
+    "rank": 77,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-16",
+    "datetime": "2026-08-16 12:48"
   },
   {
     "keyword": "화곡동미용실",
