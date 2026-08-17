@@ -36240,6 +36240,16 @@
     "datetime": "2026-08-16 12:47"
   },
   {
+    "keyword": "작전역미용실",
+    "place_name": "리안헤어 작전역점",
+    "rank": 12,
+    "rank_with_ads": 3,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-17",
+    "datetime": "2026-08-17 12:46"
+  },
+  {
     "keyword": "강서구미용실",
     "place_name": "리안헤어 화곡역점",
     "rank": 77,
@@ -36628,6 +36638,16 @@
     "note": "",
     "date": "2026-08-16",
     "datetime": "2026-08-16 12:48"
+  },
+  {
+    "keyword": "강서구미용실",
+    "place_name": "리안헤어 화곡역점",
+    "rank": 94,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-17",
+    "datetime": "2026-08-17 12:46"
   },
   {
     "keyword": "화곡동미용실",
@@ -37020,6 +37040,16 @@
     "datetime": "2026-08-16 12:48"
   },
   {
+    "keyword": "화곡동미용실",
+    "place_name": "리안헤어 화곡역점",
+    "rank": 19,
+    "rank_with_ads": 30,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-17",
+    "datetime": "2026-08-17 12:46"
+  },
+  {
     "keyword": "화곡역미용실",
     "place_name": "리안헤어 화곡역점",
     "rank": 8,
@@ -37408,6 +37438,16 @@
     "note": "",
     "date": "2026-08-16",
     "datetime": "2026-08-16 12:48"
+  },
+  {
+    "keyword": "화곡역미용실",
+    "place_name": "리안헤어 화곡역점",
+    "rank": 10,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-17",
+    "datetime": "2026-08-17 12:46"
   },
   {
     "keyword": "강서구미용실",
@@ -37800,6 +37840,16 @@
     "datetime": "2026-08-16 12:49"
   },
   {
+    "keyword": "강서구미용실",
+    "place_name": "리안헤어 가양자이타워점",
+    "rank": 133,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-17",
+    "datetime": "2026-08-17 12:47"
+  },
+  {
     "keyword": "가양동미용실",
     "place_name": "리안헤어 가양자이타워점",
     "rank": 2,
@@ -38190,6 +38240,16 @@
     "datetime": "2026-08-16 12:49"
   },
   {
+    "keyword": "가양동미용실",
+    "place_name": "리안헤어 가양자이타워점",
+    "rank": 4,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-17",
+    "datetime": "2026-08-17 12:47"
+  },
+  {
     "keyword": "가양역미용실",
     "place_name": "리안헤어 가양자이타워점",
     "rank": 3,
@@ -38578,6 +38638,16 @@
     "note": "",
     "date": "2026-08-16",
     "datetime": "2026-08-16 12:49"
+  },
+  {
+    "keyword": "가양역미용실",
+    "place_name": "리안헤어 가양자이타워점",
+    "rank": 9,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-17",
+    "datetime": "2026-08-17 12:47"
   },
   {
     "keyword": "대학로미용실",
@@ -40628,6 +40698,16 @@
     "note": "",
     "date": "2026-08-16",
     "datetime": "2026-08-16 12:50"
+  },
+  {
+    "keyword": "청주미용실",
+    "place_name": "리안헤어 청주지웰시티점",
+    "rank": 45,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-17",
+    "datetime": "2026-08-17 12:48"
   },
   {
     "keyword": "복대동미용실",
