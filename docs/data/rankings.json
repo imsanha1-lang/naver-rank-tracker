@@ -43500,6 +43500,16 @@
     "datetime": "2026-08-16 12:53"
   },
   {
+    "keyword": "마포미용실",
+    "place_name": "리안헤어 마포역점",
+    "rank": 239,
+    "rank_with_ads": 17,
+    "page": 4,
+    "note": "",
+    "date": "2026-08-17",
+    "datetime": "2026-08-17 12:51"
+  },
+  {
     "keyword": "마포역미용실",
     "place_name": "리안헤어 마포역점",
     "rank": 6,
@@ -43888,6 +43898,16 @@
     "note": "",
     "date": "2026-08-16",
     "datetime": "2026-08-16 12:53"
+  },
+  {
+    "keyword": "마포역미용실",
+    "place_name": "리안헤어 마포역점",
+    "rank": 12,
+    "rank_with_ads": 9,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-17",
+    "datetime": "2026-08-17 12:51"
   },
   {
     "keyword": "청주미용실",
@@ -44280,6 +44300,16 @@
     "datetime": "2026-08-16 13:11"
   },
   {
+    "keyword": "청주미용실",
+    "place_name": "리안헤어 모충동 서원대점",
+    "rank": 128,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-17",
+    "datetime": "2026-08-17 12:52"
+  },
+  {
     "keyword": "모충동미용실",
     "place_name": "리안헤어 모충동 서원대점",
     "rank": 4,
@@ -44668,6 +44698,16 @@
     "note": "",
     "date": "2026-08-16",
     "datetime": "2026-08-16 13:11"
+  },
+  {
+    "keyword": "모충동미용실",
+    "place_name": "리안헤어 모충동 서원대점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-17",
+    "datetime": "2026-08-17 12:52"
   },
   {
     "keyword": "서원대미용실",
@@ -45060,6 +45100,16 @@
     "datetime": "2026-08-16 13:11"
   },
   {
+    "keyword": "서원대미용실",
+    "place_name": "리안헤어 모충동 서원대점",
+    "rank": 10,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-17",
+    "datetime": "2026-08-17 12:52"
+  },
+  {
     "keyword": "검단미용실",
     "place_name": "리안헤어 마전역점",
     "rank": 29,
@@ -45448,6 +45498,16 @@
     "note": "",
     "date": "2026-08-16",
     "datetime": "2026-08-16 13:12"
+  },
+  {
+    "keyword": "검단미용실",
+    "place_name": "리안헤어 마전역점",
+    "rank": 105,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-17",
+    "datetime": "2026-08-17 12:53"
   },
   {
     "keyword": "마전동미용실",
