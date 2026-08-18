@@ -170,6 +170,16 @@
     "datetime": "2026-08-18 12:00"
   },
   {
+    "keyword": "압구정미용실",
+    "place_name": "리안헤어 블랙 압구정로데오점",
+    "rank": 27,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-18",
+    "datetime": "2026-08-18 15:38"
+  },
+  {
     "keyword": "압구정로데오미용실",
     "place_name": "리안헤어 블랙 압구정로데오점",
     "rank": 113,
@@ -141810,6 +141820,16 @@
     "datetime": "2026-08-17 12:11"
   },
   {
+    "keyword": "장안구미용실",
+    "place_name": "에이치스타일 정자점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: 매장 위치 이동 실패: 에이치스타일 정자점",
+    "date": "2026-08-18",
+    "datetime": "2026-08-18 14:24"
+  },
+  {
     "keyword": "수원정자동미용실",
     "place_name": "에이치스타일 정자점",
     "rank": 19,
@@ -142128,6 +142148,16 @@
     "note": "",
     "date": "2026-08-17",
     "datetime": "2026-08-17 12:12"
+  },
+  {
+    "keyword": "수원정자동미용실",
+    "place_name": "에이치스타일 정자점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: 매장 위치 이동 실패: 에이치스타일 정자점",
+    "date": "2026-08-18",
+    "datetime": "2026-08-18 14:24"
   },
   {
     "keyword": "안양미용실",
