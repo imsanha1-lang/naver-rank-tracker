@@ -4510,6 +4510,16 @@
     "datetime": "2026-08-17 12:09"
   },
   {
+    "keyword": "장안구미용실",
+    "place_name": "리안헤어 수원정자sk뷰점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: 매장 위치 이동 실패: 리안헤어 수원정자sk뷰점",
+    "date": "2026-08-18",
+    "datetime": "2026-08-18 12:11"
+  },
+  {
     "keyword": "금천구청역미용실",
     "place_name": "리안헤어 시흥사거리점",
     "rank": 18,
@@ -4898,6 +4908,16 @@
     "note": "",
     "date": "2026-08-17",
     "datetime": "2026-08-17 12:09"
+  },
+  {
+    "keyword": "금천구청역미용실",
+    "place_name": "리안헤어 시흥사거리점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: 매장 위치 이동 실패: 리안헤어 시흥사거리점",
+    "date": "2026-08-18",
+    "datetime": "2026-08-18 12:12"
   },
   {
     "keyword": "장안미용실",
@@ -62170,6 +62190,16 @@
     "datetime": "2026-08-17 12:09"
   },
   {
+    "keyword": "수원정자동미용실",
+    "place_name": "리안헤어 수원정자sk뷰점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: 매장 위치 이동 실패: 리안헤어 수원정자sk뷰점",
+    "date": "2026-08-18",
+    "datetime": "2026-08-18 12:11"
+  },
+  {
     "keyword": "정자SK뷰미용실",
     "place_name": "리안헤어 수원정자sk뷰점",
     "rank": 5,
@@ -62578,6 +62608,16 @@
     "note": "",
     "date": "2026-08-17",
     "datetime": "2026-08-17 12:09"
+  },
+  {
+    "keyword": "정자SK뷰미용실",
+    "place_name": "리안헤어 수원정자sk뷰점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: 매장 위치 이동 실패: 리안헤어 수원정자sk뷰점",
+    "date": "2026-08-18",
+    "datetime": "2026-08-18 12:11"
   },
   {
     "keyword": "강서구미용실",
@@ -144370,6 +144410,16 @@
     "datetime": "2026-08-17 12:08"
   },
   {
+    "keyword": "수서동미용실",
+    "place_name": "리안헤어 수서역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: 매장 위치 이동 실패: 리안헤어 수서역점",
+    "date": "2026-08-18",
+    "datetime": "2026-08-18 12:09"
+  },
+  {
     "keyword": "수서역미용실",
     "place_name": "리안헤어 수서역점",
     "rank": 2,
@@ -144778,6 +144828,16 @@
     "note": "",
     "date": "2026-08-17",
     "datetime": "2026-08-17 12:08"
+  },
+  {
+    "keyword": "수서역미용실",
+    "place_name": "리안헤어 수서역점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: 매장 위치 이동 실패: 리안헤어 수서역점",
+    "date": "2026-08-18",
+    "datetime": "2026-08-18 12:10"
   },
   {
     "keyword": "강동구미용실",
