@@ -180,6 +180,16 @@
     "datetime": "2026-08-18 15:38"
   },
   {
+    "keyword": "압구정미용실",
+    "place_name": "리안헤어 블랙 압구정로데오점",
+    "rank": 27,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-18",
+    "datetime": "2026-08-18 15:52"
+  },
+  {
     "keyword": "압구정로데오미용실",
     "place_name": "리안헤어 블랙 압구정로데오점",
     "rank": 113,
@@ -350,6 +360,16 @@
     "datetime": "2026-08-18 12:00"
   },
   {
+    "keyword": "압구정로데오미용실",
+    "place_name": "리안헤어 블랙 압구정로데오점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=151",
+    "date": "2026-08-18",
+    "datetime": "2026-08-18 15:38"
+  },
+  {
     "keyword": "압구정로데오역미용실",
     "place_name": "리안헤어 블랙 압구정로데오점",
     "rank": 124,
@@ -518,6 +538,16 @@
     "note": "오류: 매장 위치 이동 실패: 리안헤어 블랙 압구정로데오점",
     "date": "2026-08-18",
     "datetime": "2026-08-18 12:00"
+  },
+  {
+    "keyword": "압구정로데오역미용실",
+    "place_name": "리안헤어 블랙 압구정로데오점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=151",
+    "date": "2026-08-18",
+    "datetime": "2026-08-18 15:38"
   },
   {
     "keyword": "평택용죽미용실",
