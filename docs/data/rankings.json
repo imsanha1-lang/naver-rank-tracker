@@ -128140,6 +128140,16 @@
     "datetime": "2026-08-17 12:11"
   },
   {
+    "keyword": "내포미용실",
+    "place_name": "리안헤어 충남도청점",
+    "rank": null,
+    "rank_with_ads": null,
+    "page": null,
+    "note": "오류: HTTPConnectionPool(host='localhost', port=19183): Read timed out. (read timeout=120)",
+    "date": "2026-08-18",
+    "datetime": "2026-08-18 13:12"
+  },
+  {
     "keyword": "충남도청미용실",
     "place_name": "리안헤어 충남도청점",
     "rank": 1,
