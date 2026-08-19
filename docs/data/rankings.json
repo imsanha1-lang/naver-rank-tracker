@@ -85980,6 +85980,16 @@
     "datetime": "2026-08-18 17:09"
   },
   {
+    "keyword": "상도미용실",
+    "place_name": "리안헤어 상도역점",
+    "rank": 8,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 13:45"
+  },
+  {
     "keyword": "상도역미용실",
     "place_name": "리안헤어 상도역점",
     "rank": 1,
@@ -86390,6 +86400,16 @@
     "datetime": "2026-08-18 17:09"
   },
   {
+    "keyword": "상도역미용실",
+    "place_name": "리안헤어 상도역점",
+    "rank": 1,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 13:45"
+  },
+  {
     "keyword": "노원미용실",
     "place_name": "리안헤어 하계점",
     "rank": 177,
@@ -86738,6 +86758,16 @@
     "note": "",
     "date": "2026-08-18",
     "datetime": "2026-08-18 17:10"
+  },
+  {
+    "keyword": "노원미용실",
+    "place_name": "리안헤어 하계점",
+    "rank": 110,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 13:47"
   },
   {
     "keyword": "하계미용실",
@@ -87140,6 +87170,16 @@
     "datetime": "2026-08-18 17:10"
   },
   {
+    "keyword": "하계미용실",
+    "place_name": "리안헤어 하계점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 13:47"
+  },
+  {
     "keyword": "하계동미용실",
     "place_name": "리안헤어 하계점",
     "rank": 8,
@@ -87540,6 +87580,16 @@
     "datetime": "2026-08-18 17:10"
   },
   {
+    "keyword": "하계동미용실",
+    "place_name": "리안헤어 하계점",
+    "rank": 4,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 13:47"
+  },
+  {
     "keyword": "은평구미용실",
     "place_name": "리안헤어 녹번역점",
     "rank": 50,
@@ -87938,6 +87988,16 @@
     "note": "",
     "date": "2026-08-18",
     "datetime": "2026-08-18 17:10"
+  },
+  {
+    "keyword": "은평구미용실",
+    "place_name": "리안헤어 녹번역점",
+    "rank": 15,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 13:48"
   },
   {
     "keyword": "녹번동미용실",
