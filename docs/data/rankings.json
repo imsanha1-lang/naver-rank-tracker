@@ -4380,6 +4380,16 @@
     "datetime": "2026-08-18 15:59"
   },
   {
+    "keyword": "수서미용실",
+    "place_name": "리안헤어 수서역점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 12:11"
+  },
+  {
     "keyword": "장안구미용실",
     "place_name": "리안헤어 수원정자sk뷰점",
     "rank": 38,
@@ -4788,6 +4798,16 @@
     "note": "",
     "date": "2026-08-18",
     "datetime": "2026-08-18 16:00"
+  },
+  {
+    "keyword": "장안구미용실",
+    "place_name": "리안헤어 수원정자sk뷰점",
+    "rank": 51,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 12:18"
   },
   {
     "keyword": "금천구청역미용실",
@@ -68050,6 +68070,16 @@
     "datetime": "2026-08-18 15:59"
   },
   {
+    "keyword": "양천구미용실",
+    "place_name": "리안헤어 목동신트리공원점",
+    "rank": 48,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 12:10"
+  },
+  {
     "keyword": "신정동미용실",
     "place_name": "리안헤어 목동신트리공원점",
     "rank": 12,
@@ -68478,6 +68508,16 @@
     "note": "",
     "date": "2026-08-18",
     "datetime": "2026-08-18 15:59"
+  },
+  {
+    "keyword": "신정동미용실",
+    "place_name": "리안헤어 목동신트리공원점",
+    "rank": 16,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 12:10"
   },
   {
     "keyword": "광주북구미용실",
@@ -148520,6 +148560,16 @@
     "datetime": "2026-08-18 15:59"
   },
   {
+    "keyword": "수서동미용실",
+    "place_name": "리안헤어 수서역점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 12:11"
+  },
+  {
     "keyword": "수서역미용실",
     "place_name": "리안헤어 수서역점",
     "rank": 2,
@@ -148948,6 +148998,16 @@
     "note": "",
     "date": "2026-08-18",
     "datetime": "2026-08-18 16:00"
+  },
+  {
+    "keyword": "수서역미용실",
+    "place_name": "리안헤어 수서역점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 12:11"
   },
   {
     "keyword": "강동구미용실",
