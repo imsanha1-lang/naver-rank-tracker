@@ -7250,6 +7250,16 @@
     "datetime": "2026-08-18 16:03"
   },
   {
+    "keyword": "노량진역미용실",
+    "place_name": "H STYLE 헤어살롱 노량진점",
+    "rank": 3,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 12:23"
+  },
+  {
     "keyword": "동작구미용실",
     "place_name": "H STYLE 헤어살롱 노량진점",
     "rank": 11,
@@ -7670,6 +7680,16 @@
     "datetime": "2026-08-18 16:03"
   },
   {
+    "keyword": "동작구미용실",
+    "place_name": "H STYLE 헤어살롱 노량진점",
+    "rank": 14,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 12:23"
+  },
+  {
     "keyword": "강남미용실",
     "place_name": "리안헤어 강남양재역점",
     "rank": null,
@@ -8068,6 +8088,16 @@
     "note": "",
     "date": "2026-08-18",
     "datetime": "2026-08-18 16:04"
+  },
+  {
+    "keyword": "강남미용실",
+    "place_name": "리안헤어 강남양재역점",
+    "rank": 259,
+    "rank_with_ads": 17,
+    "page": 4,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 12:25"
   },
   {
     "keyword": "고덕미용실",
@@ -31070,6 +31100,16 @@
     "datetime": "2026-08-18 16:04"
   },
   {
+    "keyword": "도곡동미용실",
+    "place_name": "리안헤어 강남양재역점",
+    "rank": 5,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 12:25"
+  },
+  {
     "keyword": "양재역미용실",
     "place_name": "리안헤어 강남양재역점",
     "rank": 15,
@@ -31488,6 +31528,16 @@
     "note": "",
     "date": "2026-08-18",
     "datetime": "2026-08-18 16:04"
+  },
+  {
+    "keyword": "양재역미용실",
+    "place_name": "리안헤어 강남양재역점",
+    "rank": 11,
+    "rank_with_ads": 9,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 12:25"
   },
   {
     "keyword": "양천구미용실",
