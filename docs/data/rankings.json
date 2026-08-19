@@ -55970,6 +55970,16 @@
     "datetime": "2026-08-18 16:42"
   },
   {
+    "keyword": "응암역미용실",
+    "place_name": "보그헤어 응암역2호점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 13:22"
+  },
+  {
     "keyword": "구로구미용실",
     "place_name": "리안헤어 오류점",
     "rank": 22,
@@ -56380,6 +56390,16 @@
     "datetime": "2026-08-18 16:43"
   },
   {
+    "keyword": "구로구미용실",
+    "place_name": "리안헤어 오류점",
+    "rank": 9,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 13:23"
+  },
+  {
     "keyword": "오류동미용실",
     "place_name": "리안헤어 오류점",
     "rank": 2,
@@ -56778,6 +56798,16 @@
     "note": "",
     "date": "2026-08-18",
     "datetime": "2026-08-18 16:43"
+  },
+  {
+    "keyword": "오류동미용실",
+    "place_name": "리안헤어 오류점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 13:23"
   },
   {
     "keyword": "오류동역미용실",
@@ -57180,6 +57210,16 @@
     "datetime": "2026-08-18 16:43"
   },
   {
+    "keyword": "오류동역미용실",
+    "place_name": "리안헤어 오류점",
+    "rank": 5,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 13:23"
+  },
+  {
     "keyword": "분당미용실",
     "place_name": "리안헤어 야탑점",
     "rank": 67,
@@ -57578,6 +57618,16 @@
     "note": "",
     "date": "2026-08-18",
     "datetime": "2026-08-18 16:44"
+  },
+  {
+    "keyword": "분당미용실",
+    "place_name": "리안헤어 야탑점",
+    "rank": 80,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 13:24"
   },
   {
     "keyword": "분당야탑미용실",
@@ -165490,6 +165540,16 @@
     "datetime": "2026-08-18 16:42"
   },
   {
+    "keyword": "은평구미용실",
+    "place_name": "보그헤어 응암역2호점",
+    "rank": 16,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 13:22"
+  },
+  {
     "keyword": "신사동미용실",
     "place_name": "보그헤어 응암역2호점",
     "rank": 2,
@@ -165918,5 +165978,15 @@
     "note": "",
     "date": "2026-08-18",
     "datetime": "2026-08-18 16:43"
+  },
+  {
+    "keyword": "신사동미용실",
+    "place_name": "보그헤어 응암역2호점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-19",
+    "datetime": "2026-08-19 13:22"
   }
 ]
