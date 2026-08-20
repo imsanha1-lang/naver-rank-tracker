@@ -36320,6 +36320,16 @@
     "datetime": "2026-08-19 13:06"
   },
   {
+    "keyword": "동선동미용실",
+    "place_name": "리안헤어 성신여대점",
+    "rank": 27,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:10"
+  },
+  {
     "keyword": "성신여대미용실",
     "place_name": "리안헤어 성신여대점",
     "rank": 16,
@@ -36738,6 +36748,16 @@
     "note": "",
     "date": "2026-08-19",
     "datetime": "2026-08-19 13:06"
+  },
+  {
+    "keyword": "성신여대미용실",
+    "place_name": "리안헤어 성신여대점",
+    "rank": 30,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:10"
   },
   {
     "keyword": "인천청라미용실",
@@ -37160,6 +37180,16 @@
     "datetime": "2026-08-19 13:07"
   },
   {
+    "keyword": "인천청라미용실",
+    "place_name": "리안헤어 청라호수공원점",
+    "rank": 21,
+    "rank_with_ads": 10,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:11"
+  },
+  {
     "keyword": "청라미용실",
     "place_name": "리안헤어 청라호수공원점",
     "rank": 34,
@@ -37488,6 +37518,16 @@
     "note": "",
     "date": "2026-08-19",
     "datetime": "2026-08-19 13:07"
+  },
+  {
+    "keyword": "청라미용실",
+    "place_name": "리안헤어 청라호수공원점",
+    "rank": 21,
+    "rank_with_ads": 10,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:11"
   },
   {
     "keyword": "청라호수공원미용실",
@@ -37920,6 +37960,16 @@
     "datetime": "2026-08-19 13:07"
   },
   {
+    "keyword": "청라호수공원미용실",
+    "place_name": "리안헤어 청라호수공원점",
+    "rank": 10,
+    "rank_with_ads": 9,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:11"
+  },
+  {
     "keyword": "계양구미용실",
     "place_name": "리안헤어 작전역점",
     "rank": 11,
@@ -38338,6 +38388,16 @@
     "note": "",
     "date": "2026-08-19",
     "datetime": "2026-08-19 13:08"
+  },
+  {
+    "keyword": "계양구미용실",
+    "place_name": "리안헤어 작전역점",
+    "rank": 18,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:12"
   },
   {
     "keyword": "작전동미용실",
