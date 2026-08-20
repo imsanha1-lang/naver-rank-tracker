@@ -54360,6 +54360,16 @@
     "datetime": "2026-08-19 13:20"
   },
   {
+    "keyword": "오창미용실",
+    "place_name": "리안헤어 오창점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:26"
+  },
+  {
     "keyword": "오창읍미용실",
     "place_name": "리안헤어 오창점",
     "rank": 1,
@@ -54768,6 +54778,16 @@
     "note": "",
     "date": "2026-08-19",
     "datetime": "2026-08-19 13:20"
+  },
+  {
+    "keyword": "오창읍미용실",
+    "place_name": "리안헤어 오창점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:26"
   },
   {
     "keyword": "주안동미용실",
@@ -56040,6 +56060,16 @@
     "datetime": "2026-08-19 13:21"
   },
   {
+    "keyword": "부천소사미용실",
+    "place_name": "리안헤어 소사범박점",
+    "rank": 22,
+    "rank_with_ads": 3,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:27"
+  },
+  {
     "keyword": "범박동미용실",
     "place_name": "리안헤어 소사범박점",
     "rank": 10,
@@ -56450,6 +56480,16 @@
     "datetime": "2026-08-19 13:21"
   },
   {
+    "keyword": "범박동미용실",
+    "place_name": "리안헤어 소사범박점",
+    "rank": 1,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:27"
+  },
+  {
     "keyword": "범박미용실",
     "place_name": "리안헤어 소사범박점",
     "rank": 10,
@@ -56858,6 +56898,16 @@
     "note": "",
     "date": "2026-08-19",
     "datetime": "2026-08-19 13:21"
+  },
+  {
+    "keyword": "범박미용실",
+    "place_name": "리안헤어 소사범박점",
+    "rank": 1,
+    "rank_with_ads": 1,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:27"
   },
   {
     "keyword": "응암역미용실",
@@ -57280,6 +57330,16 @@
     "datetime": "2026-08-19 13:22"
   },
   {
+    "keyword": "응암역미용실",
+    "place_name": "보그헤어 응암역2호점",
+    "rank": 2,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:28"
+  },
+  {
     "keyword": "구로구미용실",
     "place_name": "리안헤어 오류점",
     "rank": 22,
@@ -57698,6 +57758,16 @@
     "note": "",
     "date": "2026-08-19",
     "datetime": "2026-08-19 13:23"
+  },
+  {
+    "keyword": "구로구미용실",
+    "place_name": "리안헤어 오류점",
+    "rank": 11,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:29"
   },
   {
     "keyword": "오류동미용실",
@@ -169570,6 +169640,16 @@
     "datetime": "2026-08-19 13:22"
   },
   {
+    "keyword": "은평구미용실",
+    "place_name": "보그헤어 응암역2호점",
+    "rank": 16,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:28"
+  },
+  {
     "keyword": "신사동미용실",
     "place_name": "보그헤어 응암역2호점",
     "rank": 2,
@@ -170008,5 +170088,15 @@
     "note": "",
     "date": "2026-08-19",
     "datetime": "2026-08-19 13:22"
+  },
+  {
+    "keyword": "신사동미용실",
+    "place_name": "보그헤어 응암역2호점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:28"
   }
 ]
