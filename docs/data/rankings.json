@@ -38820,6 +38820,16 @@
     "datetime": "2026-08-19 13:08"
   },
   {
+    "keyword": "작전동미용실",
+    "place_name": "리안헤어 작전역점",
+    "rank": 6,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:12"
+  },
+  {
     "keyword": "작전역미용실",
     "place_name": "리안헤어 작전역점",
     "rank": 9,
@@ -39250,6 +39260,16 @@
     "datetime": "2026-08-19 13:08"
   },
   {
+    "keyword": "작전역미용실",
+    "place_name": "리안헤어 작전역점",
+    "rank": 13,
+    "rank_with_ads": 2,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:12"
+  },
+  {
     "keyword": "강서구미용실",
     "place_name": "리안헤어 화곡역점",
     "rank": 77,
@@ -39668,6 +39688,16 @@
     "note": "",
     "date": "2026-08-19",
     "datetime": "2026-08-19 13:09"
+  },
+  {
+    "keyword": "강서구미용실",
+    "place_name": "리안헤어 화곡역점",
+    "rank": 121,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:13"
   },
   {
     "keyword": "화곡동미용실",
@@ -40090,6 +40120,16 @@
     "datetime": "2026-08-19 13:09"
   },
   {
+    "keyword": "화곡동미용실",
+    "place_name": "리안헤어 화곡역점",
+    "rank": 25,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:14"
+  },
+  {
     "keyword": "화곡역미용실",
     "place_name": "리안헤어 화곡역점",
     "rank": 8,
@@ -40510,6 +40550,16 @@
     "datetime": "2026-08-19 13:09"
   },
   {
+    "keyword": "화곡역미용실",
+    "place_name": "리안헤어 화곡역점",
+    "rank": 13,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:14"
+  },
+  {
     "keyword": "강서구미용실",
     "place_name": "리안헤어 가양자이타워점",
     "rank": 50,
@@ -40928,6 +40978,16 @@
     "note": "",
     "date": "2026-08-19",
     "datetime": "2026-08-19 13:11"
+  },
+  {
+    "keyword": "강서구미용실",
+    "place_name": "리안헤어 가양자이타워점",
+    "rank": 128,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 13:15"
   },
   {
     "keyword": "가양동미용실",
