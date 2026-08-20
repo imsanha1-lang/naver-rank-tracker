@@ -124240,6 +124240,16 @@
     "datetime": "2026-08-19 14:12"
   },
   {
+    "keyword": "성북구미용실",
+    "place_name": "리안헤어 정릉시장점",
+    "rank": 30,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 14:29"
+  },
+  {
     "keyword": "정릉동미용실",
     "place_name": "리안헤어 정릉시장점",
     "rank": 1,
@@ -124638,6 +124648,16 @@
     "note": "",
     "date": "2026-08-19",
     "datetime": "2026-08-19 14:13"
+  },
+  {
+    "keyword": "정릉동미용실",
+    "place_name": "리안헤어 정릉시장점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 14:30"
   },
   {
     "keyword": "정릉시장미용실",
@@ -125040,6 +125060,16 @@
     "datetime": "2026-08-19 14:13"
   },
   {
+    "keyword": "정릉시장미용실",
+    "place_name": "리안헤어 정릉시장점",
+    "rank": 1,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 14:30"
+  },
+  {
     "keyword": "성북구미용실",
     "place_name": "리안헤어 한성대역점",
     "rank": 81,
@@ -125438,6 +125468,16 @@
     "note": "",
     "date": "2026-08-19",
     "datetime": "2026-08-19 14:14"
+  },
+  {
+    "keyword": "성북구미용실",
+    "place_name": "리안헤어 한성대역점",
+    "rank": 73,
+    "rank_with_ads": null,
+    "page": 2,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 14:31"
   },
   {
     "keyword": "한성대미용실",
@@ -126680,6 +126720,16 @@
     "datetime": "2026-08-19 14:11"
   },
   {
+    "keyword": "동작구미용실",
+    "place_name": "리안헤어 노량진점",
+    "rank": 18,
+    "rank_with_ads": null,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 14:29"
+  },
+  {
     "keyword": "노량진미용실",
     "place_name": "리안헤어 노량진점",
     "rank": 3,
@@ -127078,6 +127128,16 @@
     "note": "",
     "date": "2026-08-19",
     "datetime": "2026-08-19 14:12"
+  },
+  {
+    "keyword": "노량진미용실",
+    "place_name": "리안헤어 노량진점",
+    "rank": 3,
+    "rank_with_ads": 3,
+    "page": 1,
+    "note": "",
+    "date": "2026-08-20",
+    "datetime": "2026-08-20 14:29"
   },
   {
     "keyword": "개봉동미용실",
